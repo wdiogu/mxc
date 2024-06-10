@@ -1,0 +1,586 @@
+node,line,stop_label,psuedo_zone
+98037,Lakeshore West A E,APP,9818
+98036,Lakeshore West A E,BRN,9817
+98035,Lakeshore West A E,OAK,9816
+98034,Lakeshore West A E,CLR,9815
+98033,Lakeshore West A E,PRC,9814
+98027,Lakeshore West A E,EXH,9811
+98012,Lakeshore West A E,LAKW,9801
+98037,Lakeshore West B E,APP,9818
+98036,Lakeshore West B E,BRN,9817
+98035,Lakeshore West B E,OAK,9816
+98034,Lakeshore West B E,CLR,9815
+98033,Lakeshore West B E,PRC,9814
+98032,Lakeshore West B E,LNG,9813
+98031,Lakeshore West B E,MIM,9812
+98061,Lakeshore West B E,0,9897
+98027,Lakeshore West B E,EXH,9811
+98012,Lakeshore West B E,LAKW,9801
+98012,Lakeshore West B W,LAKW,9801
+98027,Lakeshore West B W,EXH,9811
+98061,Lakeshore West B W,0,9897
+98031,Lakeshore West B W,MIM,9812
+98032,Lakeshore West B W,LNG,9813
+98033,Lakeshore West B W,PRC,9814
+98034,Lakeshore West B W,CLR,9815
+98035,Lakeshore West B W,OAK,9816
+98036,Lakeshore West B W,BRN,9817
+98037,Lakeshore West B W,APP,9818
+98038,Lakeshore West B W,BUR,9819
+98038,Lakeshore West D E,BUR,9819
+98037,Lakeshore West D E,APP,9818
+98036,Lakeshore West D E,BRN,9817
+98035,Lakeshore West D E,OAK,9816
+98034,Lakeshore West D E,CLR,9815
+98033,Lakeshore West D E,PRC,9814
+98032,Lakeshore West D E,LNG,9813
+98031,Lakeshore West D E,MIM,9812
+98061,Lakeshore West D E,0,9897
+98027,Lakeshore West D E,EXH,9811
+98012,Lakeshore West D E,LAKW,9801
+98044,Lakeshore West E E,HAM,9821
+98039,Lakeshore West E E,ALD,9820
+98038,Lakeshore West E E,BUR,9819
+98037,Lakeshore West E E,APP,9818
+98036,Lakeshore West E E,BRN,9817
+98035,Lakeshore West E E,OAK,9816
+98034,Lakeshore West E E,CLR,9815
+98033,Lakeshore West E E,PRC,9814
+98027,Lakeshore West E E,EXH,9811
+98012,Lakeshore West E E,LAKW,9801
+98044,Lakeshore West F E,HAM,9821
+98039,Lakeshore West F E,ALD,9820
+98038,Lakeshore West F E,BUR,9819
+98037,Lakeshore West F E,APP,9818
+98036,Lakeshore West F E,BRN,9817
+98035,Lakeshore West F E,OAK,9816
+98034,Lakeshore West F E,CLR,9815
+98033,Lakeshore West F E,PRC,9814
+98027,Lakeshore West F E,EXH,9811
+98012,Lakeshore West F E,LAKW,9801
+98012,Lakeshore West F W,LAKW,9801
+98027,Lakeshore West F W,EXH,9811
+98033,Lakeshore West F W,PRC,9814
+98034,Lakeshore West F W,CLR,9815
+98035,Lakeshore West F W,OAK,9816
+98038,Lakeshore West F W,BUR,9819
+98039,Lakeshore West F W,ALD,9820
+98042,Lakeshore West F W,0,9870
+98203,Lakeshore West H E,CNFD,9869
+98042,Lakeshore West H E,0,9870
+98039,Lakeshore West H E,ALD,9820
+98038,Lakeshore West H E,BUR,9819
+98035,Lakeshore West H E,OAK,9816
+98034,Lakeshore West H E,CLR,9815
+98033,Lakeshore West H E,PRC,9814
+98027,Lakeshore West H E,EXH,9811
+98012,Lakeshore West H E,LAKW,9801
+98012,Lakeshore West H W,LAKW,9801
+98027,Lakeshore West H W,EXH,9811
+98033,Lakeshore West H W,PRC,9814
+98034,Lakeshore West H W,CLR,9815
+98035,Lakeshore West H W,OAK,9816
+98038,Lakeshore West H W,BUR,9819
+98039,Lakeshore West H W,ALD,9820
+98042,Lakeshore West H W,0,9870
+98203,Lakeshore West H W,CNFD,9869
+98203,Lakeshore West I E,CNFD,9869
+98042,Lakeshore West I E,0,9870
+98039,Lakeshore West I E,ALD,9820
+98038,Lakeshore West I E,BUR,9819
+98035,Lakeshore West I E,OAK,9816
+98034,Lakeshore West I E,CLR,9815
+98033,Lakeshore West I E,PRC,9814
+98027,Lakeshore West I E,EXH,9811
+98012,Lakeshore West I E,LAKW,9801
+98406,Lakeshore West J E,NIAG,9883
+98404,Lakeshore West J E,STCA,9882
+98206,Lakeshore West J E,CASA,9879
+98203,Lakeshore West J E,CNFD,9869
+98042,Lakeshore West J E,0,9870
+98039,Lakeshore West J E,ALD,9820
+98038,Lakeshore West J E,BUR,9819
+98035,Lakeshore West J E,OAK,9816
+98034,Lakeshore West J E,CLR,9815
+98033,Lakeshore West J E,PRC,9814
+98027,Lakeshore West J E,EXH,9811
+98012,Lakeshore West J E,LAKW,9801
+98012,Lakeshore West J W,LAKW,9801
+98027,Lakeshore West J W,EXH,9811
+98033,Lakeshore West J W,PRC,9814
+98034,Lakeshore West J W,CLR,9815
+98035,Lakeshore West J W,OAK,9816
+98038,Lakeshore West J W,BUR,9819
+98039,Lakeshore West J W,ALD,9820
+98042,Lakeshore West J W,0,9870
+98203,Lakeshore West J W,CNFD,9869
+98206,Lakeshore West J W,CASA,9879
+98404,Lakeshore West J W,STCA,9882
+98406,Lakeshore West J W,NIAG,9883
+98406,Lakeshore West K E,NIAG,9883
+98404,Lakeshore West K E,STCA,9882
+98206,Lakeshore West K E,CASA,9879
+98203,Lakeshore West K E,CNFD,9869
+98042,Lakeshore West K E,0,9870
+98039,Lakeshore West K E,ALD,9820
+98038,Lakeshore West K E,BUR,9819
+98035,Lakeshore West K E,OAK,9816
+98034,Lakeshore West K E,CLR,9815
+98033,Lakeshore West K E,PRC,9814
+98027,Lakeshore West K E,EXH,9811
+98012,Lakeshore West K E,LAKW,9801
+98406,Lakeshore West L E,NIAG,9883
+98404,Lakeshore West L E,STCA,9882
+98206,Lakeshore West L E,CASA,9879
+98203,Lakeshore West L E,CNFD,9869
+98081,Milton A E,0,9830
+98088,Milton A E,0,9932
+98082,Milton A E,0,9829
+98083,Milton A E,MDW,9828
+98084,Milton A E,STR,9827
+98086,Milton A E,ERN,9826
+98089,Milton A E,CKS,9825
+98090,Milton A E,DIX,9824
+98091,Milton A E,KIP,9823
+98014,Milton A E,MILT,9801
+98081,Milton B E,0,9830
+98088,Milton B E,0,9932
+98082,Milton B E,0,9829
+98083,Milton B E,MDW,9828
+98084,Milton B E,STR,9827
+98086,Milton B E,ERN,9826
+98089,Milton B E,CKS,9825
+98090,Milton B E,DIX,9824
+98091,Milton B E,KIP,9823
+98014,Milton B E,MILT,9801
+98126,Kitchener A E,0,9863
+98066,Kitchener A E,0,9894
+98051,Kitchener A E,0,9866
+98112,Kitchener A E,BLR,9822
+98016,Kitchener A E,KITC,9801
+98016,Kitchener A W,KITC,9801
+98112,Kitchener A W,BLR,9822
+98051,Kitchener A W,0,9866
+98066,Kitchener A W,0,9894
+98126,Kitchener A W,0,9863
+98126,Kitchener B E,0,9863
+98066,Kitchener B E,0,9894
+98114,Kitchener B E,WES,9831
+98210,Kitchener B E,STCL,9890
+98112,Kitchener B E,BLR,9822
+98207,Kitchener B E,LIBV,9886
+98016,Kitchener B E,KITC,9801
+98016,Kitchener B W,KITC,9801
+98207,Kitchener B W,LIBV,9886
+98112,Kitchener B W,BLR,9822
+98210,Kitchener B W,STCL,9890
+98114,Kitchener B W,WES,9831
+98066,Kitchener B W,0,9894
+98126,Kitchener B W,0,9863
+98158,Kitchener C E,MtPl,9836
+98122,Kitchener C E,BRM,9835
+98121,Kitchener C E,BRA,9834
+98120,Kitchener C E,MAL,9833
+98066,Kitchener C E,0,9894
+98114,Kitchener C E,WES,9831
+98051,Kitchener C E,0,9866
+98210,Kitchener C E,STCL,9890
+98112,Kitchener C E,BLR,9822
+98207,Kitchener C E,LIBV,9886
+98016,Kitchener C E,KITC,9801
+98016,Kitchener C W,KITC,9801
+98207,Kitchener C W,LIBV,9886
+98112,Kitchener C W,BLR,9822
+98210,Kitchener C W,STCL,9890
+98051,Kitchener C W,0,9866
+98114,Kitchener C W,WES,9831
+98066,Kitchener C W,0,9894
+98120,Kitchener C W,MAL,9833
+98121,Kitchener C W,BRA,9834
+98158,Kitchener D E,MtPl,9836
+98122,Kitchener D E,BRM,9835
+98121,Kitchener D E,BRA,9834
+98120,Kitchener D E,MAL,9833
+98066,Kitchener D E,0,9894
+98114,Kitchener D E,WES,9831
+98051,Kitchener D E,0,9866
+98210,Kitchener D E,STCL,9890
+98112,Kitchener D E,BLR,9822
+98207,Kitchener D E,LIBV,9886
+98016,Kitchener D E,KITC,9801
+98016,Kitchener D W,KITC,9801
+98207,Kitchener D W,LIBV,9886
+98112,Kitchener D W,BLR,9822
+98210,Kitchener D W,STCL,9890
+98051,Kitchener D W,0,9866
+98114,Kitchener D W,WES,9831
+98066,Kitchener D W,0,9894
+98120,Kitchener D W,MAL,9833
+98121,Kitchener D W,BRA,9834
+98122,Kitchener D W,BRM,9835
+98158,Kitchener D W,MtPl,9836
+98158,Kitchener E E,MtPl,9836
+98122,Kitchener E E,BRM,9835
+98121,Kitchener E E,BRA,9834
+98120,Kitchener E E,MAL,9833
+98066,Kitchener E E,0,9894
+98112,Kitchener E E,BLR,9822
+98016,Kitchener E E,KITC,9801
+98121,Kitchener G E,BRA,9834
+98120,Kitchener G E,MAL,9833
+98066,Kitchener G E,0,9894
+98114,Kitchener G E,WES,9831
+98051,Kitchener G E,0,9866
+98210,Kitchener G E,STCL,9890
+98112,Kitchener G E,BLR,9822
+98207,Kitchener G E,LIBV,9886
+98016,Kitchener G E,KITC,9801
+98016,Kitchener G W,KITC,9801
+98112,Kitchener G W,BLR,9822
+98066,Kitchener G W,0,9894
+98120,Kitchener G W,MAL,9833
+98121,Kitchener G W,BRA,9834
+98122,Kitchener G W,BRM,9835
+98158,Kitchener G W,MtPl,9836
+98174,Kitchener H E,0,9838
+98023,Kitchener H E,0,9875
+98003,Kitchener H E,0,9859
+98204,Kitchener H E,ACTN,9871
+98123,Kitchener H E,NRV,9837
+98158,Kitchener H E,MtPl,9836
+98122,Kitchener H E,BRM,9835
+98121,Kitchener H E,BRA,9834
+98120,Kitchener H E,MAL,9833
+98066,Kitchener H E,0,9894
+98112,Kitchener H E,BLR,9822
+98016,Kitchener H E,KITC,9801
+98174,Kitchener I E,0,9838
+98023,Kitchener I E,0,9875
+98003,Kitchener I E,0,9859
+98204,Kitchener I E,ACTN,9871
+98123,Kitchener I E,NRV,9837
+98158,Kitchener I E,MtPl,9836
+98122,Kitchener I E,BRM,9835
+98121,Kitchener I E,BRA,9834
+98120,Kitchener I E,MAL,9833
+98066,Kitchener I E,0,9894
+98112,Kitchener I E,BLR,9822
+98016,Kitchener I E,KITC,9801
+98016,Kitchener I W,KITC,9801
+98112,Kitchener I W,BLR,9822
+98066,Kitchener I W,0,9894
+98120,Kitchener I W,MAL,9833
+98121,Kitchener I W,BRA,9834
+98122,Kitchener I W,BRM,9835
+98158,Kitchener I W,MtPl,9836
+98123,Kitchener I W,NRV,9837
+98003,Kitchener I W,0,9859
+98023,Kitchener I W,0,9875
+98174,Kitchener I W,0,9838
+98018,Barries A N,BARR,9801
+98208,Barries A N,SPA,9887
+98028,Barries A N,0,9885
+98200,Barries A N,DWSV,9864
+98068,Barries A N,MPL,9841
+98070,Barries A N,KNC,9842
+98074,Barries A N,AUR,9843
+98050,Barries A N,0,9873
+98077,Barries A N,NWM,9844
+98078,Barries A N,GRE,9845
+98078,Barries A S,GRE,9845
+98077,Barries A S,NWM,9844
+98050,Barries A S,0,9873
+98074,Barries A S,AUR,9843
+98070,Barries A S,KNC,9842
+98068,Barries A S,MPL,9841
+98200,Barries A S,DWSV,9864
+98028,Barries A S,0,9885
+98208,Barries A S,SPA,9887
+98018,Barries A S,BARR,9801
+98018,Barries B N,BARR,9801
+98208,Barries B N,SPA,9887
+98028,Barries B N,0,9885
+98200,Barries B N,DWSV,9864
+98068,Barries B N,MPL,9841
+98070,Barries B N,KNC,9842
+98074,Barries B N,AUR,9843
+98050,Barries B N,0,9873
+98077,Barries B N,NWM,9844
+98078,Barries B N,GRE,9845
+98078,Barries B S,GRE,9845
+98077,Barries B S,NWM,9844
+98050,Barries B S,0,9873
+98074,Barries B S,AUR,9843
+98070,Barries B S,KNC,9842
+98068,Barries B S,MPL,9841
+98200,Barries B S,DWSV,9864
+98028,Barries B S,0,9885
+98208,Barries B S,SPA,9887
+98018,Barries B S,BARR,9801
+98018,Barries C N,BARR,9801
+98208,Barries C N,SPA,9887
+98028,Barries C N,0,9885
+98024,Barries C N,0,9865
+98200,Barries C N,DWSV,9864
+98067,Barries C N,0,9840
+98068,Barries C N,MPL,9841
+98045,Barries C N,0,9872
+98070,Barries C N,KNC,9842
+98074,Barries C N,AUR,9843
+98050,Barries C N,0,9873
+98077,Barries C N,NWM,9844
+98078,Barries C N,GRE,9845
+98079,Barries C N,BRD,9846
+98079,Barries C S,BRD,9846
+98078,Barries C S,GRE,9845
+98077,Barries C S,NWM,9844
+98050,Barries C S,0,9873
+98074,Barries C S,AUR,9843
+98070,Barries C S,KNC,9842
+98045,Barries C S,0,9872
+98068,Barries C S,MPL,9841
+98067,Barries C S,0,9840
+98200,Barries C S,DWSV,9864
+98024,Barries C S,0,9865
+98028,Barries C S,0,9885
+98208,Barries C S,SPA,9887
+98018,Barries C S,BARR,9801
+98018,Barries D N,BARR,9801
+98208,Barries D N,SPA,9887
+98028,Barries D N,0,9885
+98024,Barries D N,0,9865
+98200,Barries D N,DWSV,9864
+98067,Barries D N,0,9840
+98068,Barries D N,MPL,9841
+98045,Barries D N,0,9872
+98070,Barries D N,KNC,9842
+98074,Barries D N,AUR,9843
+98050,Barries D N,0,9873
+98077,Barries D N,NWM,9844
+98078,Barries D N,GRE,9845
+98079,Barries D N,BRD,9846
+98079,Barries D S,BRD,9846
+98078,Barries D S,GRE,9845
+98077,Barries D S,NWM,9844
+98050,Barries D S,0,9873
+98074,Barries D S,AUR,9843
+98070,Barries D S,KNC,9842
+98045,Barries D S,0,9872
+98068,Barries D S,MPL,9841
+98067,Barries D S,0,9840
+98200,Barries D S,DWSV,9864
+98024,Barries D S,0,9865
+98028,Barries D S,0,9885
+98208,Barries D S,SPA,9887
+98018,Barries D S,BARR,9801
+98018,Barries E N,BARR,9801
+98208,Barries E N,SPA,9887
+98024,Barries E N,0,9865
+98067,Barries E N,0,9840
+98045,Barries E N,0,9872
+98074,Barries E N,AUR,9843
+98050,Barries E N,0,9873
+98077,Barries E N,NWM,9844
+98079,Barries E N,BRD,9846
+98043,Barries E N,0,9874
+98161,Barries E N,0,9847
+98005,Barries E N,0,9861
+98005,Barries E S,0,9861
+98161,Barries E S,0,9847
+98043,Barries E S,0,9874
+98079,Barries E S,BRD,9846
+98077,Barries E S,NWM,9844
+98050,Barries E S,0,9873
+98074,Barries E S,AUR,9843
+98045,Barries E S,0,9872
+98067,Barries E S,0,9840
+98024,Barries E S,0,9865
+98208,Barries E S,SPA,9887
+98018,Barries E S,BARR,9801
+98018,Barries F N,BARR,9801
+98208,Barries F N,SPA,9887
+98024,Barries F N,0,9865
+98067,Barries F N,0,9840
+98045,Barries F N,0,9872
+98074,Barries F N,AUR,9843
+98050,Barries F N,0,9873
+98077,Barries F N,NWM,9844
+98079,Barries F N,BRD,9846
+98043,Barries F N,0,9874
+98161,Barries F N,0,9847
+98005,Barries F N,0,9861
+98005,Barries F S,0,9861
+98161,Barries F S,0,9847
+98043,Barries F S,0,9874
+98079,Barries F S,BRD,9846
+98077,Barries F S,NWM,9844
+98050,Barries F S,0,9873
+98074,Barries F S,AUR,9843
+98045,Barries F S,0,9872
+98067,Barries F S,0,9840
+98024,Barries F S,0,9865
+98208,Barries F S,SPA,9887
+98018,Barries F S,BARR,9801
+98019,Richmond Hill A N,RICH,9801
+98102,Richmond Hill A N,ORI,9848
+98105,Richmond Hill A N,OCM,9849
+98167,Richmond Hill A S,0,9868
+98202,Richmond Hill A S,GMLY,9867
+98111,Richmond Hill A S,RHD,9851
+98109,Richmond Hill A S,LGS,9850
+98105,Richmond Hill A S,OCM,9849
+98102,Richmond Hill A S,ORI,9848
+98019,Richmond Hill A S,RICH,9801
+98167,Richmond Hill B S,0,9868
+98202,Richmond Hill B S,GMLY,9867
+98111,Richmond Hill B S,RHD,9851
+98109,Richmond Hill B S,LGS,9850
+98105,Richmond Hill B S,OCM,9849
+98102,Richmond Hill B S,ORI,9848
+98019,Richmond Hill B S,RICH,9801
+98020,Stouffville A N,STOU,9801
+98075,Stouffville A N,0,9888
+98004,Stouffville A N,DAN,9802
+98054,Stouffville A N,0,9852
+98055,Stouffville A N,AGN,9853
+98029,Stouffville A N,0,9877
+98056,Stouffville A N,MLK,9854
+98058,Stouffville A N,UNV,9855
+98058,Stouffville A S,UNV,9855
+98056,Stouffville A S,MLK,9854
+98029,Stouffville A S,0,9877
+98055,Stouffville A S,AGN,9853
+98054,Stouffville A S,0,9852
+98004,Stouffville A S,DAN,9802
+98075,Stouffville A S,0,9888
+98020,Stouffville A S,STOU,9801
+98020,Stouffville B N,STOU,9801
+98075,Stouffville B N,0,9888
+98004,Stouffville B N,DAN,9802
+98054,Stouffville B N,0,9852
+98055,Stouffville B N,AGN,9853
+98029,Stouffville B N,0,9877
+98056,Stouffville B N,MLK,9854
+98058,Stouffville B N,UNV,9855
+98156,Stouffville B N,CEN,9856
+98059,Stouffville B N,MRK,9857
+98157,Stouffville B N,MJY,9858
+98157,Stouffville B S,MJY,9858
+98059,Stouffville B S,MRK,9857
+98156,Stouffville B S,CEN,9856
+98058,Stouffville B S,UNV,9855
+98056,Stouffville B S,MLK,9854
+98029,Stouffville B S,0,9877
+98055,Stouffville B S,AGN,9853
+98054,Stouffville B S,0,9852
+98004,Stouffville B S,DAN,9802
+98075,Stouffville B S,0,9888
+98020,Stouffville B S,STOU,9801
+98020,Stouffville C N,STOU,9801
+98075,Stouffville C N,0,9888
+98004,Stouffville C N,DAN,9802
+98054,Stouffville C N,0,9852
+98055,Stouffville C N,AGN,9853
+98029,Stouffville C N,0,9877
+98056,Stouffville C N,MLK,9854
+98058,Stouffville C N,UNV,9855
+98156,Stouffville C N,CEN,9856
+98059,Stouffville C N,MRK,9857
+98157,Stouffville C N,MJY,9858
+98060,Stouffville C N,STF,9862
+98060,Stouffville C S,STF,9862
+98157,Stouffville C S,MJY,9858
+98059,Stouffville C S,MRK,9857
+98156,Stouffville C S,CEN,9856
+98058,Stouffville C S,UNV,9855
+98056,Stouffville C S,MLK,9854
+98029,Stouffville C S,0,9877
+98055,Stouffville C S,AGN,9853
+98054,Stouffville C S,0,9852
+98004,Stouffville C S,DAN,9802
+98075,Stouffville C S,0,9888
+98020,Stouffville C S,STOU,9801
+98165,Stouffville D S,0,9860
+98060,Stouffville D S,STF,9862
+98157,Stouffville D S,MJY,9858
+98059,Stouffville D S,MRK,9857
+98156,Stouffville D S,CEN,9856
+98058,Stouffville D S,UNV,9855
+98029,Stouffville D S,0,9877
+98055,Stouffville D S,AGN,9853
+98054,Stouffville D S,0,9852
+98075,Stouffville D S,0,9888
+98020,Stouffville D S,STOU,9801
+98165,Stouffville E S,0,9860
+98060,Stouffville E S,STF,9862
+98157,Stouffville E S,MJY,9858
+98059,Stouffville E S,MRK,9857
+98156,Stouffville E S,CEN,9856
+98058,Stouffville E S,UNV,9855
+98029,Stouffville E S,0,9877
+98055,Stouffville E S,AGN,9853
+98054,Stouffville E S,0,9852
+98075,Stouffville E S,0,9888
+98020,Stouffville E S,STOU,9801
+98021,Lakeshore East B E,LAKE,9801
+98075,Lakeshore East B E,0,9888
+98004,Lakeshore East B E,DAN,9802
+98006,Lakeshore East B E,SCR,9803
+98007,Lakeshore East B E,EGL,9804
+98008,Lakeshore East B E,GUI,9805
+98010,Lakeshore East B E,0,9806
+98011,Lakeshore East B E,PIC,9807
+98013,Lakeshore East B E,AJX,9808
+98015,Lakeshore East B E,WHT,9809
+98017,Lakeshore East B E,OSH,9810
+98017,Lakeshore East B W,OSH,9810
+98015,Lakeshore East B W,WHT,9809
+98013,Lakeshore East B W,AJX,9808
+98011,Lakeshore East B W,PIC,9807
+98010,Lakeshore East B W,0,9806
+98008,Lakeshore East B W,GUI,9805
+98007,Lakeshore East B W,EGL,9804
+98006,Lakeshore East B W,SCR,9803
+98004,Lakeshore East B W,DAN,9802
+98075,Lakeshore East B W,0,9888
+98021,Lakeshore East B W,LAKE,9801
+98021,Lakeshore East C E,LAKE,9801
+98075,Lakeshore East C E,0,9888
+98011,Lakeshore East C E,PIC,9807
+98013,Lakeshore East C E,AJX,9808
+98015,Lakeshore East C E,WHT,9809
+98017,Lakeshore East C E,OSH,9810
+98205,Lakeshore East C E,OSH2,9884
+98194,Lakeshore East C E,RITS,9878
+98197,Lakeshore East C E,CRTC,9880
+98199,Lakeshore East C E,BMVL,9881
+98199,Lakeshore East C W,BMVL,9881
+98197,Lakeshore East C W,CRTC,9880
+98194,Lakeshore East C W,RITS,9878
+98205,Lakeshore East C W,OSH2,9884
+98017,Lakeshore East C W,OSH,9810
+98015,Lakeshore East C W,WHT,9809
+98013,Lakeshore East C W,AJX,9808
+98011,Lakeshore East C W,PIC,9807
+98075,Lakeshore East C W,0,9888
+98021,Lakeshore East C W,LAKE,9801
+98021,Lakeshore East D E,LAKE,9801
+98075,Lakeshore East D E,0,9888
+98011,Lakeshore East D E,PIC,9807
+98013,Lakeshore East D E,AJX,9808
+98015,Lakeshore East D E,WHT,9809
+98017,Lakeshore East D E,OSH,9810
+98205,Lakeshore East D E,OSH2,9884
+98194,Lakeshore East D E,RITS,9878
+98197,Lakeshore East D E,CRTC,9880
+98199,Lakeshore East D E,BMVL,9881
+98199,Lakeshore East D W,BMVL,9881
+98197,Lakeshore East D W,CRTC,9880
+98194,Lakeshore East D W,RITS,9878
+98205,Lakeshore East D W,OSH2,9884
+98017,Lakeshore East D W,OSH,9810
+98015,Lakeshore East D W,WHT,9809
+98013,Lakeshore East D W,AJX,9808
+98011,Lakeshore East D W,PIC,9807
+98075,Lakeshore East D W,0,9888
+98021,Lakeshore East D W,LAKE,9801

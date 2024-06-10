@@ -1,0 +1,1830 @@
+dwell,emme_id,from_station,index,time_period,to_station,tt_minutes
+90.0,GT01Ae,Appleby Station,0,AM,Bronte Station,3.75
+90.0,GT01Ae,Bronte Station,1,AM,Oakville Station,4.25
+90.0,GT01Ae,Oakville Station,2,AM,Clarkson Station,5.5
+90.0,GT01Ae,Clarkson Station,3,AM,Port Credit Station,4.0
+60.0,GT01Ae,Port Credit Station,4,AM,Exhibition Station,10.25
+0.0,GT01Ae,Exhibition Station,5,AM,Union Station,4.75
+90.0,GT01Be,Appleby Station,0,AM,Bronte Station,3.75
+90.0,GT01Be,Bronte Station,1,AM,Oakville Station,4.25
+90.0,GT01Be,Oakville Station,2,AM,Clarkson Station,5.5
+90.0,GT01Be,Clarkson Station,3,AM,Port Credit Station,4.0
+60.0,GT01Be,Port Credit Station,4,AM,Long Branch Station,3.75
+120.0,GT01Be,Long Branch Station,5,AM,Mimico Station,4.25
+60.0,GT01Be,Mimico Station,6,AM,Park Lawn Station,1.75
+60.0,GT01Be,Park Lawn Station,7,AM,Exhibition Station,4.0
+0.0,GT01Be,Exhibition Station,8,AM,Union Station,4.75
+60.0,GT01Ce,Burlington Station,0,EV,Appleby Station,4.25
+90.0,GT01Ce,Appleby Station,1,EV,Bronte Station,3.75
+90.0,GT01Ce,Bronte Station,2,EV,Oakville Station,4.25
+90.0,GT01Ce,Oakville Station,3,EV,Clarkson Station,5.25
+90.0,GT01Ce,Clarkson Station,4,EV,Port Credit Station,4.0
+60.0,GT01Ce,Port Credit Station,5,EV,Long Branch Station,3.75
+120.0,GT01Ce,Long Branch Station,6,EV,Mimico Station,4.25
+60.0,GT01Ce,Mimico Station,7,EV,Park Lawn Station,1.75
+60.0,GT01Ce,Park Lawn Station,8,EV,Exhibition Station,4.0
+0.0,GT01Ce,Exhibition Station,9,EV,Union Station,4.25
+60.0,GT01Ce,Burlington Station,0,MD,Appleby Station,4.25
+90.0,GT01Ce,Appleby Station,1,MD,Bronte Station,3.75
+90.0,GT01Ce,Bronte Station,2,MD,Oakville Station,4.25
+90.0,GT01Ce,Oakville Station,3,MD,Clarkson Station,5.25
+90.0,GT01Ce,Clarkson Station,4,MD,Port Credit Station,4.0
+60.0,GT01Ce,Port Credit Station,5,MD,Long Branch Station,3.75
+120.0,GT01Ce,Long Branch Station,6,MD,Mimico Station,4.25
+60.0,GT01Ce,Mimico Station,7,MD,Park Lawn Station,1.75
+60.0,GT01Ce,Park Lawn Station,8,MD,Exhibition Station,4.0
+0.0,GT01Ce,Exhibition Station,9,MD,Union Station,4.25
+60.0,GT01Ce,Burlington Station,0,PM,Appleby Station,4.25
+90.0,GT01Ce,Appleby Station,1,PM,Bronte Station,3.75
+90.0,GT01Ce,Bronte Station,2,PM,Oakville Station,4.25
+90.0,GT01Ce,Oakville Station,3,PM,Clarkson Station,5.25
+90.0,GT01Ce,Clarkson Station,4,PM,Port Credit Station,4.0
+60.0,GT01Ce,Port Credit Station,5,PM,Long Branch Station,3.75
+120.0,GT01Ce,Long Branch Station,6,PM,Mimico Station,4.25
+60.0,GT01Ce,Mimico Station,7,PM,Park Lawn Station,1.75
+60.0,GT01Ce,Park Lawn Station,8,PM,Exhibition Station,4.0
+0.0,GT01Ce,Exhibition Station,9,PM,Union Station,4.25
+60.0,GT01De,Burlington Station,0,AM,Appleby Station,4.5
+90.0,GT01De,Appleby Station,1,AM,Bronte Station,3.75
+90.0,GT01De,Bronte Station,2,AM,Oakville Station,4.25
+90.0,GT01De,Oakville Station,3,AM,Clarkson Station,5.5
+90.0,GT01De,Clarkson Station,4,AM,Port Credit Station,4.0
+60.0,GT01De,Port Credit Station,5,AM,Long Branch Station,3.75
+120.0,GT01De,Long Branch Station,6,AM,Mimico Station,4.25
+60.0,GT01De,Mimico Station,7,AM,Park Lawn Station,1.75
+60.0,GT01De,Park Lawn Station,8,AM,Exhibition Station,4.0
+0.0,GT01De,Exhibition Station,9,AM,Union Station,4.75
+60.0,GT01De,Burlington Station,0,PM,Appleby Station,4.5
+90.0,GT01De,Appleby Station,1,PM,Bronte Station,3.75
+90.0,GT01De,Bronte Station,2,PM,Oakville Station,4.25
+90.0,GT01De,Oakville Station,3,PM,Clarkson Station,5.5
+90.0,GT01De,Clarkson Station,4,PM,Port Credit Station,4.0
+60.0,GT01De,Port Credit Station,5,PM,Long Branch Station,3.75
+120.0,GT01De,Long Branch Station,6,PM,Mimico Station,4.25
+60.0,GT01De,Mimico Station,7,PM,Park Lawn Station,1.75
+60.0,GT01De,Park Lawn Station,8,PM,Exhibition Station,4.0
+0.0,GT01De,Exhibition Station,9,PM,Union Station,4.25
+60.0,GT01Ee,Hamilton GO Centre Station,0,AM,Aldershot Station,12.5
+60.0,GT01Ee,Aldershot Station,1,AM,Burlington Station,5.25
+60.0,GT01Ee,Burlington Station,2,AM,Appleby Station,5.25
+90.0,GT01Ee,Appleby Station,3,AM,Bronte Station,4.75
+90.0,GT01Ee,Bronte Station,4,AM,Oakville Station,4.75
+90.0,GT01Ee,Oakville Station,5,AM,Clarkson Station,6.25
+90.0,GT01Ee,Clarkson Station,6,AM,Port Credit Station,5.5
+60.0,GT01Ee,Port Credit Station,7,AM,Exhibition Station,10.75
+0.0,GT01Ee,Exhibition Station,8,AM,Union Station,7.0
+60.0,GT01Fe,Hamilton GO Centre Station,0,AM,Aldershot Station,13.25
+80.0,GT01Fe,Aldershot Station,1,AM,Burlington Station,5.0
+60.0,GT01Fe,Burlington Station,2,AM,Appleby Station,5.25
+90.0,GT01Fe,Appleby Station,3,AM,Bronte Station,4.75
+90.0,GT01Fe,Bronte Station,4,AM,Oakville Station,4.75
+90.0,GT01Fe,Oakville Station,5,AM,Clarkson Station,6.25
+90.0,GT01Fe,Clarkson Station,6,AM,Port Credit Station,5.5
+60.0,GT01Fe,Port Credit Station,7,AM,Exhibition Station,10.75
+0.0,GT01Fe,Exhibition Station,8,AM,Union Station,5.75
+60.0,GT01Ge,West Harbour Station,0,EV,Aldershot Station,9.5
+60.0,GT01Ge,Aldershot Station,1,EV,Burlington Station,5.25
+90.0,GT01Ge,Burlington Station,2,EV,Oakville Station,10.75
+90.0,GT01Ge,Oakville Station,3,EV,Clarkson Station,6.25
+90.0,GT01Ge,Clarkson Station,4,EV,Port Credit Station,5.5
+60.0,GT01Ge,Port Credit Station,5,EV,Exhibition Station,10.75
+0.0,GT01Ge,Exhibition Station,6,EV,Union Station,7.0
+60.0,GT01Ge,West Harbour Station,0,MD,Aldershot Station,9.5
+60.0,GT01Ge,Aldershot Station,1,MD,Burlington Station,5.25
+90.0,GT01Ge,Burlington Station,2,MD,Oakville Station,10.75
+90.0,GT01Ge,Oakville Station,3,MD,Clarkson Station,6.25
+90.0,GT01Ge,Clarkson Station,4,MD,Port Credit Station,6.0
+60.0,GT01Ge,Port Credit Station,5,MD,Exhibition Station,10.75
+0.0,GT01Ge,Exhibition Station,6,MD,Union Station,7.0
+60.0,GT01Ge,West Harbour Station,0,PM,Aldershot Station,9.5
+60.0,GT01Ge,Aldershot Station,1,PM,Burlington Station,5.25
+90.0,GT01Ge,Burlington Station,2,PM,Oakville Station,10.75
+90.0,GT01Ge,Oakville Station,3,PM,Clarkson Station,6.25
+90.0,GT01Ge,Clarkson Station,4,PM,Port Credit Station,6.0
+60.0,GT01Ge,Port Credit Station,5,PM,Exhibition Station,10.75
+0.0,GT01Ge,Exhibition Station,6,PM,Union Station,6.916666666666667
+120.0,GT01He,Confederation Station,0,AM,West Harbour Station,12.25
+60.0,GT01He,West Harbour Station,1,AM,Aldershot Station,9.5
+60.0,GT01He,Aldershot Station,2,AM,Burlington Station,5.25
+90.0,GT01He,Burlington Station,3,AM,Oakville Station,10.75
+90.0,GT01He,Oakville Station,4,AM,Clarkson Station,6.25
+90.0,GT01He,Clarkson Station,5,AM,Port Credit Station,5.5
+60.0,GT01He,Port Credit Station,6,AM,Exhibition Station,10.75
+0.0,GT01He,Exhibition Station,7,AM,Union Station,7.0
+90.0,GT01He,Confederation Station,0,EV,West Harbour Station,12.25
+60.0,GT01He,West Harbour Station,1,EV,Aldershot Station,9.5
+60.0,GT01He,Aldershot Station,2,EV,Burlington Station,5.25
+90.0,GT01He,Burlington Station,3,EV,Oakville Station,10.75
+90.0,GT01He,Oakville Station,4,EV,Clarkson Station,6.25
+90.0,GT01He,Clarkson Station,5,EV,Port Credit Station,5.5
+60.0,GT01He,Port Credit Station,6,EV,Exhibition Station,10.75
+0.0,GT01He,Exhibition Station,7,EV,Union Station,7.0
+120.0,GT01He,Confederation Station,0,MD,West Harbour Station,12.25
+60.0,GT01He,West Harbour Station,1,MD,Aldershot Station,9.5
+60.0,GT01He,Aldershot Station,2,MD,Burlington Station,5.25
+90.0,GT01He,Burlington Station,3,MD,Oakville Station,10.75
+90.0,GT01He,Oakville Station,4,MD,Clarkson Station,6.25
+90.0,GT01He,Clarkson Station,5,MD,Port Credit Station,6.0
+60.0,GT01He,Port Credit Station,6,MD,Exhibition Station,10.75
+0.0,GT01He,Exhibition Station,7,MD,Union Station,7.0
+75.0,GT01He,Confederation Station,0,PM,West Harbour Station,12.3125
+60.0,GT01He,West Harbour Station,1,PM,Aldershot Station,9.5
+60.0,GT01He,Aldershot Station,2,PM,Burlington Station,5.25
+90.0,GT01He,Burlington Station,3,PM,Oakville Station,10.75
+90.0,GT01He,Oakville Station,4,PM,Clarkson Station,6.25
+90.0,GT01He,Clarkson Station,5,PM,Port Credit Station,6.0
+60.0,GT01He,Port Credit Station,6,PM,Exhibition Station,10.75
+0.0,GT01He,Exhibition Station,7,PM,Union Station,6.916666666666667
+80.0,GT01Ie,Confederation Station,0,AM,West Harbour Station,12.41666667
+100.0,GT01Ie,West Harbour Station,1,AM,Aldershot Station,9.75
+80.0,GT01Ie,Aldershot Station,2,AM,Burlington Station,5.0
+90.0,GT01Ie,Burlington Station,3,AM,Oakville Station,10.75
+90.0,GT01Ie,Oakville Station,4,AM,Clarkson Station,6.25
+90.0,GT01Ie,Clarkson Station,5,AM,Port Credit Station,5.5
+60.0,GT01Ie,Port Credit Station,6,AM,Exhibition Station,10.75
+0.0,GT01Ie,Exhibition Station,7,AM,Union Station,5.75
+60.0,GT01Je,Niagara Falls Station,0,AM,St. Catharines Station,20.0
+60.0,GT01Je,St. Catharines Station,1,AM,Beamsville Station,14.0
+60.0,GT01Je,Beamsville Station,2,AM,GO Grimsby Station,7.25
+60.0,GT01Je,GO Grimsby Station,3,AM,Confederation Station,9.75
+120.0,GT01Je,Confederation Station,4,AM,West Harbour Station,12.25
+60.0,GT01Je,West Harbour Station,5,AM,Aldershot Station,9.5
+60.0,GT01Je,Aldershot Station,6,AM,Burlington Station,5.25
+90.0,GT01Je,Burlington Station,7,AM,Oakville Station,10.75
+90.0,GT01Je,Oakville Station,8,AM,Clarkson Station,6.25
+90.0,GT01Je,Clarkson Station,9,AM,Port Credit Station,5.5
+60.0,GT01Je,Port Credit Station,10,AM,Exhibition Station,10.75
+0.0,GT01Je,Exhibition Station,11,AM,Union Station,7.0
+60.0,GT01Je,Niagara Falls Station,0,MD,St. Catharines Station,20.0
+60.0,GT01Je,St. Catharines Station,1,MD,Beamsville Station,14.0
+60.0,GT01Je,Beamsville Station,2,MD,GO Grimsby Station,7.25
+60.0,GT01Je,GO Grimsby Station,3,MD,Confederation Station,9.75
+120.0,GT01Je,Confederation Station,4,MD,West Harbour Station,12.25
+60.0,GT01Je,West Harbour Station,5,MD,Aldershot Station,9.5
+60.0,GT01Je,Aldershot Station,6,MD,Burlington Station,5.25
+90.0,GT01Je,Burlington Station,7,MD,Oakville Station,10.75
+90.0,GT01Je,Oakville Station,8,MD,Clarkson Station,6.25
+90.0,GT01Je,Clarkson Station,9,MD,Port Credit Station,6.0
+60.0,GT01Je,Port Credit Station,10,MD,Exhibition Station,10.75
+0.0,GT01Je,Exhibition Station,11,MD,Union Station,7.0
+60.0,GT01Ke,Niagara Falls Station,0,AM,St. Catharines Station,20.0
+60.0,GT01Ke,St. Catharines Station,1,AM,Beamsville Station,14.0
+60.0,GT01Ke,Beamsville Station,2,AM,GO Grimsby Station,7.25
+60.0,GT01Ke,GO Grimsby Station,3,AM,Confederation Station,9.75
+80.0,GT01Ke,Confederation Station,4,AM,West Harbour Station,12.41666667
+100.0,GT01Ke,West Harbour Station,5,AM,Aldershot Station,9.75
+80.0,GT01Ke,Aldershot Station,6,AM,Burlington Station,5.0
+90.0,GT01Ke,Burlington Station,7,AM,Oakville Station,10.75
+90.0,GT01Ke,Oakville Station,8,AM,Clarkson Station,6.25
+90.0,GT01Ke,Clarkson Station,9,AM,Port Credit Station,5.5
+60.0,GT01Ke,Port Credit Station,10,AM,Exhibition Station,10.75
+0.0,GT01Ke,Exhibition Station,11,AM,Union Station,5.75
+60.0,GT01Le,Niagara Falls Station,0,AM,St. Catharines Station,20.0
+60.0,GT01Le,St. Catharines Station,1,AM,Beamsville Station,14.0
+60.0,GT01Le,Beamsville Station,2,AM,GO Grimsby Station,7.25
+60.0,GT01Le,GO Grimsby Station,3,AM,Confederation Station,9.75
+60.0,GT01Aw,Union Station,0,EV,Exhibition Station,4.5
+60.0,GT01Aw,Exhibition Station,1,EV,Park Lawn Station,4.0
+120.0,GT01Aw,Park Lawn Station,2,EV,Mimico Station,2.25
+60.0,GT01Aw,Mimico Station,3,EV,Long Branch Station,3.75
+60.0,GT01Aw,Long Branch Station,4,EV,Port Credit Station,3.75
+60.0,GT01Aw,Port Credit Station,5,EV,Clarkson Station,4.0
+60.0,GT01Aw,Clarkson Station,6,EV,Oakville Station,5.0
+60.0,GT01Aw,Oakville Station,7,EV,Bronte Station,4.5
+30.0,GT01Aw,Bronte Station,8,EV,Appleby Station,4.0
+0.0,GT01Aw,Appleby Station,9,EV,Burlington Station,4.5
+60.0,GT01Aw,Union Station,0,MD,Exhibition Station,4.5
+60.0,GT01Aw,Exhibition Station,1,MD,Park Lawn Station,4.0
+120.0,GT01Aw,Park Lawn Station,2,MD,Mimico Station,2.25
+60.0,GT01Aw,Mimico Station,3,MD,Long Branch Station,3.75
+60.0,GT01Aw,Long Branch Station,4,MD,Port Credit Station,3.75
+60.0,GT01Aw,Port Credit Station,5,MD,Clarkson Station,4.0
+60.0,GT01Aw,Clarkson Station,6,MD,Oakville Station,5.0
+60.0,GT01Aw,Oakville Station,7,MD,Bronte Station,4.5
+60.0,GT01Aw,Bronte Station,8,MD,Appleby Station,3.75
+0.0,GT01Aw,Appleby Station,9,MD,Burlington Station,4.5
+60.0,GT01Aw,Union Station,0,PM,Exhibition Station,4.5
+60.0,GT01Aw,Exhibition Station,1,PM,Park Lawn Station,4.0
+120.0,GT01Aw,Park Lawn Station,2,PM,Mimico Station,2.25
+60.0,GT01Aw,Mimico Station,3,PM,Long Branch Station,3.75
+60.0,GT01Aw,Long Branch Station,4,PM,Port Credit Station,3.75
+60.0,GT01Aw,Port Credit Station,5,PM,Clarkson Station,4.0
+60.0,GT01Aw,Clarkson Station,6,PM,Oakville Station,5.0
+60.0,GT01Aw,Oakville Station,7,PM,Bronte Station,4.5
+60.0,GT01Aw,Bronte Station,8,PM,Appleby Station,3.75
+0.0,GT01Aw,Appleby Station,9,PM,Burlington Station,4.5
+60.0,GT01Bw,Union Station,0,AM,Exhibition Station,4.5
+60.0,GT01Bw,Exhibition Station,1,AM,Park Lawn Station,4.0
+120.0,GT01Bw,Park Lawn Station,2,AM,Mimico Station,2.25
+60.0,GT01Bw,Mimico Station,3,AM,Long Branch Station,3.5
+60.0,GT01Bw,Long Branch Station,4,AM,Port Credit Station,3.75
+60.0,GT01Bw,Port Credit Station,5,AM,Clarkson Station,4.25
+60.0,GT01Bw,Clarkson Station,6,AM,Oakville Station,5.0
+60.0,GT01Bw,Oakville Station,7,AM,Bronte Station,4.5
+60.0,GT01Bw,Bronte Station,8,AM,Appleby Station,3.75
+0.0,GT01Bw,Appleby Station,9,AM,Burlington Station,4.5
+60.0,GT01Bw,Union Station,0,MD,Exhibition Station,4.5
+60.0,GT01Bw,Exhibition Station,1,MD,Park Lawn Station,4.0
+120.0,GT01Bw,Park Lawn Station,2,MD,Mimico Station,2.25
+60.0,GT01Bw,Mimico Station,3,MD,Long Branch Station,3.5
+60.0,GT01Bw,Long Branch Station,4,MD,Port Credit Station,3.75
+60.0,GT01Bw,Port Credit Station,5,MD,Clarkson Station,4.25
+60.0,GT01Bw,Clarkson Station,6,MD,Oakville Station,5.0
+60.0,GT01Bw,Oakville Station,7,MD,Bronte Station,4.5
+60.0,GT01Bw,Bronte Station,8,MD,Appleby Station,3.75
+0.0,GT01Bw,Appleby Station,9,MD,Burlington Station,4.5
+60.0,GT01Bw,Union Station,0,PM,Exhibition Station,4.5
+60.0,GT01Bw,Exhibition Station,1,PM,Park Lawn Station,4.0
+120.0,GT01Bw,Park Lawn Station,2,PM,Mimico Station,2.25
+60.0,GT01Bw,Mimico Station,3,PM,Long Branch Station,3.5
+60.0,GT01Bw,Long Branch Station,4,PM,Port Credit Station,3.75
+60.0,GT01Bw,Port Credit Station,5,PM,Clarkson Station,4.25
+60.0,GT01Bw,Clarkson Station,6,PM,Oakville Station,5.0
+60.0,GT01Bw,Oakville Station,7,PM,Bronte Station,4.5
+60.0,GT01Bw,Bronte Station,8,PM,Appleby Station,3.75
+0.0,GT01Bw,Appleby Station,9,PM,Burlington Station,4.5
+60.0,GT01Cw,Union Station,0,PM,Exhibition Station,4.5
+60.0,GT01Cw,Exhibition Station,1,PM,Port Credit Station,13.75
+60.0,GT01Cw,Port Credit Station,2,PM,Clarkson Station,4.0
+60.0,GT01Cw,Clarkson Station,3,PM,Oakville Station,5.0
+60.0,GT01Cw,Oakville Station,4,PM,Bronte Station,4.5
+60.0,GT01Cw,Bronte Station,5,PM,Appleby Station,3.75
+0.0,GT01Cw,Appleby Station,6,PM,Burlington Station,4.5
+60.0,GT01Dw,Union Station,0,PM,Exhibition Station,4.5
+60.0,GT01Dw,Exhibition Station,1,PM,Port Credit Station,11.375
+60.0,GT01Dw,Port Credit Station,2,PM,Clarkson Station,5.0
+60.0,GT01Dw,Clarkson Station,3,PM,Oakville Station,6.0
+60.0,GT01Dw,Oakville Station,4,PM,Bronte Station,5.0
+60.0,GT01Dw,Bronte Station,5,PM,Appleby Station,4.5
+60.0,GT01Dw,Appleby Station,6,PM,Burlington Station,5.25
+60.0,GT01Dw,Burlington Station,7,PM,Aldershot Station,5.0
+0.0,GT01Dw,Aldershot Station,8,PM,Hamilton GO Centre Station,13.5
+60.0,GT01Ew,Union Station,0,PM,Exhibition Station,5.0
+60.0,GT01Ew,Exhibition Station,1,PM,Port Credit Station,11.5
+60.0,GT01Ew,Port Credit Station,2,PM,Clarkson Station,5.0
+60.0,GT01Ew,Clarkson Station,3,PM,Oakville Station,6.0
+60.0,GT01Ew,Oakville Station,4,PM,Bronte Station,5.0
+60.0,GT01Ew,Bronte Station,5,PM,Appleby Station,4.5
+60.0,GT01Ew,Appleby Station,6,PM,Burlington Station,5.25
+60.0,GT01Ew,Burlington Station,7,PM,Aldershot Station,5.0
+0.0,GT01Ew,Aldershot Station,8,PM,Hamilton GO Centre Station,13.5
+60.0,GT01Fw,Union Station,0,AM,Exhibition Station,4.5
+60.0,GT01Fw,Exhibition Station,1,AM,Port Credit Station,11.0
+60.0,GT01Fw,Port Credit Station,2,AM,Clarkson Station,5.0
+60.0,GT01Fw,Clarkson Station,3,AM,Oakville Station,6.0
+60.0,GT01Fw,Oakville Station,4,AM,Burlington Station,11.25
+60.0,GT01Fw,Burlington Station,5,AM,Aldershot Station,5.0
+40.0,GT01Fw,Aldershot Station,6,AM,West Harbour Station,9.916666666666666
+60.0,GT01Fw,Union Station,0,EV,Exhibition Station,4.5
+60.0,GT01Fw,Exhibition Station,1,EV,Port Credit Station,11.0
+60.0,GT01Fw,Port Credit Station,2,EV,Clarkson Station,5.0
+60.0,GT01Fw,Clarkson Station,3,EV,Oakville Station,6.0
+60.0,GT01Fw,Oakville Station,4,EV,Burlington Station,11.25
+60.0,GT01Fw,Burlington Station,5,EV,Aldershot Station,5.0
+56.666666666666664,GT01Fw,Aldershot Station,6,EV,West Harbour Station,9.916666666666666
+60.0,GT01Fw,Union Station,0,MD,Exhibition Station,4.5
+60.0,GT01Fw,Exhibition Station,1,MD,Port Credit Station,11.0
+60.0,GT01Fw,Port Credit Station,2,MD,Clarkson Station,5.0
+60.0,GT01Fw,Clarkson Station,3,MD,Oakville Station,6.0
+60.0,GT01Fw,Oakville Station,4,MD,Burlington Station,11.25
+60.0,GT01Fw,Burlington Station,5,MD,Aldershot Station,5.0
+40.0,GT01Fw,Aldershot Station,6,MD,West Harbour Station,9.916666666666666
+60.0,GT01Fw,Union Station,0,PM,Exhibition Station,4.5
+60.0,GT01Fw,Exhibition Station,1,PM,Port Credit Station,11.375
+60.0,GT01Fw,Port Credit Station,2,PM,Clarkson Station,5.0
+60.0,GT01Fw,Clarkson Station,3,PM,Oakville Station,6.0
+60.0,GT01Fw,Oakville Station,4,PM,Burlington Station,11.25
+60.0,GT01Fw,Burlington Station,5,PM,Aldershot Station,5.0
+40.0,GT01Fw,Aldershot Station,6,PM,West Harbour Station,9.916666666666666
+60.0,GT01Gw,Union Station,0,PM,Exhibition Station,5.0
+60.0,GT01Gw,Exhibition Station,1,PM,Port Credit Station,11.5
+60.0,GT01Gw,Port Credit Station,2,PM,Clarkson Station,5.0
+60.0,GT01Gw,Clarkson Station,3,PM,Oakville Station,6.0
+60.0,GT01Gw,Oakville Station,4,PM,Burlington Station,11.25
+60.0,GT01Gw,Burlington Station,5,PM,Aldershot Station,5.0
+30.0,GT01Gw,Aldershot Station,6,PM,West Harbour Station,9.75
+60.0,GT01Hw,Union Station,0,AM,Exhibition Station,4.5
+60.0,GT01Hw,Exhibition Station,1,AM,Port Credit Station,11.0
+60.0,GT01Hw,Port Credit Station,2,AM,Clarkson Station,5.0
+60.0,GT01Hw,Clarkson Station,3,AM,Oakville Station,6.0
+60.0,GT01Hw,Oakville Station,4,AM,Burlington Station,11.25
+60.0,GT01Hw,Burlington Station,5,AM,Aldershot Station,5.0
+40.0,GT01Hw,Aldershot Station,6,AM,West Harbour Station,9.916666666666666
+30.0,GT01Hw,West Harbour Station,7,AM,Confederation Station,13.083333334999999
+60.0,GT01Hw,Union Station,0,EV,Exhibition Station,4.5
+60.0,GT01Hw,Exhibition Station,1,EV,Port Credit Station,11.0
+60.0,GT01Hw,Port Credit Station,2,EV,Clarkson Station,5.0
+60.0,GT01Hw,Clarkson Station,3,EV,Oakville Station,6.0
+60.0,GT01Hw,Oakville Station,4,EV,Burlington Station,11.25
+60.0,GT01Hw,Burlington Station,5,EV,Aldershot Station,5.0
+56.666666666666664,GT01Hw,Aldershot Station,6,EV,West Harbour Station,9.916666666666666
+30.0,GT01Hw,West Harbour Station,7,EV,Confederation Station,13.041666665000001
+60.0,GT01Hw,Union Station,0,MD,Exhibition Station,4.5
+60.0,GT01Hw,Exhibition Station,1,MD,Port Credit Station,11.0
+60.0,GT01Hw,Port Credit Station,2,MD,Clarkson Station,5.0
+60.0,GT01Hw,Clarkson Station,3,MD,Oakville Station,6.0
+60.0,GT01Hw,Oakville Station,4,MD,Burlington Station,11.25
+60.0,GT01Hw,Burlington Station,5,MD,Aldershot Station,5.0
+40.0,GT01Hw,Aldershot Station,6,MD,West Harbour Station,9.916666666666666
+30.0,GT01Hw,West Harbour Station,7,MD,Confederation Station,13.0
+60.0,GT01Hw,Union Station,0,PM,Exhibition Station,4.5
+60.0,GT01Hw,Exhibition Station,1,PM,Port Credit Station,11.375
+60.0,GT01Hw,Port Credit Station,2,PM,Clarkson Station,5.0
+60.0,GT01Hw,Clarkson Station,3,PM,Oakville Station,6.0
+60.0,GT01Hw,Oakville Station,4,PM,Burlington Station,11.25
+60.0,GT01Hw,Burlington Station,5,PM,Aldershot Station,5.0
+40.0,GT01Hw,Aldershot Station,6,PM,West Harbour Station,9.916666666666666
+20.0,GT01Hw,West Harbour Station,7,PM,Confederation Station,13.0
+60.0,GT01Iw,Union Station,0,PM,Exhibition Station,5.0
+60.0,GT01Iw,Exhibition Station,1,PM,Port Credit Station,11.5
+60.0,GT01Iw,Port Credit Station,2,PM,Clarkson Station,5.0
+60.0,GT01Iw,Clarkson Station,3,PM,Oakville Station,6.0
+60.0,GT01Iw,Oakville Station,4,PM,Burlington Station,11.25
+60.0,GT01Iw,Burlington Station,5,PM,Aldershot Station,5.0
+30.0,GT01Iw,Aldershot Station,6,PM,West Harbour Station,9.75
+0.0,GT01Iw,West Harbour Station,7,PM,Confederation Station,13.0
+60.0,GT01Jw,Union Station,0,AM,Exhibition Station,4.5
+60.0,GT01Jw,Exhibition Station,1,AM,Port Credit Station,11.0
+60.0,GT01Jw,Port Credit Station,2,AM,Clarkson Station,5.0
+60.0,GT01Jw,Clarkson Station,3,AM,Oakville Station,6.0
+60.0,GT01Jw,Oakville Station,4,AM,Burlington Station,11.25
+60.0,GT01Jw,Burlington Station,5,AM,Aldershot Station,5.0
+40.0,GT01Jw,Aldershot Station,6,AM,West Harbour Station,9.916666666666666
+30.0,GT01Jw,West Harbour Station,7,AM,Confederation Station,13.083333334999999
+60.0,GT01Jw,Confederation Station,8,AM,GO Grimsby Station,10.25
+60.0,GT01Jw,GO Grimsby Station,9,AM,Beamsville Station,8.75
+60.0,GT01Jw,Beamsville Station,10,AM,St. Catharines Station,13.0
+0.0,GT01Jw,St. Catharines Station,11,AM,Niagara Falls Station,20.5
+60.0,GT01Jw,Union Station,0,EV,Exhibition Station,4.5
+60.0,GT01Jw,Exhibition Station,1,EV,Port Credit Station,11.0
+60.0,GT01Jw,Port Credit Station,2,EV,Clarkson Station,5.0
+60.0,GT01Jw,Clarkson Station,3,EV,Oakville Station,6.0
+60.0,GT01Jw,Oakville Station,4,EV,Burlington Station,11.25
+60.0,GT01Jw,Burlington Station,5,EV,Aldershot Station,5.0
+56.666666666666664,GT01Jw,Aldershot Station,6,EV,West Harbour Station,9.916666666666666
+30.0,GT01Jw,West Harbour Station,7,EV,Confederation Station,13.041666665000001
+60.0,GT01Jw,Confederation Station,8,EV,GO Grimsby Station,10.25
+60.0,GT01Jw,GO Grimsby Station,9,EV,Beamsville Station,8.75
+60.0,GT01Jw,Beamsville Station,10,EV,St. Catharines Station,13.0
+0.0,GT01Jw,St. Catharines Station,11,EV,Niagara Falls Station,20.75
+60.0,GT01Jw,Union Station,0,MD,Exhibition Station,4.5
+60.0,GT01Jw,Exhibition Station,1,MD,Port Credit Station,11.0
+60.0,GT01Jw,Port Credit Station,2,MD,Clarkson Station,5.0
+60.0,GT01Jw,Clarkson Station,3,MD,Oakville Station,6.0
+60.0,GT01Jw,Oakville Station,4,MD,Burlington Station,11.25
+60.0,GT01Jw,Burlington Station,5,MD,Aldershot Station,5.0
+40.0,GT01Jw,Aldershot Station,6,MD,West Harbour Station,9.916666666666666
+30.0,GT01Jw,West Harbour Station,7,MD,Confederation Station,13.0
+360.0,GT01Jw,Confederation Station,8,MD,GO Grimsby Station,10.25
+60.0,GT01Jw,GO Grimsby Station,9,MD,Beamsville Station,8.75
+360.0,GT01Jw,Beamsville Station,10,MD,St. Catharines Station,13.0
+0.0,GT01Jw,St. Catharines Station,11,MD,Niagara Falls Station,20.5
+60.0,GT01Kw,Union Station,0,PM,Exhibition Station,5.0
+60.0,GT01Kw,Exhibition Station,1,PM,Port Credit Station,11.5
+60.0,GT01Kw,Port Credit Station,2,PM,Clarkson Station,5.0
+60.0,GT01Kw,Clarkson Station,3,PM,Oakville Station,6.0
+60.0,GT01Kw,Oakville Station,4,PM,Burlington Station,11.25
+60.0,GT01Kw,Burlington Station,5,PM,Aldershot Station,5.0
+30.0,GT01Kw,Aldershot Station,6,PM,West Harbour Station,9.75
+0.0,GT01Kw,West Harbour Station,7,PM,Confederation Station,13.0
+60.0,GT01Kw,Confederation Station,8,PM,GO Grimsby Station,10.25
+60.0,GT01Kw,GO Grimsby Station,9,PM,Beamsville Station,8.75
+60.0,GT01Kw,Beamsville Station,10,PM,St. Catharines Station,13.0
+0.0,GT01Kw,St. Catharines Station,11,PM,Niagara Falls Station,20.75
+60.0,GT01Lw,Confederation Station,0,PM,GO Grimsby Station,10.25
+60.0,GT01Lw,GO Grimsby Station,1,PM,Beamsville Station,8.75
+60.0,GT01Lw,Beamsville Station,2,PM,St. Catharines Station,13.0
+0.0,GT01Lw,St. Catharines Station,3,PM,Niagara Falls Station,20.75
+20.0,GT01Mw,West Harbour Station,0,PM,Confederation Station,13.0
+60.0,GT02Ae,Milton Station,0,AM,Trafalgar Station,5.0
+60.0,GT02Ae,Trafalgar Station,1,AM,Lisgar Station,4.0
+60.0,GT02Ae,Lisgar Station,2,AM,Meadowvale Station,3.5
+60.0,GT02Ae,Meadowvale Station,3,AM,Streetsville Station,4.5
+60.0,GT02Ae,Streetsville Station,4,AM,Erindale Station,4.5
+60.0,GT02Ae,Erindale Station,5,AM,Cooksville Station,4.75
+60.0,GT02Ae,Cooksville Station,6,AM,Dixie Station,4.25
+60.0,GT02Ae,Dixie Station,7,AM,Kipling Station,4.25
+0.0,GT02Ae,Kipling Station,8,AM,Union Station,14.47222222
+60.0,GT02Be,Milton Station,0,AM,Trafalgar Station,5.333333333
+60.0,GT02Be,Trafalgar Station,1,AM,Lisgar Station,3.75
+60.0,GT02Be,Lisgar Station,2,AM,Meadowvale Station,3.5
+60.0,GT02Be,Meadowvale Station,3,AM,Streetsville Station,4.25
+60.0,GT02Be,Streetsville Station,4,AM,Erindale Station,4.5
+60.0,GT02Be,Erindale Station,5,AM,Cooksville Station,4.75
+60.0,GT02Be,Cooksville Station,6,AM,Dixie Station,4.0
+60.0,GT02Be,Dixie Station,7,AM,Kipling Station,4.25
+0.0,GT02Be,Kipling Station,8,AM,Union Station,14.5
+60.0,GT02Be,Milton Station,0,EV,Trafalgar Station,5.5
+60.0,GT02Be,Trafalgar Station,1,EV,Lisgar Station,3.75
+60.0,GT02Be,Lisgar Station,2,EV,Meadowvale Station,3.5
+60.0,GT02Be,Meadowvale Station,3,EV,Streetsville Station,4.25
+60.0,GT02Be,Streetsville Station,4,EV,Erindale Station,4.5
+60.0,GT02Be,Erindale Station,5,EV,Cooksville Station,4.75
+60.0,GT02Be,Cooksville Station,6,EV,Dixie Station,4.0
+60.0,GT02Be,Dixie Station,7,EV,Kipling Station,4.25
+0.0,GT02Be,Kipling Station,8,EV,Union Station,14.5
+60.0,GT02Be,Milton Station,0,MD,Trafalgar Station,5.5
+60.0,GT02Be,Trafalgar Station,1,MD,Lisgar Station,3.75
+60.0,GT02Be,Lisgar Station,2,MD,Meadowvale Station,3.5
+60.0,GT02Be,Meadowvale Station,3,MD,Streetsville Station,4.25
+60.0,GT02Be,Streetsville Station,4,MD,Erindale Station,4.5
+60.0,GT02Be,Erindale Station,5,MD,Cooksville Station,4.75
+60.0,GT02Be,Cooksville Station,6,MD,Dixie Station,4.0
+60.0,GT02Be,Dixie Station,7,MD,Kipling Station,4.25
+0.0,GT02Be,Kipling Station,8,MD,Union Station,14.5
+60.0,GT02Aw,Union Station,0,EV,Kipling Station,13.5
+60.0,GT02Aw,Kipling Station,1,EV,Dixie Station,4.0
+60.0,GT02Aw,Dixie Station,2,EV,Cooksville Station,4.25
+60.0,GT02Aw,Cooksville Station,3,EV,Erindale Station,4.25
+60.0,GT02Aw,Erindale Station,4,EV,Streetsville Station,3.95
+60.0,GT02Aw,Streetsville Station,5,EV,Meadowvale Station,4.5
+60.0,GT02Aw,Meadowvale Station,6,EV,Lisgar Station,3.75
+60.0,GT02Aw,Lisgar Station,7,EV,Trafalgar Station,3.75
+0.0,GT02Aw,Trafalgar Station,8,EV,Milton Station,5.5
+60.0,GT02Aw,Union Station,0,MD,Kipling Station,13.5
+60.0,GT02Aw,Kipling Station,1,MD,Dixie Station,4.0
+60.0,GT02Aw,Dixie Station,2,MD,Cooksville Station,4.25
+60.0,GT02Aw,Cooksville Station,3,MD,Erindale Station,4.25
+60.0,GT02Aw,Erindale Station,4,MD,Streetsville Station,3.75
+60.0,GT02Aw,Streetsville Station,5,MD,Meadowvale Station,4.5
+60.0,GT02Aw,Meadowvale Station,6,MD,Lisgar Station,3.75
+60.0,GT02Aw,Lisgar Station,7,MD,Trafalgar Station,3.75
+0.0,GT02Aw,Trafalgar Station,8,MD,Milton Station,5.5
+60.0,GT02Bw,Union Station,0,PM,Kipling Station,13.5
+60.0,GT02Bw,Kipling Station,1,PM,Dixie Station,4.0
+60.0,GT02Bw,Dixie Station,2,PM,Cooksville Station,4.25
+60.0,GT02Bw,Cooksville Station,3,PM,Erindale Station,4.25
+60.0,GT02Bw,Erindale Station,4,PM,Streetsville Station,3.75
+60.0,GT02Bw,Streetsville Station,5,PM,Meadowvale Station,4.5
+60.0,GT02Bw,Meadowvale Station,6,PM,Lisgar Station,3.75
+60.0,GT02Bw,Lisgar Station,7,PM,Trafalgar Station,3.75
+0.0,GT02Bw,Trafalgar Station,8,PM,Milton Station,5.5
+30.0,GT03Ae,Pearson Station,0,AM,Woodbine Station,5.25
+30.0,GT03Ae,Woodbine Station,1,AM,Mt. Dennis Station,6.25
+30.0,GT03Ae,Mt. Dennis Station,2,AM,Bloor Station,3.25
+0.0,GT03Ae,Bloor Station,3,AM,Union Station,8.0
+30.0,GT03Ae,Pearson Station,0,EV,Woodbine Station,5.25
+30.0,GT03Ae,Woodbine Station,1,EV,Mt. Dennis Station,6.25
+30.0,GT03Ae,Mt. Dennis Station,2,EV,Bloor Station,3.25
+0.0,GT03Ae,Bloor Station,3,EV,Union Station,8.0
+30.0,GT03Ae,Pearson Station,0,MD,Woodbine Station,5.25
+30.0,GT03Ae,Woodbine Station,1,MD,Mt. Dennis Station,6.25
+30.0,GT03Ae,Mt. Dennis Station,2,MD,Bloor Station,3.25
+0.0,GT03Ae,Bloor Station,3,MD,Union Station,8.0
+30.0,GT03Ae,Pearson Station,0,PM,Woodbine Station,5.25
+30.0,GT03Ae,Woodbine Station,1,PM,Mt. Dennis Station,6.25
+30.0,GT03Ae,Mt. Dennis Station,2,PM,Bloor Station,3.25
+0.0,GT03Ae,Bloor Station,3,PM,Union Station,8.0
+30.0,GT03Be,Pearson Station,0,AM,Woodbine Station,5.25
+30.0,GT03Be,Woodbine Station,1,AM,Weston Station,5.0
+30.0,GT03Be,Weston Station,2,AM,St. Clair West Station,3.25
+30.0,GT03Be,St. Clair West Station,3,AM,Bloor Station,2.0
+30.0,GT03Be,Bloor Station,4,AM,King-Liberty Station,2.5
+0.0,GT03Be,King-Liberty Station,5,AM,Union Station,6.0
+30.0,GT03Be,Pearson Station,0,EV,Woodbine Station,5.25
+30.0,GT03Be,Woodbine Station,1,EV,Weston Station,5.0
+30.0,GT03Be,Weston Station,2,EV,St. Clair West Station,3.25
+30.0,GT03Be,St. Clair West Station,3,EV,Bloor Station,2.0
+30.0,GT03Be,Bloor Station,4,EV,King-Liberty Station,2.5
+0.0,GT03Be,King-Liberty Station,5,EV,Union Station,6.0
+30.0,GT03Be,Pearson Station,0,MD,Woodbine Station,5.25
+30.0,GT03Be,Woodbine Station,1,MD,Weston Station,5.0
+30.0,GT03Be,Weston Station,2,MD,St. Clair West Station,3.25
+30.0,GT03Be,St. Clair West Station,3,MD,Bloor Station,2.0
+30.0,GT03Be,Bloor Station,4,MD,King-Liberty Station,2.5
+0.0,GT03Be,King-Liberty Station,5,MD,Union Station,5.958333333
+30.0,GT03Be,Pearson Station,0,PM,Woodbine Station,5.25
+30.0,GT03Be,Woodbine Station,1,PM,Weston Station,5.0
+30.0,GT03Be,Weston Station,2,PM,St. Clair West Station,3.25
+30.0,GT03Be,St. Clair West Station,3,PM,Bloor Station,2.0
+30.0,GT03Be,Bloor Station,4,PM,King-Liberty Station,2.5
+0.0,GT03Be,King-Liberty Station,5,PM,Union Station,6.0
+75.0,GT03Ce,Mt. Pleasant Station,0,AM,Brampton Station,4.75
+75.0,GT03Ce,Brampton Station,1,AM,Bramalea Station,5.75
+60.0,GT03Ce,Bramalea Station,2,AM,Malton Station,5.25
+60.0,GT03Ce,Malton Station,3,AM,Woodbine Station,3.5
+60.0,GT03Ce,Woodbine Station,4,AM,Weston Station,5.75
+60.0,GT03Ce,Weston Station,5,AM,Mt. Dennis Station,2.75
+60.0,GT03Ce,Mt. Dennis Station,6,AM,St. Clair West Station,2.5
+60.0,GT03Ce,St. Clair West Station,7,AM,Bloor Station,2.75
+60.0,GT03Ce,Bloor Station,8,AM,King-Liberty Station,3.0
+0.0,GT03Ce,King-Liberty Station,9,AM,Union Station,4.75
+60.0,GT03De,Mt. Pleasant Station,0,AM,Brampton Station,5.0
+60.0,GT03De,Brampton Station,1,AM,Bramalea Station,5.75
+60.0,GT03De,Bramalea Station,2,AM,Malton Station,5.25
+60.0,GT03De,Malton Station,3,AM,Woodbine Station,3.5
+60.0,GT03De,Woodbine Station,4,AM,Weston Station,5.75
+60.0,GT03De,Weston Station,5,AM,Mt. Dennis Station,2.75
+60.0,GT03De,Mt. Dennis Station,6,AM,St. Clair West Station,2.5
+60.0,GT03De,St. Clair West Station,7,AM,Bloor Station,2.75
+60.0,GT03De,Bloor Station,8,AM,King-Liberty Station,3.0
+0.0,GT03De,King-Liberty Station,9,AM,Union Station,4.75
+75.0,GT03Ee,Mt. Pleasant Station,0,AM,Brampton Station,4.75
+75.0,GT03Ee,Brampton Station,1,AM,Bramalea Station,5.75
+60.0,GT03Ee,Bramalea Station,2,AM,Malton Station,5.25
+60.0,GT03Ee,Malton Station,3,AM,Woodbine Station,3.5
+60.0,GT03Ee,Woodbine Station,4,AM,Bloor Station,9.25
+0.0,GT03Ee,Bloor Station,5,AM,Union Station,7.5
+70.0,GT03Ee,Mt. Pleasant Station,0,EV,Brampton Station,4.833333333333333
+70.0,GT03Ee,Brampton Station,1,EV,Bramalea Station,5.75
+60.0,GT03Ee,Bramalea Station,2,EV,Malton Station,5.5
+60.0,GT03Ee,Malton Station,3,EV,Woodbine Station,3.5
+60.0,GT03Ee,Woodbine Station,4,EV,Bloor Station,9.583333333333334
+0.0,GT03Ee,Bloor Station,5,EV,Union Station,7.5
+70.0,GT03Ee,Mt. Pleasant Station,0,MD,Brampton Station,4.833333333333333
+70.0,GT03Ee,Brampton Station,1,MD,Bramalea Station,5.75
+60.0,GT03Ee,Bramalea Station,2,MD,Malton Station,5.45833333325
+60.0,GT03Ee,Malton Station,3,MD,Woodbine Station,3.5
+60.0,GT03Ee,Woodbine Station,4,MD,Bloor Station,9.583333333333334
+0.0,GT03Ee,Bloor Station,5,MD,Union Station,7.5
+75.0,GT03Ee,Mt. Pleasant Station,0,PM,Brampton Station,4.75
+75.0,GT03Ee,Brampton Station,1,PM,Bramalea Station,5.75
+60.0,GT03Ee,Bramalea Station,2,PM,Malton Station,5.583333333333333
+60.0,GT03Ee,Malton Station,3,PM,Woodbine Station,3.5
+60.0,GT03Ee,Woodbine Station,4,PM,Bloor Station,9.75
+0.0,GT03Ee,Bloor Station,5,PM,Union Station,7.5
+90.0,GT03Fe,Mt. Pleasant Station,0,EV,Brampton Station,4.5
+90.0,GT03Fe,Brampton Station,1,EV,Bramalea Station,5.75
+60.0,GT03Fe,Bramalea Station,2,EV,Malton Station,5.75
+60.0,GT03Fe,Malton Station,3,EV,Woodbine Station,3.5
+60.0,GT03Fe,Woodbine Station,4,EV,Bloor Station,9.75
+0.0,GT03Fe,Bloor Station,5,EV,Union Station,7.5
+70.0,GT03Fe,Mt. Pleasant Station,0,PM,Brampton Station,4.833333333333333
+70.0,GT03Fe,Brampton Station,1,PM,Bramalea Station,5.75
+60.0,GT03Fe,Bramalea Station,2,PM,Malton Station,5.416666666666667
+60.0,GT03Fe,Malton Station,3,PM,Woodbine Station,3.5
+60.0,GT03Fe,Woodbine Station,4,PM,Bloor Station,9.416666666666666
+0.0,GT03Fe,Bloor Station,5,PM,Union Station,7.5
+60.0,GT03Ge,Bramalea Station,0,AM,Malton Station,5.25
+60.0,GT03Ge,Malton Station,1,AM,Woodbine Station,3.5
+60.0,GT03Ge,Woodbine Station,2,AM,Weston Station,5.75
+60.0,GT03Ge,Weston Station,3,AM,Mt. Dennis Station,2.75
+60.0,GT03Ge,Mt. Dennis Station,4,AM,St. Clair West Station,2.5
+60.0,GT03Ge,St. Clair West Station,5,AM,Bloor Station,2.75
+60.0,GT03Ge,Bloor Station,6,AM,King-Liberty Station,3.0
+0.0,GT03Ge,King-Liberty Station,7,AM,Union Station,4.75
+60.0,GT03Ge,Bramalea Station,0,EV,Malton Station,5.5
+60.0,GT03Ge,Malton Station,1,EV,Woodbine Station,3.5
+60.0,GT03Ge,Woodbine Station,2,EV,Weston Station,5.75
+60.0,GT03Ge,Weston Station,3,EV,Mt. Dennis Station,2.75
+60.0,GT03Ge,Mt. Dennis Station,4,EV,St. Clair West Station,2.5
+60.0,GT03Ge,St. Clair West Station,5,EV,Bloor Station,2.75
+60.0,GT03Ge,Bloor Station,6,EV,King-Liberty Station,3.0
+0.0,GT03Ge,King-Liberty Station,7,EV,Union Station,4.75
+60.0,GT03Ge,Bramalea Station,0,MD,Malton Station,5.45833333325
+60.0,GT03Ge,Malton Station,1,MD,Woodbine Station,3.5
+60.0,GT03Ge,Woodbine Station,2,MD,Weston Station,5.75
+60.0,GT03Ge,Weston Station,3,MD,Mt. Dennis Station,2.75
+60.0,GT03Ge,Mt. Dennis Station,4,MD,St. Clair West Station,2.5
+60.0,GT03Ge,St. Clair West Station,5,MD,Bloor Station,2.75
+60.0,GT03Ge,Bloor Station,6,MD,King-Liberty Station,3.0
+0.0,GT03Ge,King-Liberty Station,7,MD,Union Station,4.75
+60.0,GT03Ge,Bramalea Station,0,PM,Malton Station,5.583333333333333
+60.0,GT03Ge,Malton Station,1,PM,Woodbine Station,3.5
+60.0,GT03Ge,Woodbine Station,2,PM,Weston Station,5.75
+60.0,GT03Ge,Weston Station,3,PM,Mt. Dennis Station,2.75
+60.0,GT03Ge,Mt. Dennis Station,4,PM,St. Clair West Station,2.5
+60.0,GT03Ge,St. Clair West Station,5,PM,Bloor Station,2.75
+60.0,GT03Ge,Bloor Station,6,PM,King-Liberty Station,3.0
+0.0,GT03Ge,King-Liberty Station,7,PM,Union Station,4.75
+60.0,GT03He,Kitchener Station,0,AM,Breslau Station,6.25
+60.0,GT03He,Breslau Station,1,AM,Guelph Station,13.0
+60.0,GT03He,Guelph Station,2,AM,Acton Station,14.25
+60.0,GT03He,Acton Station,3,AM,Georgetown Station,7.5
+60.0,GT03He,Georgetown Station,4,AM,Mt. Pleasant Station,6.25
+75.0,GT03He,Mt. Pleasant Station,5,AM,Brampton Station,4.75
+75.0,GT03He,Brampton Station,6,AM,Bramalea Station,5.75
+60.0,GT03He,Bramalea Station,7,AM,Malton Station,5.25
+60.0,GT03He,Malton Station,8,AM,Woodbine Station,3.5
+60.0,GT03He,Woodbine Station,9,AM,Bloor Station,9.25
+0.0,GT03He,Bloor Station,10,AM,Union Station,7.5
+60.0,GT03He,Kitchener Station,0,EV,Breslau Station,6.375
+60.0,GT03He,Breslau Station,1,EV,Guelph Station,13.0
+60.0,GT03He,Guelph Station,2,EV,Acton Station,14.25
+60.0,GT03He,Acton Station,3,EV,Georgetown Station,7.5
+60.0,GT03He,Georgetown Station,4,EV,Mt. Pleasant Station,6.25
+70.0,GT03He,Mt. Pleasant Station,5,EV,Brampton Station,4.833333333333333
+70.0,GT03He,Brampton Station,6,EV,Bramalea Station,5.75
+60.0,GT03He,Bramalea Station,7,EV,Malton Station,5.5
+60.0,GT03He,Malton Station,8,EV,Woodbine Station,3.5
+60.0,GT03He,Woodbine Station,9,EV,Bloor Station,9.583333333333334
+0.0,GT03He,Bloor Station,10,EV,Union Station,7.5
+60.0,GT03He,Kitchener Station,0,MD,Breslau Station,6.375
+60.0,GT03He,Breslau Station,1,MD,Guelph Station,13.0
+60.0,GT03He,Guelph Station,2,MD,Acton Station,14.25
+60.0,GT03He,Acton Station,3,MD,Georgetown Station,7.5
+60.0,GT03He,Georgetown Station,4,MD,Mt. Pleasant Station,6.25
+70.0,GT03He,Mt. Pleasant Station,5,MD,Brampton Station,4.833333333333333
+70.0,GT03He,Brampton Station,6,MD,Bramalea Station,5.75
+60.0,GT03He,Bramalea Station,7,MD,Malton Station,5.45833333325
+60.0,GT03He,Malton Station,8,MD,Woodbine Station,3.5
+60.0,GT03He,Woodbine Station,9,MD,Bloor Station,9.583333333333334
+0.0,GT03He,Bloor Station,10,MD,Union Station,7.5
+60.0,GT03Ie,Kitchener Station,0,AM,Breslau Station,6.75
+60.0,GT03Ie,Breslau Station,1,AM,Guelph Station,13.0
+60.0,GT03Ie,Guelph Station,2,AM,Acton Station,14.25
+60.0,GT03Ie,Acton Station,3,AM,Georgetown Station,7.5
+60.0,GT03Ie,Georgetown Station,4,AM,Mt. Pleasant Station,6.25
+60.0,GT03Ie,Mt. Pleasant Station,5,AM,Brampton Station,5.0
+60.0,GT03Ie,Brampton Station,6,AM,Bramalea Station,5.75
+60.0,GT03Ie,Bramalea Station,7,AM,Malton Station,5.25
+60.0,GT03Ie,Malton Station,8,AM,Woodbine Station,3.5
+60.0,GT03Ie,Woodbine Station,9,AM,Bloor Station,9.25
+0.0,GT03Ie,Bloor Station,10,AM,Union Station,7.5
+60.0,GT03Ie,Kitchener Station,0,MD,Breslau Station,7.0
+60.0,GT03Ie,Breslau Station,1,MD,Guelph Station,13.0
+60.0,GT03Ie,Guelph Station,2,MD,Acton Station,14.25
+60.0,GT03Ie,Acton Station,3,MD,Georgetown Station,7.5
+60.0,GT03Ie,Georgetown Station,4,MD,Mt. Pleasant Station,6.25
+60.0,GT03Ie,Mt. Pleasant Station,5,MD,Brampton Station,5.0
+60.0,GT03Ie,Brampton Station,6,MD,Bramalea Station,5.75
+60.0,GT03Ie,Bramalea Station,7,MD,Malton Station,5.25
+60.0,GT03Ie,Malton Station,8,MD,Woodbine Station,3.5
+60.0,GT03Ie,Woodbine Station,9,MD,Bloor Station,9.25
+0.0,GT03Ie,Bloor Station,10,MD,Union Station,7.5
+60.0,GT03Ie,Kitchener Station,0,PM,Breslau Station,6.875
+60.0,GT03Ie,Breslau Station,1,PM,Guelph Station,13.0
+60.0,GT03Ie,Guelph Station,2,PM,Acton Station,14.25
+60.0,GT03Ie,Acton Station,3,PM,Georgetown Station,7.5
+60.0,GT03Ie,Georgetown Station,4,PM,Mt. Pleasant Station,6.25
+70.0,GT03Ie,Mt. Pleasant Station,5,PM,Brampton Station,4.833333333333333
+70.0,GT03Ie,Brampton Station,6,PM,Bramalea Station,5.75
+60.0,GT03Ie,Bramalea Station,7,PM,Malton Station,5.416666666666667
+60.0,GT03Ie,Malton Station,8,PM,Woodbine Station,3.5
+60.0,GT03Ie,Woodbine Station,9,PM,Bloor Station,9.416666666666666
+0.0,GT03Ie,Bloor Station,10,PM,Union Station,7.5
+60.0,GT03Je,Kitchener Station,0,EV,Breslau Station,6.375
+60.0,GT03Je,Breslau Station,1,EV,Guelph Station,13.0
+60.0,GT03Je,Guelph Station,2,EV,Georgetown Station,22.0
+60.0,GT03Je,Georgetown Station,3,EV,Mt. Pleasant Station,6.25
+70.0,GT03Je,Mt. Pleasant Station,4,EV,Brampton Station,4.833333333333333
+70.0,GT03Je,Brampton Station,5,EV,Bramalea Station,5.75
+60.0,GT03Je,Bramalea Station,6,EV,Malton Station,5.5
+60.0,GT03Je,Malton Station,7,EV,Woodbine Station,3.5
+60.0,GT03Je,Woodbine Station,8,EV,Bloor Station,9.583333333333334
+0.0,GT03Je,Bloor Station,9,EV,Union Station,7.5
+60.0,GT03Je,Kitchener Station,0,MD,Breslau Station,6.375
+60.0,GT03Je,Breslau Station,1,MD,Guelph Station,13.0
+60.0,GT03Je,Guelph Station,2,MD,Georgetown Station,22.0
+60.0,GT03Je,Georgetown Station,3,MD,Mt. Pleasant Station,6.25
+70.0,GT03Je,Mt. Pleasant Station,4,MD,Brampton Station,4.833333333333333
+70.0,GT03Je,Brampton Station,5,MD,Bramalea Station,5.75
+60.0,GT03Je,Bramalea Station,6,MD,Malton Station,5.45833333325
+60.0,GT03Je,Malton Station,7,MD,Woodbine Station,3.5
+60.0,GT03Je,Woodbine Station,8,MD,Bloor Station,9.583333333333334
+0.0,GT03Je,Bloor Station,9,MD,Union Station,7.5
+60.0,GT03Je,Kitchener Station,0,PM,Breslau Station,6.5
+60.0,GT03Je,Breslau Station,1,PM,Guelph Station,13.0
+60.0,GT03Je,Guelph Station,2,PM,Georgetown Station,22.0
+60.0,GT03Je,Georgetown Station,3,PM,Mt. Pleasant Station,6.25
+75.0,GT03Je,Mt. Pleasant Station,4,PM,Brampton Station,4.75
+75.0,GT03Je,Brampton Station,5,PM,Bramalea Station,5.75
+60.0,GT03Je,Bramalea Station,6,PM,Malton Station,5.583333333333333
+60.0,GT03Je,Malton Station,7,PM,Woodbine Station,3.5
+60.0,GT03Je,Woodbine Station,8,PM,Bloor Station,9.75
+0.0,GT03Je,Bloor Station,9,PM,Union Station,7.5
+60.0,GT03Ke,Kitchener Station,0,PM,Breslau Station,6.875
+60.0,GT03Ke,Breslau Station,1,PM,Guelph Station,13.0
+60.0,GT03Ke,Guelph Station,2,PM,Georgetown Station,22.0
+60.0,GT03Ke,Georgetown Station,3,PM,Mt. Pleasant Station,6.25
+70.0,GT03Ke,Mt. Pleasant Station,4,PM,Brampton Station,4.833333333333333
+70.0,GT03Ke,Brampton Station,5,PM,Bramalea Station,5.75
+60.0,GT03Ke,Bramalea Station,6,PM,Malton Station,5.416666666666667
+60.0,GT03Ke,Malton Station,7,PM,Woodbine Station,3.5
+60.0,GT03Ke,Woodbine Station,8,PM,Bloor Station,9.416666666666666
+0.0,GT03Ke,Bloor Station,9,PM,Union Station,7.5
+30.0,GT03Aw,Union Station,0,AM,Bloor Station,6.75
+30.0,GT03Aw,Bloor Station,1,AM,Mt. Dennis Station,3.0
+30.0,GT03Aw,Mt. Dennis Station,2,AM,Woodbine Station,6.25
+0.0,GT03Aw,Woodbine Station,3,AM,Pearson Station,5.375
+30.0,GT03Aw,Union Station,0,EV,Bloor Station,6.75
+30.0,GT03Aw,Bloor Station,1,EV,Mt. Dennis Station,3.0
+30.0,GT03Aw,Mt. Dennis Station,2,EV,Woodbine Station,6.25
+0.0,GT03Aw,Woodbine Station,3,EV,Pearson Station,5.375
+30.0,GT03Aw,Union Station,0,MD,Bloor Station,6.75
+30.0,GT03Aw,Bloor Station,1,MD,Mt. Dennis Station,3.0
+30.0,GT03Aw,Mt. Dennis Station,2,MD,Woodbine Station,6.25
+0.0,GT03Aw,Woodbine Station,3,MD,Pearson Station,5.375
+30.0,GT03Aw,Union Station,0,PM,Bloor Station,6.75
+30.0,GT03Aw,Bloor Station,1,PM,Mt. Dennis Station,3.0
+30.0,GT03Aw,Mt. Dennis Station,2,PM,Woodbine Station,6.25
+0.0,GT03Aw,Woodbine Station,3,PM,Pearson Station,5.375
+30.0,GT03Bw,Union Station,0,AM,King-Liberty Station,4.5
+30.0,GT03Bw,King-Liberty Station,1,AM,Bloor Station,2.5
+30.0,GT03Bw,Bloor Station,2,AM,St. Clair West Station,2.0
+30.0,GT03Bw,St. Clair West Station,3,AM,Weston Station,3.25
+30.0,GT03Bw,Weston Station,4,AM,Woodbine Station,5.0
+0.0,GT03Bw,Woodbine Station,5,AM,Pearson Station,5.375
+30.0,GT03Bw,Union Station,0,EV,King-Liberty Station,4.5
+30.0,GT03Bw,King-Liberty Station,1,EV,Bloor Station,2.5
+30.0,GT03Bw,Bloor Station,2,EV,St. Clair West Station,2.0
+30.0,GT03Bw,St. Clair West Station,3,EV,Weston Station,3.25
+30.0,GT03Bw,Weston Station,4,EV,Woodbine Station,5.0
+0.0,GT03Bw,Woodbine Station,5,EV,Pearson Station,5.375
+30.0,GT03Bw,Union Station,0,MD,King-Liberty Station,4.5
+30.0,GT03Bw,King-Liberty Station,1,MD,Bloor Station,2.5
+30.0,GT03Bw,Bloor Station,2,MD,St. Clair West Station,2.0
+30.0,GT03Bw,St. Clair West Station,3,MD,Weston Station,3.25
+30.0,GT03Bw,Weston Station,4,MD,Woodbine Station,5.0
+0.0,GT03Bw,Woodbine Station,5,MD,Pearson Station,5.375
+30.0,GT03Bw,Union Station,0,PM,King-Liberty Station,4.5
+30.0,GT03Bw,King-Liberty Station,1,PM,Bloor Station,2.5
+30.0,GT03Bw,Bloor Station,2,PM,St. Clair West Station,2.0
+30.0,GT03Bw,St. Clair West Station,3,PM,Weston Station,3.25
+30.0,GT03Bw,Weston Station,4,PM,Woodbine Station,5.0
+0.0,GT03Bw,Woodbine Station,5,PM,Pearson Station,5.375
+60.0,GT03Cw,Union Station,0,AM,King-Liberty Station,4.75
+60.0,GT03Cw,King-Liberty Station,1,AM,Bloor Station,3.5
+60.0,GT03Cw,Bloor Station,2,AM,St. Clair West Station,3.25
+60.0,GT03Cw,St. Clair West Station,3,AM,Mt. Dennis Station,2.5
+60.0,GT03Cw,Mt. Dennis Station,4,AM,Weston Station,3.0
+60.0,GT03Cw,Weston Station,5,AM,Woodbine Station,6.25
+60.0,GT03Cw,Woodbine Station,6,AM,Malton Station,3.75
+45.0,GT03Cw,Malton Station,7,AM,Bramalea Station,5.25
+60.0,GT03Cw,Union Station,0,EV,King-Liberty Station,4.75
+60.0,GT03Cw,King-Liberty Station,1,EV,Bloor Station,3.5
+60.0,GT03Cw,Bloor Station,2,EV,St. Clair West Station,3.25
+60.0,GT03Cw,St. Clair West Station,3,EV,Mt. Dennis Station,2.5
+60.0,GT03Cw,Mt. Dennis Station,4,EV,Weston Station,3.0
+60.0,GT03Cw,Weston Station,5,EV,Woodbine Station,6.25
+60.0,GT03Cw,Woodbine Station,6,EV,Malton Station,3.75
+52.5,GT03Cw,Malton Station,7,EV,Bramalea Station,5.25
+60.0,GT03Cw,Union Station,0,MD,King-Liberty Station,4.75
+60.0,GT03Cw,King-Liberty Station,1,MD,Bloor Station,3.5
+60.0,GT03Cw,Bloor Station,2,MD,St. Clair West Station,3.25
+60.0,GT03Cw,St. Clair West Station,3,MD,Mt. Dennis Station,2.5
+60.0,GT03Cw,Mt. Dennis Station,4,MD,Weston Station,3.0
+60.0,GT03Cw,Weston Station,5,MD,Woodbine Station,6.25
+60.0,GT03Cw,Woodbine Station,6,MD,Malton Station,3.75
+52.5,GT03Cw,Malton Station,7,MD,Bramalea Station,5.3
+60.0,GT03Dw,Union Station,0,AM,King-Liberty Station,4.75
+60.0,GT03Dw,King-Liberty Station,1,AM,Bloor Station,3.5
+60.0,GT03Dw,Bloor Station,2,AM,St. Clair West Station,3.25
+60.0,GT03Dw,St. Clair West Station,3,AM,Mt. Dennis Station,2.5
+60.0,GT03Dw,Mt. Dennis Station,4,AM,Weston Station,3.0
+60.0,GT03Dw,Weston Station,5,AM,Woodbine Station,6.25
+60.0,GT03Dw,Woodbine Station,6,AM,Malton Station,3.75
+45.0,GT03Dw,Malton Station,7,AM,Bramalea Station,5.25
+90.0,GT03Dw,Bramalea Station,8,AM,Brampton Station,5.5
+0.0,GT03Dw,Brampton Station,9,AM,Mt. Pleasant Station,5.25
+60.0,GT03Dw,Union Station,0,PM,King-Liberty Station,4.75
+60.0,GT03Dw,King-Liberty Station,1,PM,Bloor Station,3.5
+60.0,GT03Dw,Bloor Station,2,PM,St. Clair West Station,3.25
+60.0,GT03Dw,St. Clair West Station,3,PM,Mt. Dennis Station,2.5
+60.0,GT03Dw,Mt. Dennis Station,4,PM,Weston Station,3.0
+60.0,GT03Dw,Weston Station,5,PM,Woodbine Station,6.25
+60.0,GT03Dw,Woodbine Station,6,PM,Malton Station,3.75
+75.0,GT03Dw,Malton Station,7,PM,Bramalea Station,5.25
+75.0,GT03Dw,Bramalea Station,8,PM,Brampton Station,5.5
+30.0,GT03Dw,Brampton Station,9,PM,Mt. Pleasant Station,5.125
+60.0,GT03Ew,Union Station,0,PM,King-Liberty Station,4.75
+60.0,GT03Ew,King-Liberty Station,1,PM,Bloor Station,3.5
+60.0,GT03Ew,Bloor Station,2,PM,St. Clair West Station,3.25
+60.0,GT03Ew,St. Clair West Station,3,PM,Mt. Dennis Station,2.5
+60.0,GT03Ew,Mt. Dennis Station,4,PM,Weston Station,3.0
+60.0,GT03Ew,Weston Station,5,PM,Woodbine Station,6.25
+60.0,GT03Ew,Woodbine Station,6,PM,Malton Station,3.75
+60.0,GT03Ew,Malton Station,7,PM,Bramalea Station,5.25
+60.0,GT03Ew,Bramalea Station,8,PM,Brampton Station,5.5
+60.0,GT03Ew,Brampton Station,9,PM,Mt. Pleasant Station,5.0
+60.0,GT03Fw,Union Station,0,EV,Bloor Station,6.75
+60.0,GT03Fw,Bloor Station,1,EV,Woodbine Station,10.783333333333333
+60.0,GT03Fw,Woodbine Station,2,EV,Malton Station,3.75
+52.5,GT03Fw,Malton Station,3,EV,Bramalea Station,5.25
+70.0,GT03Fw,Bramalea Station,4,EV,Brampton Station,5.5
+40.0,GT03Fw,Brampton Station,5,EV,Mt. Pleasant Station,5.0
+60.0,GT03Fw,Union Station,0,MD,Bloor Station,6.75
+60.0,GT03Fw,Bloor Station,1,MD,Woodbine Station,10.916666666666666
+60.0,GT03Fw,Woodbine Station,2,MD,Malton Station,3.75
+52.5,GT03Fw,Malton Station,3,MD,Bramalea Station,5.3
+70.0,GT03Fw,Bramalea Station,4,MD,Brampton Station,5.5
+40.0,GT03Fw,Brampton Station,5,MD,Mt. Pleasant Station,5.0
+60.0,GT03Gw,Union Station,0,AM,Bloor Station,7.0
+60.0,GT03Gw,Bloor Station,1,AM,Woodbine Station,11.0
+60.0,GT03Gw,Woodbine Station,2,AM,Malton Station,3.75
+75.0,GT03Gw,Malton Station,3,AM,Bramalea Station,5.25
+75.0,GT03Gw,Bramalea Station,4,AM,Brampton Station,5.5
+30.0,GT03Gw,Brampton Station,5,AM,Mt. Pleasant Station,5.0
+60.0,GT03Hw,Union Station,0,EV,Bloor Station,6.75
+60.0,GT03Hw,Bloor Station,1,EV,Woodbine Station,10.783333333333333
+60.0,GT03Hw,Woodbine Station,2,EV,Malton Station,3.75
+52.5,GT03Hw,Malton Station,3,EV,Bramalea Station,5.25
+70.0,GT03Hw,Bramalea Station,4,EV,Brampton Station,5.5
+40.0,GT03Hw,Brampton Station,5,EV,Mt. Pleasant Station,5.0
+60.0,GT03Hw,Mt. Pleasant Station,6,EV,Georgetown Station,7.0
+60.0,GT03Hw,Georgetown Station,7,EV,Guelph Station,22.25
+60.0,GT03Hw,Guelph Station,8,EV,Breslau Station,10.5
+0.0,GT03Hw,Breslau Station,9,EV,Kitchener Station,7.0
+60.0,GT03Hw,Union Station,0,MD,Bloor Station,6.75
+60.0,GT03Hw,Bloor Station,1,MD,Woodbine Station,10.916666666666666
+60.0,GT03Hw,Woodbine Station,2,MD,Malton Station,3.75
+52.5,GT03Hw,Malton Station,3,MD,Bramalea Station,5.3
+70.0,GT03Hw,Bramalea Station,4,MD,Brampton Station,5.5
+40.0,GT03Hw,Brampton Station,5,MD,Mt. Pleasant Station,5.0
+60.0,GT03Hw,Mt. Pleasant Station,6,MD,Georgetown Station,7.0
+60.0,GT03Hw,Georgetown Station,7,MD,Guelph Station,22.25
+60.0,GT03Hw,Guelph Station,8,MD,Breslau Station,10.5
+0.0,GT03Hw,Breslau Station,9,MD,Kitchener Station,7.0
+60.0,GT03Iw,Union Station,0,AM,Bloor Station,7.0
+60.0,GT03Iw,Bloor Station,1,AM,Woodbine Station,11.0
+60.0,GT03Iw,Woodbine Station,2,AM,Malton Station,3.75
+75.0,GT03Iw,Malton Station,3,AM,Bramalea Station,5.25
+75.0,GT03Iw,Bramalea Station,4,AM,Brampton Station,5.5
+30.0,GT03Iw,Brampton Station,5,AM,Mt. Pleasant Station,5.0
+60.0,GT03Iw,Mt. Pleasant Station,6,AM,Georgetown Station,7.0
+60.0,GT03Iw,Georgetown Station,7,AM,Guelph Station,22.25
+60.0,GT03Iw,Guelph Station,8,AM,Breslau Station,10.5
+0.0,GT03Iw,Breslau Station,9,AM,Kitchener Station,7.25
+60.0,GT03Jw,Union Station,0,EV,Bloor Station,6.75
+60.0,GT03Jw,Bloor Station,1,EV,Woodbine Station,10.783333333333333
+60.0,GT03Jw,Woodbine Station,2,EV,Malton Station,3.75
+52.5,GT03Jw,Malton Station,3,EV,Bramalea Station,5.25
+70.0,GT03Jw,Bramalea Station,4,EV,Brampton Station,5.5
+40.0,GT03Jw,Brampton Station,5,EV,Mt. Pleasant Station,5.0
+60.0,GT03Jw,Mt. Pleasant Station,6,EV,Georgetown Station,7.0
+60.0,GT03Jw,Georgetown Station,7,EV,Acton Station,8.75
+60.0,GT03Jw,Acton Station,8,EV,Guelph Station,13.75
+60.0,GT03Jw,Guelph Station,9,EV,Breslau Station,10.5
+0.0,GT03Jw,Breslau Station,10,EV,Kitchener Station,7.0
+60.0,GT03Jw,Union Station,0,MD,Bloor Station,6.75
+60.0,GT03Jw,Bloor Station,1,MD,Woodbine Station,10.916666666666666
+60.0,GT03Jw,Woodbine Station,2,MD,Malton Station,3.75
+52.5,GT03Jw,Malton Station,3,MD,Bramalea Station,5.3
+70.0,GT03Jw,Bramalea Station,4,MD,Brampton Station,5.5
+40.0,GT03Jw,Brampton Station,5,MD,Mt. Pleasant Station,5.0
+60.0,GT03Jw,Mt. Pleasant Station,6,MD,Georgetown Station,7.0
+60.0,GT03Jw,Georgetown Station,7,MD,Acton Station,8.75
+60.0,GT03Jw,Acton Station,8,MD,Guelph Station,13.75
+60.0,GT03Jw,Guelph Station,9,MD,Breslau Station,10.5
+0.0,GT03Jw,Breslau Station,10,MD,Kitchener Station,7.0
+60.0,GT03Jw,Union Station,0,PM,Bloor Station,6.75
+60.0,GT03Jw,Bloor Station,1,PM,Woodbine Station,10.25
+60.0,GT03Jw,Woodbine Station,2,PM,Malton Station,3.75
+75.0,GT03Jw,Malton Station,3,PM,Bramalea Station,5.25
+75.0,GT03Jw,Bramalea Station,4,PM,Brampton Station,5.5
+30.0,GT03Jw,Brampton Station,5,PM,Mt. Pleasant Station,5.125
+60.0,GT03Jw,Mt. Pleasant Station,6,PM,Georgetown Station,7.0
+60.0,GT03Jw,Georgetown Station,7,PM,Acton Station,8.75
+60.0,GT03Jw,Acton Station,8,PM,Guelph Station,13.75
+60.0,GT03Jw,Guelph Station,9,PM,Breslau Station,10.5
+15.0,GT03Jw,Breslau Station,10,PM,Kitchener Station,6.75
+60.0,GT03Kw,Union Station,0,EV,Bloor Station,6.75
+60.0,GT03Kw,Bloor Station,1,EV,Woodbine Station,10.783333333333333
+60.0,GT03Kw,Woodbine Station,2,EV,Malton Station,3.75
+52.5,GT03Kw,Malton Station,3,EV,Bramalea Station,5.25
+70.0,GT03Kw,Bramalea Station,4,EV,Brampton Station,5.5
+40.0,GT03Kw,Brampton Station,5,EV,Mt. Pleasant Station,5.0
+60.0,GT03Kw,Mt. Pleasant Station,6,EV,Georgetown Station,7.0
+60.0,GT03Kw,Georgetown Station,7,EV,Acton Station,8.75
+60.0,GT03Kw,Acton Station,8,EV,Guelph Station,13.75
+60.0,GT03Kw,Guelph Station,9,EV,Breslau Station,10.5
+0.0,GT03Kw,Breslau Station,10,EV,Kitchener Station,7.0
+60.0,GT03Kw,Union Station,0,PM,Bloor Station,7.0
+60.0,GT03Kw,Bloor Station,1,PM,Woodbine Station,10.0
+60.0,GT03Kw,Woodbine Station,2,PM,Malton Station,3.75
+60.0,GT03Kw,Malton Station,3,PM,Bramalea Station,5.25
+60.0,GT03Kw,Bramalea Station,4,PM,Brampton Station,5.5
+60.0,GT03Kw,Brampton Station,5,PM,Mt. Pleasant Station,5.0
+60.0,GT03Kw,Mt. Pleasant Station,6,PM,Georgetown Station,7.0
+60.0,GT03Kw,Georgetown Station,7,PM,Acton Station,9.0
+60.0,GT03Kw,Acton Station,8,PM,Guelph Station,13.75
+60.0,GT03Kw,Guelph Station,9,PM,Breslau Station,10.5
+0.0,GT03Kw,Breslau Station,10,PM,Kitchener Station,6.75
+60.0,GT05As,East Gwillimbury Station,0,AM,Newmarket Station,2.25
+80.0,GT05As,Newmarket Station,1,AM,Aurora Station,6.0
+60.0,GT05As,Aurora Station,2,AM,King City Station,9.25
+90.0,GT05As,King City Station,3,AM,Maple Station,6.0
+60.0,GT05As,Maple Station,4,AM,Downsview Park Station,8.5
+60.0,GT05As,Downsview Park Station,5,AM,Bloor-Lansdowne Station,9.25
+60.0,GT05As,Bloor-Lansdowne Station,6,AM,Spadina Station,4.25
+0.0,GT05As,Spadina Station,7,AM,Union Station,4.055555555666667
+60.0,GT05As,East Gwillimbury Station,0,EV,Newmarket Station,2.25
+80.0,GT05As,Newmarket Station,1,EV,Aurora Station,6.0
+60.0,GT05As,Aurora Station,2,EV,King City Station,9.25
+90.0,GT05As,King City Station,3,EV,Maple Station,6.0
+60.0,GT05As,Maple Station,4,EV,Downsview Park Station,8.5
+60.0,GT05As,Downsview Park Station,5,EV,Bloor-Lansdowne Station,9.25
+60.0,GT05As,Bloor-Lansdowne Station,6,EV,Spadina Station,4.25
+0.0,GT05As,Spadina Station,7,EV,Union Station,4.020833333333333
+60.0,GT05As,East Gwillimbury Station,0,MD,Newmarket Station,2.25
+80.0,GT05As,Newmarket Station,1,MD,Aurora Station,6.0
+60.0,GT05As,Aurora Station,2,MD,King City Station,9.25
+90.0,GT05As,King City Station,3,MD,Maple Station,6.0
+60.0,GT05As,Maple Station,4,MD,Downsview Park Station,8.5
+60.0,GT05As,Downsview Park Station,5,MD,Bloor-Lansdowne Station,9.25
+60.0,GT05As,Bloor-Lansdowne Station,6,MD,Spadina Station,4.25
+0.0,GT05As,Spadina Station,7,MD,Union Station,4.013888889
+60.0,GT05As,East Gwillimbury Station,0,PM,Newmarket Station,2.25
+80.0,GT05As,Newmarket Station,1,PM,Aurora Station,6.0
+60.0,GT05As,Aurora Station,2,PM,King City Station,9.25
+90.0,GT05As,King City Station,3,PM,Maple Station,6.0
+60.0,GT05As,Maple Station,4,PM,Downsview Park Station,8.5
+60.0,GT05As,Downsview Park Station,5,PM,Bloor-Lansdowne Station,9.25
+60.0,GT05As,Bloor-Lansdowne Station,6,PM,Spadina Station,4.25
+0.0,GT05As,Spadina Station,7,PM,Union Station,4.020833333333333
+60.0,GT05Bs,East Gwillimbury Station,0,AM,Newmarket Station,2.25
+80.0,GT05Bs,Newmarket Station,1,AM,Aurora Station,6.0
+60.0,GT05Bs,Aurora Station,2,AM,King City Station,9.25
+90.0,GT05Bs,King City Station,3,AM,Maple Station,6.0
+60.0,GT05Bs,Maple Station,4,AM,Downsview Park Station,8.5
+60.0,GT05Bs,Downsview Park Station,5,AM,Bloor-Lansdowne Station,9.25
+60.0,GT05Bs,Bloor-Lansdowne Station,6,AM,Spadina Station,4.25
+0.0,GT05Bs,Spadina Station,7,AM,Union Station,3.9166666666666665
+60.0,GT05Bs,East Gwillimbury Station,0,PM,Newmarket Station,2.25
+90.0,GT05Bs,Newmarket Station,1,PM,Aurora Station,6.0
+60.0,GT05Bs,Aurora Station,2,PM,King City Station,9.25
+90.0,GT05Bs,King City Station,3,PM,Maple Station,6.0
+60.0,GT05Bs,Maple Station,4,PM,Downsview Park Station,8.5
+60.0,GT05Bs,Downsview Park Station,5,PM,Bloor-Lansdowne Station,9.25
+60.0,GT05Bs,Bloor-Lansdowne Station,6,PM,Spadina Station,4.25
+0.0,GT05Bs,Spadina Station,7,PM,Union Station,4.0
+60.0,GT05Cs,Bradford Station,0,AM,East Gwillimbury Station,8.0
+60.0,GT05Cs,East Gwillimbury Station,1,AM,Newmarket Station,2.25
+80.0,GT05Cs,Newmarket Station,2,AM,Aurora Station,6.0
+60.0,GT05Cs,Aurora Station,3,AM,King City Station,9.25
+60.0,GT05Cs,King City Station,4,AM,Kirby Station,3.75
+60.0,GT05Cs,Kirby Station,5,AM,Maple Station,3.5
+60.0,GT05Cs,Maple Station,6,AM,Rutherford Station,2.75
+60.0,GT05Cs,Rutherford Station,7,AM,Downsview Park Station,7.25
+60.0,GT05Cs,Downsview Park Station,8,AM,Caledonia Station,5.25
+60.0,GT05Cs,Caledonia Station,9,AM,Bloor-Lansdowne Station,5.75
+60.0,GT05Cs,Bloor-Lansdowne Station,10,AM,Spadina Station,4.25
+0.0,GT05Cs,Spadina Station,11,AM,Union Station,4.055555555666667
+60.0,GT05Cs,Bradford Station,0,EV,East Gwillimbury Station,8.0
+60.0,GT05Cs,East Gwillimbury Station,1,EV,Newmarket Station,2.25
+80.0,GT05Cs,Newmarket Station,2,EV,Aurora Station,6.0
+60.0,GT05Cs,Aurora Station,3,EV,King City Station,9.25
+60.0,GT05Cs,King City Station,4,EV,Kirby Station,3.75
+60.0,GT05Cs,Kirby Station,5,EV,Maple Station,3.5
+60.0,GT05Cs,Maple Station,6,EV,Rutherford Station,2.75
+60.0,GT05Cs,Rutherford Station,7,EV,Downsview Park Station,7.25
+60.0,GT05Cs,Downsview Park Station,8,EV,Caledonia Station,5.25
+60.0,GT05Cs,Caledonia Station,9,EV,Bloor-Lansdowne Station,5.75
+60.0,GT05Cs,Bloor-Lansdowne Station,10,EV,Spadina Station,4.25
+0.0,GT05Cs,Spadina Station,11,EV,Union Station,4.020833333333333
+60.0,GT05Cs,Bradford Station,0,MD,East Gwillimbury Station,8.0
+60.0,GT05Cs,East Gwillimbury Station,1,MD,Newmarket Station,2.25
+80.0,GT05Cs,Newmarket Station,2,MD,Aurora Station,6.0
+60.0,GT05Cs,Aurora Station,3,MD,King City Station,9.25
+60.0,GT05Cs,King City Station,4,MD,Kirby Station,3.75
+60.0,GT05Cs,Kirby Station,5,MD,Maple Station,3.5
+60.0,GT05Cs,Maple Station,6,MD,Rutherford Station,2.75
+60.0,GT05Cs,Rutherford Station,7,MD,Downsview Park Station,7.25
+60.0,GT05Cs,Downsview Park Station,8,MD,Caledonia Station,5.25
+60.0,GT05Cs,Caledonia Station,9,MD,Bloor-Lansdowne Station,5.75
+60.0,GT05Cs,Bloor-Lansdowne Station,10,MD,Spadina Station,4.25
+0.0,GT05Cs,Spadina Station,11,MD,Union Station,4.013888889
+60.0,GT05Cs,Bradford Station,0,PM,East Gwillimbury Station,8.0
+60.0,GT05Cs,East Gwillimbury Station,1,PM,Newmarket Station,2.25
+80.0,GT05Cs,Newmarket Station,2,PM,Aurora Station,6.0
+60.0,GT05Cs,Aurora Station,3,PM,King City Station,9.25
+60.0,GT05Cs,King City Station,4,PM,Kirby Station,3.75
+60.0,GT05Cs,Kirby Station,5,PM,Maple Station,3.5
+60.0,GT05Cs,Maple Station,6,PM,Rutherford Station,2.75
+60.0,GT05Cs,Rutherford Station,7,PM,Downsview Park Station,7.25
+60.0,GT05Cs,Downsview Park Station,8,PM,Caledonia Station,5.25
+60.0,GT05Cs,Caledonia Station,9,PM,Bloor-Lansdowne Station,5.75
+60.0,GT05Cs,Bloor-Lansdowne Station,10,PM,Spadina Station,4.25
+0.0,GT05Cs,Spadina Station,11,PM,Union Station,4.020833333333333
+60.0,GT05Ds,Bradford Station,0,AM,East Gwillimbury Station,8.25
+60.0,GT05Ds,East Gwillimbury Station,1,AM,Newmarket Station,2.25
+80.0,GT05Ds,Newmarket Station,2,AM,Aurora Station,6.0
+60.0,GT05Ds,Aurora Station,3,AM,King City Station,9.25
+60.0,GT05Ds,King City Station,4,AM,Kirby Station,3.75
+60.0,GT05Ds,Kirby Station,5,AM,Maple Station,3.5
+60.0,GT05Ds,Maple Station,6,AM,Rutherford Station,2.75
+60.0,GT05Ds,Rutherford Station,7,AM,Downsview Park Station,7.25
+60.0,GT05Ds,Downsview Park Station,8,AM,Caledonia Station,5.25
+60.0,GT05Ds,Caledonia Station,9,AM,Bloor-Lansdowne Station,5.75
+60.0,GT05Ds,Bloor-Lansdowne Station,10,AM,Spadina Station,4.25
+0.0,GT05Ds,Spadina Station,11,AM,Union Station,3.9166666666666665
+60.0,GT05Es,Allandale Waterfront Station,0,AM,Barrie South Station,6.75
+60.0,GT05Es,Barrie South Station,1,AM,Innisfil Station,7.0
+60.0,GT05Es,Innisfil Station,2,AM,Bradford Station,12.75
+90.0,GT05Es,Bradford Station,3,AM,Newmarket Station,9.75
+80.0,GT05Es,Newmarket Station,4,AM,Aurora Station,6.0
+60.0,GT05Es,Aurora Station,5,AM,Kirby Station,11.5
+90.0,GT05Es,Kirby Station,6,AM,Rutherford Station,5.25
+60.0,GT05Es,Rutherford Station,7,AM,Caledonia Station,11.0
+60.0,GT05Es,Caledonia Station,8,AM,Spadina Station,9.25
+0.0,GT05Es,Spadina Station,9,AM,Union Station,4.055555555666667
+60.0,GT05Es,Allandale Waterfront Station,0,EV,Barrie South Station,6.78125
+60.0,GT05Es,Barrie South Station,1,EV,Innisfil Station,7.0
+60.0,GT05Es,Innisfil Station,2,EV,Bradford Station,12.75
+90.0,GT05Es,Bradford Station,3,EV,Newmarket Station,9.75
+80.0,GT05Es,Newmarket Station,4,EV,Aurora Station,6.0
+60.0,GT05Es,Aurora Station,5,EV,Kirby Station,11.5
+90.0,GT05Es,Kirby Station,6,EV,Rutherford Station,5.25
+60.0,GT05Es,Rutherford Station,7,EV,Caledonia Station,11.0
+60.0,GT05Es,Caledonia Station,8,EV,Spadina Station,9.25
+0.0,GT05Es,Spadina Station,9,EV,Union Station,4.020833333333333
+60.0,GT05Es,Allandale Waterfront Station,0,MD,Barrie South Station,6.825
+60.0,GT05Es,Barrie South Station,1,MD,Innisfil Station,7.0
+60.0,GT05Es,Innisfil Station,2,MD,Bradford Station,12.75
+90.0,GT05Es,Bradford Station,3,MD,Newmarket Station,9.75
+80.0,GT05Es,Newmarket Station,4,MD,Aurora Station,6.0
+60.0,GT05Es,Aurora Station,5,MD,Kirby Station,11.5
+90.0,GT05Es,Kirby Station,6,MD,Rutherford Station,5.25
+60.0,GT05Es,Rutherford Station,7,MD,Caledonia Station,11.0
+60.0,GT05Es,Caledonia Station,8,MD,Spadina Station,9.25
+0.0,GT05Es,Spadina Station,9,MD,Union Station,4.013888889
+60.0,GT05Es,Allandale Waterfront Station,0,PM,Barrie South Station,6.875
+60.0,GT05Es,Barrie South Station,1,PM,Innisfil Station,7.0
+60.0,GT05Es,Innisfil Station,2,PM,Bradford Station,12.75
+90.0,GT05Es,Bradford Station,3,PM,Newmarket Station,9.75
+80.0,GT05Es,Newmarket Station,4,PM,Aurora Station,6.0
+60.0,GT05Es,Aurora Station,5,PM,Kirby Station,11.5
+90.0,GT05Es,Kirby Station,6,PM,Rutherford Station,5.25
+60.0,GT05Es,Rutherford Station,7,PM,Caledonia Station,11.0
+60.0,GT05Es,Caledonia Station,8,PM,Spadina Station,9.25
+0.0,GT05Es,Spadina Station,9,PM,Union Station,4.020833333333333
+60.0,GT05Fs,Allandale Waterfront Station,0,AM,Barrie South Station,7.0
+60.0,GT05Fs,Barrie South Station,1,AM,Innisfil Station,7.0
+60.0,GT05Fs,Innisfil Station,2,AM,Bradford Station,12.75
+90.0,GT05Fs,Bradford Station,3,AM,Newmarket Station,9.75
+80.0,GT05Fs,Newmarket Station,4,AM,Aurora Station,6.0
+60.0,GT05Fs,Aurora Station,5,AM,Kirby Station,11.5
+90.0,GT05Fs,Kirby Station,6,AM,Rutherford Station,5.25
+60.0,GT05Fs,Rutherford Station,7,AM,Caledonia Station,11.0
+60.0,GT05Fs,Caledonia Station,8,AM,Spadina Station,9.5
+0.0,GT05Fs,Spadina Station,9,AM,Union Station,3.9166666666666665
+60.0,GT05Fs,Allandale Waterfront Station,0,MD,Barrie South Station,7.25
+60.0,GT05Fs,Barrie South Station,1,MD,Innisfil Station,7.0
+60.0,GT05Fs,Innisfil Station,2,MD,Bradford Station,12.75
+90.0,GT05Fs,Bradford Station,3,MD,Newmarket Station,9.75
+90.0,GT05Fs,Newmarket Station,4,MD,Aurora Station,6.0
+60.0,GT05Fs,Aurora Station,5,MD,Kirby Station,11.5
+90.0,GT05Fs,Kirby Station,6,MD,Rutherford Station,5.25
+60.0,GT05Fs,Rutherford Station,7,MD,Caledonia Station,11.0
+60.0,GT05Fs,Caledonia Station,8,MD,Spadina Station,9.5
+0.0,GT05Fs,Spadina Station,9,MD,Union Station,4.0
+60.0,GT05Fs,Allandale Waterfront Station,0,PM,Barrie South Station,7.125
+60.0,GT05Fs,Barrie South Station,1,PM,Innisfil Station,7.0
+60.0,GT05Fs,Innisfil Station,2,PM,Bradford Station,12.75
+90.0,GT05Fs,Bradford Station,3,PM,Newmarket Station,9.75
+90.0,GT05Fs,Newmarket Station,4,PM,Aurora Station,6.0
+60.0,GT05Fs,Aurora Station,5,PM,Kirby Station,11.5
+90.0,GT05Fs,Kirby Station,6,PM,Rutherford Station,5.25
+60.0,GT05Fs,Rutherford Station,7,PM,Caledonia Station,11.0
+60.0,GT05Fs,Caledonia Station,8,PM,Spadina Station,9.5
+0.0,GT05Fs,Spadina Station,9,PM,Union Station,4.0
+60.0,GT05An,Union Station,0,AM,Spadina Station,2.5
+60.0,GT05An,Spadina Station,1,AM,Bloor-Lansdowne Station,4.25
+60.0,GT05An,Bloor-Lansdowne Station,2,AM,Downsview Park Station,9.25
+90.0,GT05An,Downsview Park Station,3,AM,Maple Station,8.5
+60.0,GT05An,Maple Station,4,AM,King City Station,6.0
+75.0,GT05An,King City Station,5,AM,Aurora Station,8.5
+80.0,GT05An,Aurora Station,6,AM,Newmarket Station,6.25
+30.0,GT05An,Newmarket Station,7,AM,East Gwillimbury Station,2.625
+60.0,GT05An,Union Station,0,EV,Spadina Station,2.5
+60.0,GT05An,Spadina Station,1,EV,Bloor-Lansdowne Station,4.25
+60.0,GT05An,Bloor-Lansdowne Station,2,EV,Downsview Park Station,9.25
+90.0,GT05An,Downsview Park Station,3,EV,Maple Station,8.5
+60.0,GT05An,Maple Station,4,EV,King City Station,6.0
+75.0,GT05An,King City Station,5,EV,Aurora Station,8.5
+80.0,GT05An,Aurora Station,6,EV,Newmarket Station,6.25
+30.0,GT05An,Newmarket Station,7,EV,East Gwillimbury Station,2.625
+60.0,GT05An,Union Station,0,MD,Spadina Station,2.5
+60.0,GT05An,Spadina Station,1,MD,Bloor-Lansdowne Station,4.25
+60.0,GT05An,Bloor-Lansdowne Station,2,MD,Downsview Park Station,9.25
+90.0,GT05An,Downsview Park Station,3,MD,Maple Station,8.5
+60.0,GT05An,Maple Station,4,MD,King City Station,6.0
+75.0,GT05An,King City Station,5,MD,Aurora Station,8.5
+82.5,GT05An,Aurora Station,6,MD,Newmarket Station,6.25
+40.0,GT05An,Newmarket Station,7,MD,East Gwillimbury Station,2.5833333333333335
+60.0,GT05An,Union Station,0,PM,Spadina Station,2.5
+60.0,GT05An,Spadina Station,1,PM,Bloor-Lansdowne Station,4.25
+60.0,GT05An,Bloor-Lansdowne Station,2,PM,Downsview Park Station,9.25
+90.0,GT05An,Downsview Park Station,3,PM,Maple Station,8.5
+60.0,GT05An,Maple Station,4,PM,King City Station,6.0
+75.0,GT05An,King City Station,5,PM,Aurora Station,8.5
+80.0,GT05An,Aurora Station,6,PM,Newmarket Station,6.25
+30.0,GT05An,Newmarket Station,7,PM,East Gwillimbury Station,2.625
+60.0,GT05Bn,Union Station,0,AM,Spadina Station,2.5
+60.0,GT05Bn,Spadina Station,1,AM,Bloor-Lansdowne Station,4.25
+60.0,GT05Bn,Bloor-Lansdowne Station,2,AM,Downsview Park Station,9.5
+90.0,GT05Bn,Downsview Park Station,3,AM,Maple Station,8.75
+60.0,GT05Bn,Maple Station,4,AM,King City Station,6.0
+75.0,GT05Bn,King City Station,5,AM,Aurora Station,8.5
+80.0,GT05Bn,Aurora Station,6,AM,Newmarket Station,6.25
+30.0,GT05Bn,Newmarket Station,7,AM,East Gwillimbury Station,2.5
+60.0,GT05Bn,Union Station,0,PM,Spadina Station,2.5
+60.0,GT05Bn,Spadina Station,1,PM,Bloor-Lansdowne Station,4.25
+60.0,GT05Bn,Bloor-Lansdowne Station,2,PM,Downsview Park Station,9.5
+90.0,GT05Bn,Downsview Park Station,3,PM,Maple Station,8.75
+60.0,GT05Bn,Maple Station,4,PM,King City Station,6.125
+90.0,GT05Bn,King City Station,5,PM,Aurora Station,8.5
+90.0,GT05Bn,Aurora Station,6,PM,Newmarket Station,6.25
+0.0,GT05Bn,Newmarket Station,7,PM,East Gwillimbury Station,2.5
+60.0,GT05Cn,Union Station,0,AM,Spadina Station,2.5
+60.0,GT05Cn,Spadina Station,1,AM,Bloor-Lansdowne Station,4.25
+60.0,GT05Cn,Bloor-Lansdowne Station,2,AM,Caledonia Station,5.5
+60.0,GT05Cn,Caledonia Station,3,AM,Downsview Park Station,5.0
+60.0,GT05Cn,Downsview Park Station,4,AM,Rutherford Station,7.25
+60.0,GT05Cn,Rutherford Station,5,AM,Maple Station,2.5
+60.0,GT05Cn,Maple Station,6,AM,Kirby Station,3.75
+60.0,GT05Cn,Kirby Station,7,AM,King City Station,3.75
+75.0,GT05Cn,King City Station,8,AM,Aurora Station,8.5
+80.0,GT05Cn,Aurora Station,9,AM,Newmarket Station,6.25
+30.0,GT05Cn,Newmarket Station,10,AM,East Gwillimbury Station,2.625
+0.0,GT05Cn,East Gwillimbury Station,11,AM,Bradford Station,8.25
+60.0,GT05Cn,Union Station,0,EV,Spadina Station,2.5
+60.0,GT05Cn,Spadina Station,1,EV,Bloor-Lansdowne Station,4.25
+60.0,GT05Cn,Bloor-Lansdowne Station,2,EV,Caledonia Station,5.5
+60.0,GT05Cn,Caledonia Station,3,EV,Downsview Park Station,5.0
+60.0,GT05Cn,Downsview Park Station,4,EV,Rutherford Station,7.25
+60.0,GT05Cn,Rutherford Station,5,EV,Maple Station,2.5
+60.0,GT05Cn,Maple Station,6,EV,Kirby Station,3.75
+60.0,GT05Cn,Kirby Station,7,EV,King City Station,3.75
+75.0,GT05Cn,King City Station,8,EV,Aurora Station,8.5
+80.0,GT05Cn,Aurora Station,9,EV,Newmarket Station,6.25
+30.0,GT05Cn,Newmarket Station,10,EV,East Gwillimbury Station,2.625
+0.0,GT05Cn,East Gwillimbury Station,11,EV,Bradford Station,8.25
+60.0,GT05Cn,Union Station,0,MD,Spadina Station,2.5
+60.0,GT05Cn,Spadina Station,1,MD,Bloor-Lansdowne Station,4.25
+60.0,GT05Cn,Bloor-Lansdowne Station,2,MD,Caledonia Station,5.5
+60.0,GT05Cn,Caledonia Station,3,MD,Downsview Park Station,5.0
+60.0,GT05Cn,Downsview Park Station,4,MD,Rutherford Station,7.25
+60.0,GT05Cn,Rutherford Station,5,MD,Maple Station,2.5
+60.0,GT05Cn,Maple Station,6,MD,Kirby Station,3.75
+60.0,GT05Cn,Kirby Station,7,MD,King City Station,3.75
+75.0,GT05Cn,King City Station,8,MD,Aurora Station,8.5
+82.5,GT05Cn,Aurora Station,9,MD,Newmarket Station,6.25
+40.0,GT05Cn,Newmarket Station,10,MD,East Gwillimbury Station,2.5833333333333335
+30.0,GT05Cn,East Gwillimbury Station,11,MD,Bradford Station,8.25
+60.0,GT05Cn,Union Station,0,PM,Spadina Station,2.5
+60.0,GT05Cn,Spadina Station,1,PM,Bloor-Lansdowne Station,4.25
+60.0,GT05Cn,Bloor-Lansdowne Station,2,PM,Caledonia Station,5.5
+60.0,GT05Cn,Caledonia Station,3,PM,Downsview Park Station,5.0
+60.0,GT05Cn,Downsview Park Station,4,PM,Rutherford Station,7.25
+60.0,GT05Cn,Rutherford Station,5,PM,Maple Station,2.5
+60.0,GT05Cn,Maple Station,6,PM,Kirby Station,3.75
+60.0,GT05Cn,Kirby Station,7,PM,King City Station,3.75
+75.0,GT05Cn,King City Station,8,PM,Aurora Station,8.5
+80.0,GT05Cn,Aurora Station,9,PM,Newmarket Station,6.25
+30.0,GT05Cn,Newmarket Station,10,PM,East Gwillimbury Station,2.625
+0.0,GT05Cn,East Gwillimbury Station,11,PM,Bradford Station,8.25
+60.0,GT05Dn,Union Station,0,AM,Spadina Station,2.5
+60.0,GT05Dn,Spadina Station,1,AM,Bloor-Lansdowne Station,4.25
+60.0,GT05Dn,Bloor-Lansdowne Station,2,AM,Caledonia Station,5.75
+60.0,GT05Dn,Caledonia Station,3,AM,Downsview Park Station,5.0
+60.0,GT05Dn,Downsview Park Station,4,AM,Rutherford Station,7.25
+60.0,GT05Dn,Rutherford Station,5,AM,Maple Station,2.5
+60.0,GT05Dn,Maple Station,6,AM,Kirby Station,3.75
+60.0,GT05Dn,Kirby Station,7,AM,King City Station,3.75
+75.0,GT05Dn,King City Station,8,AM,Aurora Station,8.5
+80.0,GT05Dn,Aurora Station,9,AM,Newmarket Station,6.25
+30.0,GT05Dn,Newmarket Station,10,AM,East Gwillimbury Station,2.5
+0.0,GT05Dn,East Gwillimbury Station,11,AM,Bradford Station,8.25
+60.0,GT05Dn,Union Station,0,PM,Spadina Station,2.5
+60.0,GT05Dn,Spadina Station,1,PM,Bloor-Lansdowne Station,4.25
+60.0,GT05Dn,Bloor-Lansdowne Station,2,PM,Caledonia Station,5.5
+60.0,GT05Dn,Caledonia Station,3,PM,Downsview Park Station,5.0
+60.0,GT05Dn,Downsview Park Station,4,PM,Rutherford Station,7.25
+60.0,GT05Dn,Rutherford Station,5,PM,Maple Station,2.5
+60.0,GT05Dn,Maple Station,6,PM,Kirby Station,3.75
+60.0,GT05Dn,Kirby Station,7,PM,King City Station,3.75
+90.0,GT05Dn,King City Station,8,PM,Aurora Station,8.5
+90.0,GT05Dn,Aurora Station,9,PM,Newmarket Station,6.25
+0.0,GT05Dn,Newmarket Station,10,PM,East Gwillimbury Station,2.5
+0.0,GT05Dn,East Gwillimbury Station,11,PM,Bradford Station,8.25
+60.0,GT05En,Union Station,0,AM,Spadina Station,2.5
+60.0,GT05En,Spadina Station,1,AM,Caledonia Station,8.75
+90.0,GT05En,Caledonia Station,2,AM,Rutherford Station,11.0
+60.0,GT05En,Rutherford Station,3,AM,Kirby Station,5.0
+90.0,GT05En,Kirby Station,4,AM,Aurora Station,11.5
+80.0,GT05En,Aurora Station,5,AM,Newmarket Station,6.25
+60.0,GT05En,Newmarket Station,6,AM,Bradford Station,9.5
+60.0,GT05En,Bradford Station,7,AM,Innisfil Station,12.0
+60.0,GT05En,Innisfil Station,8,AM,Barrie South Station,6.5
+0.0,GT05En,Barrie South Station,9,AM,Allandale Waterfront Station,7.5
+60.0,GT05En,Union Station,0,EV,Spadina Station,2.5
+60.0,GT05En,Spadina Station,1,EV,Caledonia Station,8.75
+90.0,GT05En,Caledonia Station,2,EV,Rutherford Station,11.0
+60.0,GT05En,Rutherford Station,3,EV,Kirby Station,5.0
+90.0,GT05En,Kirby Station,4,EV,Aurora Station,11.5
+80.0,GT05En,Aurora Station,5,EV,Newmarket Station,6.25
+60.0,GT05En,Newmarket Station,6,EV,Bradford Station,9.5
+60.0,GT05En,Bradford Station,7,EV,Innisfil Station,12.0
+60.0,GT05En,Innisfil Station,8,EV,Barrie South Station,6.5
+0.0,GT05En,Barrie South Station,9,EV,Allandale Waterfront Station,7.5
+60.0,GT05En,Union Station,0,MD,Spadina Station,2.5
+60.0,GT05En,Spadina Station,1,MD,Caledonia Station,8.75
+90.0,GT05En,Caledonia Station,2,MD,Rutherford Station,11.0
+60.0,GT05En,Rutherford Station,3,MD,Kirby Station,5.0
+90.0,GT05En,Kirby Station,4,MD,Aurora Station,11.5
+82.5,GT05En,Aurora Station,5,MD,Newmarket Station,6.25
+60.0,GT05En,Newmarket Station,6,MD,Bradford Station,9.5
+60.0,GT05En,Bradford Station,7,MD,Innisfil Station,12.0
+60.0,GT05En,Innisfil Station,8,MD,Barrie South Station,6.5
+0.0,GT05En,Barrie South Station,9,MD,Allandale Waterfront Station,7.375
+60.0,GT05En,Union Station,0,PM,Spadina Station,2.5
+60.0,GT05En,Spadina Station,1,PM,Caledonia Station,8.75
+90.0,GT05En,Caledonia Station,2,PM,Rutherford Station,11.0
+60.0,GT05En,Rutherford Station,3,PM,Kirby Station,5.0
+90.0,GT05En,Kirby Station,4,PM,Aurora Station,11.5
+80.0,GT05En,Aurora Station,5,PM,Newmarket Station,6.25
+60.0,GT05En,Newmarket Station,6,PM,Bradford Station,9.5
+60.0,GT05En,Bradford Station,7,PM,Innisfil Station,12.0
+60.0,GT05En,Innisfil Station,8,PM,Barrie South Station,6.5
+0.0,GT05En,Barrie South Station,9,PM,Allandale Waterfront Station,7.5
+60.0,GT05Fn,Union Station,0,AM,Spadina Station,2.5
+60.0,GT05Fn,Spadina Station,1,AM,Caledonia Station,8.75
+90.0,GT05Fn,Caledonia Station,2,AM,Rutherford Station,11.0
+60.0,GT05Fn,Rutherford Station,3,AM,Kirby Station,5.0
+90.0,GT05Fn,Kirby Station,4,AM,Aurora Station,11.5
+80.0,GT05Fn,Aurora Station,5,AM,Newmarket Station,6.25
+60.0,GT05Fn,Newmarket Station,6,AM,Bradford Station,9.5
+60.0,GT05Fn,Bradford Station,7,AM,Innisfil Station,12.25
+60.0,GT05Fn,Innisfil Station,8,AM,Barrie South Station,6.5
+0.0,GT05Fn,Barrie South Station,9,AM,Allandale Waterfront Station,7.25
+60.0,GT05Fn,Union Station,0,EV,Spadina Station,2.5
+60.0,GT05Fn,Spadina Station,1,EV,Caledonia Station,8.75
+90.0,GT05Fn,Caledonia Station,2,EV,Rutherford Station,11.0
+60.0,GT05Fn,Rutherford Station,3,EV,Kirby Station,5.0
+90.0,GT05Fn,Kirby Station,4,EV,Aurora Station,11.5
+80.0,GT05Fn,Aurora Station,5,EV,Newmarket Station,6.25
+60.0,GT05Fn,Newmarket Station,6,EV,Bradford Station,9.5
+60.0,GT05Fn,Bradford Station,7,EV,Innisfil Station,12.0
+60.0,GT05Fn,Innisfil Station,8,EV,Barrie South Station,6.5
+0.0,GT05Fn,Barrie South Station,9,EV,Allandale Waterfront Station,7.5
+60.0,GT05Fn,Union Station,0,PM,Spadina Station,2.5
+60.0,GT05Fn,Spadina Station,1,PM,Caledonia Station,8.75
+90.0,GT05Fn,Caledonia Station,2,PM,Rutherford Station,11.0
+60.0,GT05Fn,Rutherford Station,3,PM,Kirby Station,5.0
+90.0,GT05Fn,Kirby Station,4,PM,Aurora Station,11.5
+90.0,GT05Fn,Aurora Station,5,PM,Newmarket Station,6.25
+60.0,GT05Fn,Newmarket Station,6,PM,Bradford Station,9.5
+60.0,GT05Fn,Bradford Station,7,PM,Innisfil Station,12.25
+60.0,GT05Fn,Innisfil Station,8,PM,Barrie South Station,6.5
+0.0,GT05Fn,Barrie South Station,9,PM,Allandale Waterfront Station,7.25
+60.0,GT06As,Bloomington Station,0,AM,Gormley Station,4.666666667
+90.0,GT06As,Gormley Station,1,AM,Richmond Hill Station,8.0
+60.0,GT06As,Richmond Hill Station,2,AM,Langstaff Station,4.25
+60.0,GT06As,Langstaff Station,3,AM,Old Cummer Station,6.0
+60.0,GT06As,Old Cummer Station,4,AM,Oriole Station,3.0
+0.0,GT06As,Oriole Station,5,AM,Union Station,24.25
+60.0,GT06As,Bloomington Station,0,EV,Gormley Station,4.5
+90.0,GT06As,Gormley Station,1,EV,Richmond Hill Station,8.0
+60.0,GT06As,Richmond Hill Station,2,EV,Langstaff Station,4.25
+60.0,GT06As,Langstaff Station,3,EV,Old Cummer Station,6.0
+60.0,GT06As,Old Cummer Station,4,EV,Oriole Station,3.0
+0.0,GT06As,Oriole Station,5,EV,Union Station,27.125
+60.0,GT06As,Bloomington Station,0,MD,Gormley Station,4.75
+90.0,GT06As,Gormley Station,1,MD,Richmond Hill Station,8.0
+60.0,GT06As,Richmond Hill Station,2,MD,Langstaff Station,4.25
+60.0,GT06As,Langstaff Station,3,MD,Old Cummer Station,6.0
+60.0,GT06As,Old Cummer Station,4,MD,Oriole Station,3.0
+0.0,GT06As,Oriole Station,5,MD,Union Station,29.125
+60.0,GT06Bs,Bloomington Station,0,AM,Gormley Station,4.583333333
+90.0,GT06Bs,Gormley Station,1,AM,Richmond Hill Station,8.0
+60.0,GT06Bs,Richmond Hill Station,2,AM,Langstaff Station,4.25
+60.0,GT06Bs,Langstaff Station,3,AM,Old Cummer Station,6.0
+60.0,GT06Bs,Old Cummer Station,4,AM,Oriole Station,3.0
+0.0,GT06Bs,Oriole Station,5,AM,Union Station,24.5
+60.0,GT06Cs,Old Cummer Station,0,EV,Oriole Station,3.0
+0.0,GT06Cs,Oriole Station,1,EV,Union Station,27.125
+60.0,GT06Cs,Old Cummer Station,0,MD,Oriole Station,3.0
+0.0,GT06Cs,Oriole Station,1,MD,Union Station,29.125
+60.0,GT06An,Union Station,0,AM,Oriole Station,22.0
+0.0,GT06An,Oriole Station,1,AM,Old Cummer Station,3.0
+60.0,GT06An,Union Station,0,EV,Oriole Station,23.0
+30.0,GT06An,Oriole Station,1,EV,Old Cummer Station,3.0
+60.0,GT06An,Union Station,0,MD,Oriole Station,23.666666665
+30.0,GT06An,Oriole Station,1,MD,Old Cummer Station,3.0
+60.0,GT06Bn,Union Station,0,EV,Oriole Station,23.0
+30.0,GT06Bn,Oriole Station,1,EV,Old Cummer Station,3.0
+60.0,GT06Bn,Old Cummer Station,2,EV,Langstaff Station,6.25
+60.0,GT06Bn,Langstaff Station,3,EV,Richmond Hill Station,4.75
+60.0,GT06Bn,Richmond Hill Station,4,EV,Gormley Station,8.0
+0.0,GT06Bn,Gormley Station,5,EV,Bloomington Station,6.0
+60.0,GT06Bn,Union Station,0,MD,Oriole Station,23.666666665
+30.0,GT06Bn,Oriole Station,1,MD,Old Cummer Station,3.0
+60.0,GT06Bn,Old Cummer Station,2,MD,Langstaff Station,6.25
+60.0,GT06Bn,Langstaff Station,3,MD,Richmond Hill Station,4.75
+60.0,GT06Bn,Richmond Hill Station,4,MD,Gormley Station,8.0
+0.0,GT06Bn,Gormley Station,5,MD,Bloomington Station,6.0
+60.0,GT06Bn,Union Station,0,PM,Oriole Station,22.66666667
+60.0,GT06Bn,Oriole Station,1,PM,Old Cummer Station,3.0
+60.0,GT06Bn,Old Cummer Station,2,PM,Langstaff Station,6.25
+85.0,GT06Bn,Langstaff Station,3,PM,Richmond Hill Station,4.75
+60.0,GT06Bn,Richmond Hill Station,4,PM,Gormley Station,8.0
+0.0,GT06Bn,Gormley Station,5,PM,Bloomington Station,5.75
+60.0,GT06Cn,Union Station,0,PM,Oriole Station,22.25
+60.0,GT06Cn,Oriole Station,1,PM,Old Cummer Station,3.0
+60.0,GT06Cn,Old Cummer Station,2,PM,Langstaff Station,6.5
+90.0,GT06Cn,Langstaff Station,3,PM,Richmond Hill Station,4.75
+60.0,GT06Cn,Richmond Hill Station,4,PM,Gormley Station,8.0
+0.0,GT06Cn,Gormley Station,5,PM,Bloomington Station,5.75
+30.0,GT07As,Unionville Station,0,AM,Milliken Station,4.1875
+30.0,GT07As,Milliken Station,1,AM,Finch East Station,2.75
+30.0,GT07As,Finch East Station,2,AM,Agincourt Station,2.25
+30.0,GT07As,Agincourt Station,3,AM,Kennedy Station,6.75
+30.0,GT07As,Kennedy Station,4,AM,Danforth Station,6.25
+30.0,GT07As,Danforth Station,5,AM,East Harbour Station,3.75
+0.0,GT07As,East Harbour Station,6,AM,Union Station,6.375
+30.0,GT07As,Unionville Station,0,EV,Milliken Station,4.125
+30.0,GT07As,Milliken Station,1,EV,Finch East Station,2.75
+30.0,GT07As,Finch East Station,2,EV,Agincourt Station,2.25
+30.0,GT07As,Agincourt Station,3,EV,Kennedy Station,6.75
+30.0,GT07As,Kennedy Station,4,EV,Danforth Station,6.25
+30.0,GT07As,Danforth Station,5,EV,East Harbour Station,3.75
+0.0,GT07As,East Harbour Station,6,EV,Union Station,6.333333333333333
+30.0,GT07As,Unionville Station,0,MD,Milliken Station,4.125
+30.0,GT07As,Milliken Station,1,MD,Finch East Station,2.75
+30.0,GT07As,Finch East Station,2,MD,Agincourt Station,2.25
+30.0,GT07As,Agincourt Station,3,MD,Kennedy Station,6.75
+30.0,GT07As,Kennedy Station,4,MD,Danforth Station,6.25
+30.0,GT07As,Danforth Station,5,MD,East Harbour Station,3.75
+0.0,GT07As,East Harbour Station,6,MD,Union Station,6.333333333333333
+30.0,GT07As,Unionville Station,0,PM,Milliken Station,4.125
+30.0,GT07As,Milliken Station,1,PM,Finch East Station,2.75
+30.0,GT07As,Finch East Station,2,PM,Agincourt Station,2.25
+30.0,GT07As,Agincourt Station,3,PM,Kennedy Station,6.75
+30.0,GT07As,Kennedy Station,4,PM,Danforth Station,6.25
+30.0,GT07As,Danforth Station,5,PM,East Harbour Station,3.75
+0.0,GT07As,East Harbour Station,6,PM,Union Station,6.333333333333333
+30.0,GT07Bs,Mt. Joy Station,0,AM,Markham Station,2.75
+30.0,GT07Bs,Markham Station,1,AM,Centennial Station,2.75
+60.0,GT07Bs,Centennial Station,2,AM,Unionville Station,3.5
+30.0,GT07Bs,Unionville Station,3,AM,Milliken Station,4.1875
+30.0,GT07Bs,Milliken Station,4,AM,Finch East Station,2.75
+30.0,GT07Bs,Finch East Station,5,AM,Agincourt Station,2.25
+30.0,GT07Bs,Agincourt Station,6,AM,Kennedy Station,6.75
+30.0,GT07Bs,Kennedy Station,7,AM,Danforth Station,6.25
+30.0,GT07Bs,Danforth Station,8,AM,East Harbour Station,3.75
+0.0,GT07Bs,East Harbour Station,9,AM,Union Station,6.375
+30.0,GT07Bs,Mt. Joy Station,0,EV,Markham Station,2.75
+30.0,GT07Bs,Markham Station,1,EV,Centennial Station,2.75
+60.0,GT07Bs,Centennial Station,2,EV,Unionville Station,3.5
+30.0,GT07Bs,Unionville Station,3,EV,Milliken Station,4.125
+30.0,GT07Bs,Milliken Station,4,EV,Finch East Station,2.75
+30.0,GT07Bs,Finch East Station,5,EV,Agincourt Station,2.25
+30.0,GT07Bs,Agincourt Station,6,EV,Kennedy Station,6.75
+30.0,GT07Bs,Kennedy Station,7,EV,Danforth Station,6.25
+30.0,GT07Bs,Danforth Station,8,EV,East Harbour Station,3.75
+0.0,GT07Bs,East Harbour Station,9,EV,Union Station,6.333333333333333
+30.0,GT07Bs,Mt. Joy Station,0,MD,Markham Station,2.75
+30.0,GT07Bs,Markham Station,1,MD,Centennial Station,2.75
+60.0,GT07Bs,Centennial Station,2,MD,Unionville Station,3.5
+30.0,GT07Bs,Unionville Station,3,MD,Milliken Station,4.125
+30.0,GT07Bs,Milliken Station,4,MD,Finch East Station,2.75
+30.0,GT07Bs,Finch East Station,5,MD,Agincourt Station,2.25
+30.0,GT07Bs,Agincourt Station,6,MD,Kennedy Station,6.75
+30.0,GT07Bs,Kennedy Station,7,MD,Danforth Station,6.25
+30.0,GT07Bs,Danforth Station,8,MD,East Harbour Station,3.75
+0.0,GT07Bs,East Harbour Station,9,MD,Union Station,6.333333333333333
+30.0,GT07Bs,Mt. Joy Station,0,PM,Markham Station,2.75
+30.0,GT07Bs,Markham Station,1,PM,Centennial Station,2.75
+60.0,GT07Bs,Centennial Station,2,PM,Unionville Station,3.5
+30.0,GT07Bs,Unionville Station,3,PM,Milliken Station,4.125
+30.0,GT07Bs,Milliken Station,4,PM,Finch East Station,2.75
+30.0,GT07Bs,Finch East Station,5,PM,Agincourt Station,2.25
+30.0,GT07Bs,Agincourt Station,6,PM,Kennedy Station,6.75
+30.0,GT07Bs,Kennedy Station,7,PM,Danforth Station,6.25
+30.0,GT07Bs,Danforth Station,8,PM,East Harbour Station,3.75
+0.0,GT07Bs,East Harbour Station,9,PM,Union Station,6.333333333333333
+60.0,GT07Cs,Stouffville Station,0,AM,Mt. Joy Station,9.0
+30.0,GT07Cs,Mt. Joy Station,1,AM,Markham Station,2.75
+30.0,GT07Cs,Markham Station,2,AM,Centennial Station,2.75
+60.0,GT07Cs,Centennial Station,3,AM,Unionville Station,3.5
+30.0,GT07Cs,Unionville Station,4,AM,Milliken Station,4.1875
+30.0,GT07Cs,Milliken Station,5,AM,Finch East Station,2.75
+30.0,GT07Cs,Finch East Station,6,AM,Agincourt Station,2.25
+30.0,GT07Cs,Agincourt Station,7,AM,Kennedy Station,6.75
+30.0,GT07Cs,Kennedy Station,8,AM,Danforth Station,6.25
+30.0,GT07Cs,Danforth Station,9,AM,East Harbour Station,3.75
+0.0,GT07Cs,East Harbour Station,10,AM,Union Station,6.375
+60.0,GT07Cs,Stouffville Station,0,EV,Mt. Joy Station,9.0
+30.0,GT07Cs,Mt. Joy Station,1,EV,Markham Station,2.75
+30.0,GT07Cs,Markham Station,2,EV,Centennial Station,2.75
+60.0,GT07Cs,Centennial Station,3,EV,Unionville Station,3.5
+30.0,GT07Cs,Unionville Station,4,EV,Milliken Station,4.125
+30.0,GT07Cs,Milliken Station,5,EV,Finch East Station,2.75
+30.0,GT07Cs,Finch East Station,6,EV,Agincourt Station,2.25
+30.0,GT07Cs,Agincourt Station,7,EV,Kennedy Station,6.75
+30.0,GT07Cs,Kennedy Station,8,EV,Danforth Station,6.25
+30.0,GT07Cs,Danforth Station,9,EV,East Harbour Station,3.75
+0.0,GT07Cs,East Harbour Station,10,EV,Union Station,6.333333333333333
+60.0,GT07Cs,Stouffville Station,0,MD,Mt. Joy Station,9.0
+30.0,GT07Cs,Mt. Joy Station,1,MD,Markham Station,2.75
+30.0,GT07Cs,Markham Station,2,MD,Centennial Station,2.75
+60.0,GT07Cs,Centennial Station,3,MD,Unionville Station,3.5
+30.0,GT07Cs,Unionville Station,4,MD,Milliken Station,4.125
+30.0,GT07Cs,Milliken Station,5,MD,Finch East Station,2.75
+30.0,GT07Cs,Finch East Station,6,MD,Agincourt Station,2.25
+30.0,GT07Cs,Agincourt Station,7,MD,Kennedy Station,6.75
+30.0,GT07Cs,Kennedy Station,8,MD,Danforth Station,6.25
+30.0,GT07Cs,Danforth Station,9,MD,East Harbour Station,3.75
+0.0,GT07Cs,East Harbour Station,10,MD,Union Station,6.333333333333333
+60.0,GT07Cs,Stouffville Station,0,PM,Mt. Joy Station,9.0
+30.0,GT07Cs,Mt. Joy Station,1,PM,Markham Station,2.75
+30.0,GT07Cs,Markham Station,2,PM,Centennial Station,2.75
+60.0,GT07Cs,Centennial Station,3,PM,Unionville Station,3.5
+30.0,GT07Cs,Unionville Station,4,PM,Milliken Station,4.125
+30.0,GT07Cs,Milliken Station,5,PM,Finch East Station,2.75
+30.0,GT07Cs,Finch East Station,6,PM,Agincourt Station,2.25
+30.0,GT07Cs,Agincourt Station,7,PM,Kennedy Station,6.75
+30.0,GT07Cs,Kennedy Station,8,PM,Danforth Station,6.25
+30.0,GT07Cs,Danforth Station,9,PM,East Harbour Station,3.75
+0.0,GT07Cs,East Harbour Station,10,PM,Union Station,6.333333333333333
+60.0,GT07Ds,Lincolnville Station,0,AM,Stouffville Station,3.25
+90.0,GT07Ds,Stouffville Station,1,AM,Mt. Joy Station,8.0
+60.0,GT07Ds,Mt. Joy Station,2,AM,Markham Station,2.75
+60.0,GT07Ds,Markham Station,3,AM,Centennial Station,3.25
+90.0,GT07Ds,Centennial Station,4,AM,Unionville Station,3.75
+60.0,GT07Ds,Unionville Station,5,AM,Finch East Station,5.25
+60.0,GT07Ds,Finch East Station,6,AM,Agincourt Station,2.5
+60.0,GT07Ds,Agincourt Station,7,AM,Kennedy Station,6.75
+60.0,GT07Ds,Kennedy Station,8,AM,East Harbour Station,8.75
+0.0,GT07Ds,East Harbour Station,9,AM,Union Station,6.5
+60.0,GT07Ds,Lincolnville Station,0,MD,Stouffville Station,3.25
+90.0,GT07Ds,Stouffville Station,1,MD,Mt. Joy Station,8.0
+60.0,GT07Ds,Mt. Joy Station,2,MD,Markham Station,2.75
+60.0,GT07Ds,Markham Station,3,MD,Centennial Station,3.25
+90.0,GT07Ds,Centennial Station,4,MD,Unionville Station,3.75
+60.0,GT07Ds,Unionville Station,5,MD,Finch East Station,5.25
+60.0,GT07Ds,Finch East Station,6,MD,Agincourt Station,2.5
+60.0,GT07Ds,Agincourt Station,7,MD,Kennedy Station,6.75
+60.0,GT07Ds,Kennedy Station,8,MD,East Harbour Station,8.75
+0.0,GT07Ds,East Harbour Station,9,MD,Union Station,6.5
+60.0,GT07Ds,Lincolnville Station,0,PM,Stouffville Station,3.25
+90.0,GT07Ds,Stouffville Station,1,PM,Mt. Joy Station,8.0
+60.0,GT07Ds,Mt. Joy Station,2,PM,Markham Station,2.75
+60.0,GT07Ds,Markham Station,3,PM,Centennial Station,3.25
+90.0,GT07Ds,Centennial Station,4,PM,Unionville Station,3.75
+60.0,GT07Ds,Unionville Station,5,PM,Finch East Station,5.25
+60.0,GT07Ds,Finch East Station,6,PM,Agincourt Station,2.5
+60.0,GT07Ds,Agincourt Station,7,PM,Kennedy Station,6.75
+60.0,GT07Ds,Kennedy Station,8,PM,East Harbour Station,8.75
+0.0,GT07Ds,East Harbour Station,9,PM,Union Station,6.5
+60.0,GT07Es,Lincolnville Station,0,AM,Stouffville Station,3.25
+90.0,GT07Es,Stouffville Station,1,AM,Mt. Joy Station,8.0
+60.0,GT07Es,Mt. Joy Station,2,AM,Markham Station,3.0
+60.0,GT07Es,Markham Station,3,AM,Centennial Station,3.25
+90.0,GT07Es,Centennial Station,4,AM,Unionville Station,3.75
+60.0,GT07Es,Unionville Station,5,AM,Finch East Station,5.5
+60.0,GT07Es,Finch East Station,6,AM,Agincourt Station,2.5
+60.0,GT07Es,Agincourt Station,7,AM,Kennedy Station,7.0
+60.0,GT07Es,Kennedy Station,8,AM,East Harbour Station,9.0
+0.0,GT07Es,East Harbour Station,9,AM,Union Station,4.75
+30.0,GT07An,Union Station,0,AM,East Harbour Station,3.5
+30.0,GT07An,East Harbour Station,1,AM,Danforth Station,3.75
+30.0,GT07An,Danforth Station,2,AM,Kennedy Station,6.0
+30.0,GT07An,Kennedy Station,3,AM,Agincourt Station,6.75
+30.0,GT07An,Agincourt Station,4,AM,Finch East Station,2.25
+30.0,GT07An,Finch East Station,5,AM,Milliken Station,2.5
+40.0,GT07An,Milliken Station,6,AM,Unionville Station,3.25
+30.0,GT07An,Union Station,0,EV,East Harbour Station,3.5
+30.0,GT07An,East Harbour Station,1,EV,Danforth Station,3.75
+30.0,GT07An,Danforth Station,2,EV,Kennedy Station,6.0
+30.0,GT07An,Kennedy Station,3,EV,Agincourt Station,6.75
+30.0,GT07An,Agincourt Station,4,EV,Finch East Station,2.25
+30.0,GT07An,Finch East Station,5,EV,Milliken Station,2.5
+40.0,GT07An,Milliken Station,6,EV,Unionville Station,3.25
+30.0,GT07An,Union Station,0,MD,East Harbour Station,3.5
+30.0,GT07An,East Harbour Station,1,MD,Danforth Station,3.75
+30.0,GT07An,Danforth Station,2,MD,Kennedy Station,6.0
+30.0,GT07An,Kennedy Station,3,MD,Agincourt Station,6.75
+30.0,GT07An,Agincourt Station,4,MD,Finch East Station,2.25
+30.0,GT07An,Finch East Station,5,MD,Milliken Station,2.5
+40.0,GT07An,Milliken Station,6,MD,Unionville Station,3.25
+30.0,GT07An,Union Station,0,PM,East Harbour Station,3.5
+30.0,GT07An,East Harbour Station,1,PM,Danforth Station,3.75
+30.0,GT07An,Danforth Station,2,PM,Kennedy Station,6.0
+30.0,GT07An,Kennedy Station,3,PM,Agincourt Station,6.75
+30.0,GT07An,Agincourt Station,4,PM,Finch East Station,2.25
+30.0,GT07An,Finch East Station,5,PM,Milliken Station,2.5
+40.0,GT07An,Milliken Station,6,PM,Unionville Station,3.25
+30.0,GT07Bn,Union Station,0,AM,East Harbour Station,3.5
+30.0,GT07Bn,East Harbour Station,1,AM,Danforth Station,3.75
+30.0,GT07Bn,Danforth Station,2,AM,Kennedy Station,6.0
+30.0,GT07Bn,Kennedy Station,3,AM,Agincourt Station,6.75
+30.0,GT07Bn,Agincourt Station,4,AM,Finch East Station,2.25
+30.0,GT07Bn,Finch East Station,5,AM,Milliken Station,2.5
+40.0,GT07Bn,Milliken Station,6,AM,Unionville Station,3.25
+30.0,GT07Bn,Unionville Station,7,AM,Centennial Station,3.5
+30.0,GT07Bn,Centennial Station,8,AM,Markham Station,3.0
+30.0,GT07Bn,Markham Station,9,AM,Mt. Joy Station,2.5
+30.0,GT07Bn,Union Station,0,EV,East Harbour Station,3.5
+30.0,GT07Bn,East Harbour Station,1,EV,Danforth Station,3.75
+30.0,GT07Bn,Danforth Station,2,EV,Kennedy Station,6.0
+30.0,GT07Bn,Kennedy Station,3,EV,Agincourt Station,6.75
+30.0,GT07Bn,Agincourt Station,4,EV,Finch East Station,2.25
+30.0,GT07Bn,Finch East Station,5,EV,Milliken Station,2.5
+40.0,GT07Bn,Milliken Station,6,EV,Unionville Station,3.25
+30.0,GT07Bn,Unionville Station,7,EV,Centennial Station,3.5
+30.0,GT07Bn,Centennial Station,8,EV,Markham Station,3.0
+30.0,GT07Bn,Markham Station,9,EV,Mt. Joy Station,2.5
+30.0,GT07Bn,Union Station,0,MD,East Harbour Station,3.5
+30.0,GT07Bn,East Harbour Station,1,MD,Danforth Station,3.75
+30.0,GT07Bn,Danforth Station,2,MD,Kennedy Station,6.0
+30.0,GT07Bn,Kennedy Station,3,MD,Agincourt Station,6.75
+30.0,GT07Bn,Agincourt Station,4,MD,Finch East Station,2.25
+30.0,GT07Bn,Finch East Station,5,MD,Milliken Station,2.5
+40.0,GT07Bn,Milliken Station,6,MD,Unionville Station,3.25
+30.0,GT07Bn,Unionville Station,7,MD,Centennial Station,3.5
+30.0,GT07Bn,Centennial Station,8,MD,Markham Station,3.0
+30.0,GT07Bn,Markham Station,9,MD,Mt. Joy Station,2.5
+30.0,GT07Bn,Union Station,0,PM,East Harbour Station,3.5
+30.0,GT07Bn,East Harbour Station,1,PM,Danforth Station,3.75
+30.0,GT07Bn,Danforth Station,2,PM,Kennedy Station,6.0
+30.0,GT07Bn,Kennedy Station,3,PM,Agincourt Station,6.75
+30.0,GT07Bn,Agincourt Station,4,PM,Finch East Station,2.25
+30.0,GT07Bn,Finch East Station,5,PM,Milliken Station,2.5
+40.0,GT07Bn,Milliken Station,6,PM,Unionville Station,3.25
+30.0,GT07Bn,Unionville Station,7,PM,Centennial Station,3.5
+30.0,GT07Bn,Centennial Station,8,PM,Markham Station,3.0
+30.0,GT07Bn,Markham Station,9,PM,Mt. Joy Station,2.5
+30.0,GT07Cn,Union Station,0,AM,East Harbour Station,3.5
+30.0,GT07Cn,East Harbour Station,1,AM,Danforth Station,3.75
+30.0,GT07Cn,Danforth Station,2,AM,Kennedy Station,6.0
+30.0,GT07Cn,Kennedy Station,3,AM,Agincourt Station,6.75
+30.0,GT07Cn,Agincourt Station,4,AM,Finch East Station,2.25
+30.0,GT07Cn,Finch East Station,5,AM,Milliken Station,2.5
+40.0,GT07Cn,Milliken Station,6,AM,Unionville Station,3.25
+30.0,GT07Cn,Unionville Station,7,AM,Centennial Station,3.5
+30.0,GT07Cn,Centennial Station,8,AM,Markham Station,3.0
+30.0,GT07Cn,Markham Station,9,AM,Mt. Joy Station,2.5
+0.0,GT07Cn,Mt. Joy Station,10,AM,Stouffville Station,8.0
+30.0,GT07Cn,Union Station,0,EV,East Harbour Station,3.5
+30.0,GT07Cn,East Harbour Station,1,EV,Danforth Station,3.75
+30.0,GT07Cn,Danforth Station,2,EV,Kennedy Station,6.0
+30.0,GT07Cn,Kennedy Station,3,EV,Agincourt Station,6.75
+30.0,GT07Cn,Agincourt Station,4,EV,Finch East Station,2.25
+30.0,GT07Cn,Finch East Station,5,EV,Milliken Station,2.5
+40.0,GT07Cn,Milliken Station,6,EV,Unionville Station,3.25
+30.0,GT07Cn,Unionville Station,7,EV,Centennial Station,3.5
+30.0,GT07Cn,Centennial Station,8,EV,Markham Station,3.0
+30.0,GT07Cn,Markham Station,9,EV,Mt. Joy Station,2.5
+0.0,GT07Cn,Mt. Joy Station,10,EV,Stouffville Station,8.0
+30.0,GT07Cn,Union Station,0,MD,East Harbour Station,3.5
+30.0,GT07Cn,East Harbour Station,1,MD,Danforth Station,3.75
+30.0,GT07Cn,Danforth Station,2,MD,Kennedy Station,6.0
+30.0,GT07Cn,Kennedy Station,3,MD,Agincourt Station,6.75
+30.0,GT07Cn,Agincourt Station,4,MD,Finch East Station,2.25
+30.0,GT07Cn,Finch East Station,5,MD,Milliken Station,2.5
+40.0,GT07Cn,Milliken Station,6,MD,Unionville Station,3.25
+30.0,GT07Cn,Unionville Station,7,MD,Centennial Station,3.5
+30.0,GT07Cn,Centennial Station,8,MD,Markham Station,3.0
+30.0,GT07Cn,Markham Station,9,MD,Mt. Joy Station,2.5
+0.0,GT07Cn,Mt. Joy Station,10,MD,Stouffville Station,8.0
+30.0,GT07Cn,Union Station,0,PM,East Harbour Station,3.5
+30.0,GT07Cn,East Harbour Station,1,PM,Danforth Station,3.75
+30.0,GT07Cn,Danforth Station,2,PM,Kennedy Station,6.0
+30.0,GT07Cn,Kennedy Station,3,PM,Agincourt Station,6.75
+30.0,GT07Cn,Agincourt Station,4,PM,Finch East Station,2.25
+30.0,GT07Cn,Finch East Station,5,PM,Milliken Station,2.5
+40.0,GT07Cn,Milliken Station,6,PM,Unionville Station,3.25
+30.0,GT07Cn,Unionville Station,7,PM,Centennial Station,3.5
+30.0,GT07Cn,Centennial Station,8,PM,Markham Station,3.0
+30.0,GT07Cn,Markham Station,9,PM,Mt. Joy Station,2.5
+0.0,GT07Cn,Mt. Joy Station,10,PM,Stouffville Station,8.0
+60.0,GT07Dn,Union Station,0,EV,East Harbour Station,3.5
+60.0,GT07Dn,East Harbour Station,1,EV,Kennedy Station,8.75
+60.0,GT07Dn,Kennedy Station,2,EV,Agincourt Station,7.5
+60.0,GT07Dn,Agincourt Station,3,EV,Finch East Station,2.25
+90.0,GT07Dn,Finch East Station,4,EV,Unionville Station,5.5
+60.0,GT07Dn,Unionville Station,5,EV,Centennial Station,3.5
+60.0,GT07Dn,Centennial Station,6,EV,Markham Station,3.25
+90.0,GT07Dn,Markham Station,7,EV,Mt. Joy Station,2.5
+60.0,GT07Dn,Mt. Joy Station,8,EV,Stouffville Station,8.0
+0.0,GT07Dn,Stouffville Station,9,EV,Lincolnville Station,3.25
+60.0,GT07Dn,Union Station,0,PM,East Harbour Station,3.5
+60.0,GT07Dn,East Harbour Station,1,PM,Kennedy Station,8.75
+60.0,GT07Dn,Kennedy Station,2,PM,Agincourt Station,7.5
+60.0,GT07Dn,Agincourt Station,3,PM,Finch East Station,2.25
+90.0,GT07Dn,Finch East Station,4,PM,Unionville Station,5.5
+60.0,GT07Dn,Unionville Station,5,PM,Centennial Station,3.5
+60.0,GT07Dn,Centennial Station,6,PM,Markham Station,3.25
+90.0,GT07Dn,Markham Station,7,PM,Mt. Joy Station,2.5
+60.0,GT07Dn,Mt. Joy Station,8,PM,Stouffville Station,8.0
+0.0,GT07Dn,Stouffville Station,9,PM,Lincolnville Station,3.25
+60.0,GT07En,Union Station,0,PM,East Harbour Station,3.5
+60.0,GT07En,East Harbour Station,1,PM,Kennedy Station,9.25
+60.0,GT07En,Kennedy Station,2,PM,Agincourt Station,7.0
+60.0,GT07En,Agincourt Station,3,PM,Finch East Station,2.75
+90.0,GT07En,Finch East Station,4,PM,Unionville Station,5.75
+60.0,GT07En,Unionville Station,5,PM,Centennial Station,3.75
+60.0,GT07En,Centennial Station,6,PM,Markham Station,3.25
+90.0,GT07En,Markham Station,7,PM,Mt. Joy Station,3.0
+60.0,GT07En,Mt. Joy Station,8,PM,Stouffville Station,8.0
+0.0,GT07En,Stouffville Station,9,PM,Lincolnville Station,3.25
+90.0,GT09Aw,Oshawa Station,0,EV,Whitby Station,3.75
+90.0,GT09Aw,Whitby Station,1,EV,Ajax Station,5.25
+90.0,GT09Aw,Ajax Station,2,EV,Pickering Station,3.25
+60.0,GT09Aw,Pickering Station,3,EV,Rouge Hill Station,5.5
+60.0,GT09Aw,Rouge Hill Station,4,EV,Guildwood Station,4.25
+60.0,GT09Aw,Guildwood Station,5,EV,Eglinton Station,2.75
+60.0,GT09Aw,Eglinton Station,6,EV,Scarborough Station,3.0
+60.0,GT09Aw,Scarborough Station,7,EV,Danforth Station,3.75
+60.0,GT09Aw,Danforth Station,8,EV,East Harbour Station,4.0
+0.0,GT09Aw,East Harbour Station,9,EV,Union Station,6.5
+90.0,GT09Aw,Oshawa Station,0,MD,Whitby Station,3.75
+90.0,GT09Aw,Whitby Station,1,MD,Ajax Station,5.25
+90.0,GT09Aw,Ajax Station,2,MD,Pickering Station,3.25
+60.0,GT09Aw,Pickering Station,3,MD,Rouge Hill Station,5.5
+60.0,GT09Aw,Rouge Hill Station,4,MD,Guildwood Station,4.25
+60.0,GT09Aw,Guildwood Station,5,MD,Eglinton Station,2.75
+60.0,GT09Aw,Eglinton Station,6,MD,Scarborough Station,3.0
+60.0,GT09Aw,Scarborough Station,7,MD,Danforth Station,3.75
+60.0,GT09Aw,Danforth Station,8,MD,East Harbour Station,4.0
+0.0,GT09Aw,East Harbour Station,9,MD,Union Station,6.5
+90.0,GT09Aw,Oshawa Station,0,PM,Whitby Station,3.75
+90.0,GT09Aw,Whitby Station,1,PM,Ajax Station,5.25
+90.0,GT09Aw,Ajax Station,2,PM,Pickering Station,3.25
+60.0,GT09Aw,Pickering Station,3,PM,Rouge Hill Station,5.5
+60.0,GT09Aw,Rouge Hill Station,4,PM,Guildwood Station,4.25
+60.0,GT09Aw,Guildwood Station,5,PM,Eglinton Station,2.75
+60.0,GT09Aw,Eglinton Station,6,PM,Scarborough Station,3.0
+60.0,GT09Aw,Scarborough Station,7,PM,Danforth Station,3.75
+60.0,GT09Aw,Danforth Station,8,PM,East Harbour Station,4.0
+0.0,GT09Aw,East Harbour Station,9,PM,Union Station,6.5
+90.0,GT09Bw,Oshawa Station,0,AM,Whitby Station,4.0
+90.0,GT09Bw,Whitby Station,1,AM,Ajax Station,5.25
+90.0,GT09Bw,Ajax Station,2,AM,Pickering Station,3.25
+60.0,GT09Bw,Pickering Station,3,AM,Rouge Hill Station,5.5
+60.0,GT09Bw,Rouge Hill Station,4,AM,Guildwood Station,4.25
+60.0,GT09Bw,Guildwood Station,5,AM,Eglinton Station,2.75
+60.0,GT09Bw,Eglinton Station,6,AM,Scarborough Station,3.0
+60.0,GT09Bw,Scarborough Station,7,AM,Danforth Station,3.75
+60.0,GT09Bw,Danforth Station,8,AM,East Harbour Station,4.0
+0.0,GT09Bw,East Harbour Station,9,AM,Union Station,5.5
+90.0,GT09Bw,Oshawa Station,0,PM,Whitby Station,4.0
+90.0,GT09Bw,Whitby Station,1,PM,Ajax Station,5.25
+90.0,GT09Bw,Ajax Station,2,PM,Pickering Station,3.25
+60.0,GT09Bw,Pickering Station,3,PM,Rouge Hill Station,5.5
+60.0,GT09Bw,Rouge Hill Station,4,PM,Guildwood Station,4.25
+60.0,GT09Bw,Guildwood Station,5,PM,Eglinton Station,2.75
+60.0,GT09Bw,Eglinton Station,6,PM,Scarborough Station,3.0
+60.0,GT09Bw,Scarborough Station,7,PM,Danforth Station,3.75
+60.0,GT09Bw,Danforth Station,8,PM,East Harbour Station,4.0
+0.0,GT09Bw,East Harbour Station,9,PM,Union Station,6.5
+60.0,GT09Cw,Bowmanville Station,0,AM,Courtice Station,5.5
+60.0,GT09Cw,Courtice Station,1,AM,Ritson Station,5.75
+60.0,GT09Cw,Ritson Station,2,AM,Thornton's Corners,4.75
+60.0,GT09Cw,Thornton's Corners,3,AM,Oshawa Station,4.0
+90.0,GT09Cw,Oshawa Station,4,AM,Whitby Station,4.25
+90.0,GT09Cw,Whitby Station,5,AM,Ajax Station,6.25
+90.0,GT09Cw,Ajax Station,6,AM,Pickering Station,3.75
+60.0,GT09Cw,Pickering Station,7,AM,East Harbour Station,20.75
+0.0,GT09Cw,East Harbour Station,8,AM,Union Station,5.0
+60.0,GT09Cw,Bowmanville Station,0,EV,Courtice Station,5.5
+60.0,GT09Cw,Courtice Station,1,EV,Ritson Station,5.75
+60.0,GT09Cw,Ritson Station,2,EV,Thornton's Corners,4.75
+60.0,GT09Cw,Thornton's Corners,3,EV,Oshawa Station,4.0
+90.0,GT09Cw,Oshawa Station,4,EV,Whitby Station,4.25
+90.0,GT09Cw,Whitby Station,5,EV,Ajax Station,6.25
+90.0,GT09Cw,Ajax Station,6,EV,Pickering Station,3.75
+60.0,GT09Cw,Pickering Station,7,EV,East Harbour Station,20.75
+0.0,GT09Cw,East Harbour Station,8,EV,Union Station,5.0
+60.0,GT09Cw,Bowmanville Station,0,MD,Courtice Station,5.5
+60.0,GT09Cw,Courtice Station,1,MD,Ritson Station,5.75
+60.0,GT09Cw,Ritson Station,2,MD,Thornton's Corners,4.75
+60.0,GT09Cw,Thornton's Corners,3,MD,Oshawa Station,4.0
+90.0,GT09Cw,Oshawa Station,4,MD,Whitby Station,4.25
+90.0,GT09Cw,Whitby Station,5,MD,Ajax Station,6.25
+90.0,GT09Cw,Ajax Station,6,MD,Pickering Station,3.75
+60.0,GT09Cw,Pickering Station,7,MD,East Harbour Station,20.75
+0.0,GT09Cw,East Harbour Station,8,MD,Union Station,5.0
+60.0,GT09Cw,Bowmanville Station,0,PM,Courtice Station,5.5
+60.0,GT09Cw,Courtice Station,1,PM,Ritson Station,5.75
+60.0,GT09Cw,Ritson Station,2,PM,Thornton's Corners,4.75
+60.0,GT09Cw,Thornton's Corners,3,PM,Oshawa Station,4.0
+90.0,GT09Cw,Oshawa Station,4,PM,Whitby Station,4.25
+90.0,GT09Cw,Whitby Station,5,PM,Ajax Station,6.25
+90.0,GT09Cw,Ajax Station,6,PM,Pickering Station,3.75
+60.0,GT09Cw,Pickering Station,7,PM,East Harbour Station,20.75
+0.0,GT09Cw,East Harbour Station,8,PM,Union Station,5.0
+60.0,GT09Dw,Bowmanville Station,0,AM,Courtice Station,5.75
+60.0,GT09Dw,Courtice Station,1,AM,Ritson Station,5.5
+60.0,GT09Dw,Ritson Station,2,AM,Thornton's Corners,4.75
+60.0,GT09Dw,Thornton's Corners,3,AM,Oshawa Station,4.0
+90.0,GT09Dw,Oshawa Station,4,AM,Whitby Station,4.25
+90.0,GT09Dw,Whitby Station,5,AM,Ajax Station,6.25
+90.0,GT09Dw,Ajax Station,6,AM,Pickering Station,3.75
+60.0,GT09Dw,Pickering Station,7,AM,East Harbour Station,20.75
+0.0,GT09Dw,East Harbour Station,8,AM,Union Station,5.0
+60.0,GT09Dw,Bowmanville Station,0,PM,Courtice Station,5.75
+60.0,GT09Dw,Courtice Station,1,PM,Ritson Station,5.5
+60.0,GT09Dw,Ritson Station,2,PM,Thornton's Corners,4.75
+60.0,GT09Dw,Thornton's Corners,3,PM,Oshawa Station,4.0
+90.0,GT09Dw,Oshawa Station,4,PM,Whitby Station,4.25
+90.0,GT09Dw,Whitby Station,5,PM,Ajax Station,6.25
+90.0,GT09Dw,Ajax Station,6,PM,Pickering Station,3.75
+60.0,GT09Dw,Pickering Station,7,PM,East Harbour Station,20.75
+0.0,GT09Dw,East Harbour Station,8,PM,Union Station,5.0
+60.0,GT09Ae,Union Station,0,EV,East Harbour Station,3.5
+60.0,GT09Ae,East Harbour Station,1,EV,Danforth Station,4.0
+60.0,GT09Ae,Danforth Station,2,EV,Scarborough Station,4.5
+60.0,GT09Ae,Scarborough Station,3,EV,Eglinton Station,2.75
+60.0,GT09Ae,Eglinton Station,4,EV,Guildwood Station,3.0
+60.0,GT09Ae,Guildwood Station,5,EV,Rouge Hill Station,4.25
+90.0,GT09Ae,Rouge Hill Station,6,EV,Pickering Station,5.4875
+90.0,GT09Ae,Pickering Station,7,EV,Ajax Station,3.0
+90.0,GT09Ae,Ajax Station,8,EV,Whitby Station,5.25
+0.0,GT09Ae,Whitby Station,9,EV,Oshawa Station,4.25
+60.0,GT09Ae,Union Station,0,MD,East Harbour Station,3.5
+60.0,GT09Ae,East Harbour Station,1,MD,Danforth Station,4.0
+60.0,GT09Ae,Danforth Station,2,MD,Scarborough Station,4.5
+60.0,GT09Ae,Scarborough Station,3,MD,Eglinton Station,2.75
+60.0,GT09Ae,Eglinton Station,4,MD,Guildwood Station,3.0
+60.0,GT09Ae,Guildwood Station,5,MD,Rouge Hill Station,4.25
+90.0,GT09Ae,Rouge Hill Station,6,MD,Pickering Station,5.5
+90.0,GT09Ae,Pickering Station,7,MD,Ajax Station,3.0
+90.0,GT09Ae,Ajax Station,8,MD,Whitby Station,5.25
+0.0,GT09Ae,Whitby Station,9,MD,Oshawa Station,4.25
+60.0,GT09Ae,Union Station,0,PM,East Harbour Station,3.5
+60.0,GT09Ae,East Harbour Station,1,PM,Danforth Station,4.0
+60.0,GT09Ae,Danforth Station,2,PM,Scarborough Station,4.75
+60.0,GT09Ae,Scarborough Station,3,PM,Eglinton Station,2.75
+60.0,GT09Ae,Eglinton Station,4,PM,Guildwood Station,3.0
+60.0,GT09Ae,Guildwood Station,5,PM,Rouge Hill Station,4.25
+90.0,GT09Ae,Rouge Hill Station,6,PM,Pickering Station,5.5
+90.0,GT09Ae,Pickering Station,7,PM,Ajax Station,3.0
+90.0,GT09Ae,Ajax Station,8,PM,Whitby Station,5.25
+0.0,GT09Ae,Whitby Station,9,PM,Oshawa Station,4.25
+60.0,GT09Be,Union Station,0,AM,East Harbour Station,3.75
+60.0,GT09Be,East Harbour Station,1,AM,Danforth Station,4.0
+60.0,GT09Be,Danforth Station,2,AM,Scarborough Station,4.5
+60.0,GT09Be,Scarborough Station,3,AM,Eglinton Station,2.75
+60.0,GT09Be,Eglinton Station,4,AM,Guildwood Station,3.0
+60.0,GT09Be,Guildwood Station,5,AM,Rouge Hill Station,4.25
+90.0,GT09Be,Rouge Hill Station,6,AM,Pickering Station,5.5
+90.0,GT09Be,Pickering Station,7,AM,Ajax Station,3.0
+90.0,GT09Be,Ajax Station,8,AM,Whitby Station,5.25
+0.0,GT09Be,Whitby Station,9,AM,Oshawa Station,4.0
+60.0,GT09Be,Union Station,0,MD,East Harbour Station,3.75
+60.0,GT09Be,East Harbour Station,1,MD,Danforth Station,4.0
+60.0,GT09Be,Danforth Station,2,MD,Scarborough Station,4.5
+60.0,GT09Be,Scarborough Station,3,MD,Eglinton Station,2.75
+60.0,GT09Be,Eglinton Station,4,MD,Guildwood Station,3.0
+60.0,GT09Be,Guildwood Station,5,MD,Rouge Hill Station,4.25
+90.0,GT09Be,Rouge Hill Station,6,MD,Pickering Station,5.5
+90.0,GT09Be,Pickering Station,7,MD,Ajax Station,3.0
+90.0,GT09Be,Ajax Station,8,MD,Whitby Station,5.25
+0.0,GT09Be,Whitby Station,9,MD,Oshawa Station,4.0
+60.0,GT09Be,Union Station,0,PM,East Harbour Station,3.75
+60.0,GT09Be,East Harbour Station,1,PM,Danforth Station,4.0
+60.0,GT09Be,Danforth Station,2,PM,Scarborough Station,4.75
+60.0,GT09Be,Scarborough Station,3,PM,Eglinton Station,2.75
+60.0,GT09Be,Eglinton Station,4,PM,Guildwood Station,3.0
+60.0,GT09Be,Guildwood Station,5,PM,Rouge Hill Station,4.25
+90.0,GT09Be,Rouge Hill Station,6,PM,Pickering Station,5.5
+90.0,GT09Be,Pickering Station,7,PM,Ajax Station,3.0
+90.0,GT09Be,Ajax Station,8,PM,Whitby Station,5.25
+0.0,GT09Be,Whitby Station,9,PM,Oshawa Station,4.0
+60.0,GT09Ce,Union Station,0,AM,East Harbour Station,3.5
+90.0,GT09Ce,East Harbour Station,1,AM,Pickering Station,24.0
+90.0,GT09Ce,Pickering Station,2,AM,Ajax Station,3.75
+90.0,GT09Ce,Ajax Station,3,AM,Whitby Station,6.0
+60.0,GT09Ce,Whitby Station,4,AM,Oshawa Station,4.5
+60.0,GT09Ce,Oshawa Station,5,AM,Thornton's Corners,4.0
+60.0,GT09Ce,Thornton's Corners,6,AM,Ritson Station,4.5
+60.0,GT09Ce,Ritson Station,7,AM,Courtice Station,5.75
+0.0,GT09Ce,Courtice Station,8,AM,Bowmanville Station,6.25
+60.0,GT09Ce,Union Station,0,EV,East Harbour Station,3.5
+90.0,GT09Ce,East Harbour Station,1,EV,Pickering Station,24.0
+90.0,GT09Ce,Pickering Station,2,EV,Ajax Station,3.75
+90.0,GT09Ce,Ajax Station,3,EV,Whitby Station,6.0
+60.0,GT09Ce,Whitby Station,4,EV,Oshawa Station,4.5
+60.0,GT09Ce,Oshawa Station,5,EV,Thornton's Corners,4.0
+60.0,GT09Ce,Thornton's Corners,6,EV,Ritson Station,4.5
+60.0,GT09Ce,Ritson Station,7,EV,Courtice Station,5.75
+0.0,GT09Ce,Courtice Station,8,EV,Bowmanville Station,6.5
+60.0,GT09Ce,Union Station,0,MD,East Harbour Station,3.5
+90.0,GT09Ce,East Harbour Station,1,MD,Pickering Station,24.0
+90.0,GT09Ce,Pickering Station,2,MD,Ajax Station,3.75
+90.0,GT09Ce,Ajax Station,3,MD,Whitby Station,6.0
+60.0,GT09Ce,Whitby Station,4,MD,Oshawa Station,4.5
+60.0,GT09Ce,Oshawa Station,5,MD,Thornton's Corners,4.0
+60.0,GT09Ce,Thornton's Corners,6,MD,Ritson Station,4.5
+60.0,GT09Ce,Ritson Station,7,MD,Courtice Station,5.75
+0.0,GT09Ce,Courtice Station,8,MD,Bowmanville Station,6.25
+60.0,GT09Ce,Union Station,0,PM,East Harbour Station,3.5
+90.0,GT09Ce,East Harbour Station,1,PM,Pickering Station,24.0
+90.0,GT09Ce,Pickering Station,2,PM,Ajax Station,3.75
+90.0,GT09Ce,Ajax Station,3,PM,Whitby Station,6.0
+60.0,GT09Ce,Whitby Station,4,PM,Oshawa Station,4.5
+60.0,GT09Ce,Oshawa Station,5,PM,Thornton's Corners,4.0
+60.0,GT09Ce,Thornton's Corners,6,PM,Ritson Station,4.5
+60.0,GT09Ce,Ritson Station,7,PM,Courtice Station,5.75
+0.0,GT09Ce,Courtice Station,8,PM,Bowmanville Station,6.375
+60.0,GT09De,Union Station,0,AM,East Harbour Station,3.5
+90.0,GT09De,East Harbour Station,1,AM,Pickering Station,24.25
+90.0,GT09De,Pickering Station,2,AM,Ajax Station,3.75
+90.0,GT09De,Ajax Station,3,AM,Whitby Station,6.0
+60.0,GT09De,Whitby Station,4,AM,Oshawa Station,4.5
+60.0,GT09De,Oshawa Station,5,AM,Thornton's Corners,4.0
+60.0,GT09De,Thornton's Corners,6,AM,Ritson Station,4.75
+60.0,GT09De,Ritson Station,7,AM,Courtice Station,5.5
+0.0,GT09De,Courtice Station,8,AM,Bowmanville Station,6.25
+60.0,GT09De,Union Station,0,PM,East Harbour Station,3.5
+90.0,GT09De,East Harbour Station,1,PM,Pickering Station,24.25
+90.0,GT09De,Pickering Station,2,PM,Ajax Station,3.75
+90.0,GT09De,Ajax Station,3,PM,Whitby Station,6.0
+60.0,GT09De,Whitby Station,4,PM,Oshawa Station,4.5
+60.0,GT09De,Oshawa Station,5,PM,Thornton's Corners,4.0
+60.0,GT09De,Thornton's Corners,6,PM,Ritson Station,4.75
+60.0,GT09De,Ritson Station,7,PM,Courtice Station,5.5
+0.0,GT09De,Courtice Station,8,PM,Bowmanville Station,6.25

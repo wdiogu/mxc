@@ -1,0 +1,55 @@
+line_id,description,vehicle_id,union_node,am_tph,md_tph,pm_tph,ev_tph
+GT01Ae,Hamilton GO Centre Express EB,GoTrD2C10,98012,1.333,0,0,0
+GT01Bw,Hamilton GO Centre Express WB,GoTrD2C10,98012,0,0,1,0
+GT01Ce,Burlington Local EB,GoTrE2C10,98012,6,6,6,6
+GT01Dw,Burlington Local WB,GoTrE2C10,98012,6,6,6,6
+GT01Ee,Aldershot Express Skip Stop EB,GoTrD2C10,98012,0,1,0,1
+GT01Fw,Aldershot Express Skip Stop WB,GoTrD2C10,98012,0,1,0,1
+GT01Ge,Aldershot Express Skip Stop EB,GoTrD2C10,98012,1,0,1,0
+GT01Hw,Aldershot Express Skip Stop WB,GoTrD2C10,98012,1,0,1,0
+GT01Ie,Appleby Local EB,GoTrE2C10,98012,2,0,0,0
+GT01Jw,Appleby Local WB,GoTrE2C10,98012,0,0,2,0
+GT01Ke,Niagara Falls Express Skip Stop EB,GoTrD2C10,98012,0,0.333,0,0.2
+GT01Lw,Niagara Falls Express Skip Stop WB,GoTrD2C10,98012,0,0.167,0,0.4
+GT01Me,Niagara Falls Express Skip Stop EB,GoTrD2C10,98012,0.667,0,0.5,0
+GT01Nw,Niagara Falls Express Skip Stop WB,GoTrD2C10,98012,0.333,0,0.25,0
+GT01Oe,Confederation Express Skip Stop EB,GoTrD2C10,98012,0,0.167,0,0.4
+GT01Pw,Confederation Express Skip Stop WB,GoTrD2C10,98012,0,0.333,0,0.2
+GT01Qe,Confederation Express Skip Stop EB,GoTrD2C10,98012,0.333,0,0.25,0
+GT01Rw,Confederation Express Skip Stop WB,GoTrD2C10,98012,0.333,0,0.25,0
+GT01Se,West Harbour Express Skip Stop EB,GoTrD2C10,98012,0,0.5,0,0.4
+GT01Tw,West Harbour Express Skip Stop WB,GoTrD2C10,98012,0,0.5,0,0.4
+GT01Ue,West Harbour Express Skip Stop EB,GoTrD2C10,98012,0,0,0.25,0
+GT01Vw,West Harbour Express Skip Stop WB,GoTrD2C10,98012,0.333,0,0.5,0
+GT02Aw,Meadowvale Local WB,GoTrD2C10,98014,2,3,2,3
+GT02Be,Milton Local EB,GoTrD2C10,98014,4,0,0,0
+GT02Cw,Milton Local WB,GoTrD2C10,98014,0,0,4,0
+GT02De,Meadowvale Local EB,GoTrD2C10,98014,2,3,2,3
+GT03Ae,Kitchener Express Skip Stop EB,GoTrD2C10,98016,2,2,2,2
+GT03Bw,Kitchener Express Skip Stop WB,GoTrD2C10,98016,2,2,2,2
+GT03Ce,Mount Pleasant Express Skip Stop EB,GoTrD2C10,98016,2,2,2,2
+GT03Dw,Mount Pleasant Express Skip Stop WB,GoTrD2C10,98016,2,2,2,2
+GT03Ee,Bramalea Express Skip Stop EB,GoTrD2C10,98016,2,0,0,0
+GT03Fw,Bramalea Express Skip Stop WB,GoTrD2C10,98016,0,0,2,0
+GT04Aw,Pearson Local WB,GoTrEMUC12,98127,6,6,6,6
+GT04Be,Pearson Local EB,GoTrEMUC12,98127,6,6,6,6
+GT05As,Allandale Waterfront Local SB,GoTrEMUC12,98018,3,3,3,3
+GT05Bn,Allandale Waterfront Local NB,GoTrEMUC12,98018,3,3,3,3
+GT05Cs,Aurora Local SB,GoTrEMUC12,98018,3,3,3,3
+GT05Dn,Aurora Local NB,GoTrEMUC12,98018,3,3,3,3
+GT06As,Bloomington Local SB,GoTrD2C10,98019,2,0.5,0,0.4
+GT06Bn,Bloomington Local NB,GoTrD2C10,98019,0,0.5,2,0.4
+GT06Cs,Old Cummer Local SB,GoTrD2C10,98019,0,0.5,0,0.6
+GT06Dn,Old Cummer Local NB,GoTrD2C10,98019,0,0.5,0,0.6
+GT07As,Old Elm Local SB,GoTrEMUC12,98020,2,2,2,2
+GT07Bn,Old Elm Local NB,GoTrEMUC12,98020,2,2,2,2
+GT07Cs,Unionville Local SB,GoTrEMUC12,98020,2,4,2,4
+GT07Dn,Unionville Local NB,GoTrEMUC12,98020,2,4,2,4
+GT07Es,Mount Joy Local SB,GoTrEMUC12,98020,2,0,2,0
+GT07Fn,Mount Joy Local NB,GoTrEMUC12,98020,2,0,2,0
+GT08Aw,Oshawa Local WB,GoTrE2C10,98021,6,6,6,6
+GT08Be,Oshawa Local EB,GoTrE2C10,98021,6,6,6,6
+GT08Cw,Bowmanville Express WB,GoTrD2C10,98021,2,2,2,2
+GT08De,Bowmanville Express EB,GoTrD2C10,98021,2,2,2,2
+GT08Ew,Whitby Local WB,GoTrE2C10,98021,4,0,0,0
+GT08Fe,Whitby Local EB,GoTrE2C10,98021,0,0,4,0
