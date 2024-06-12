@@ -1,0 +1,90 @@
+station_name,node_id,taz
+Oshawa Ritson,98194,GR-LE-Ritson_Simcoe
+Thornton,98205,GR-LE-Oshawa_CP
+Niagara Falls,98406,GR-LW-Niagara_Falls
+St. Catharines,98404,GR-LW-St_Catharines
+St. Clair West,98210,GR-K-St_Clair
+Spadina,98208,GR-B-Spadina
+King-Liberty,98207,GR-K-LibertyVillage
+Grimsby,98206,GR-LE-Grimsby
+Acton,98204,GR-K-Acton
+Confederation,98203,GR-LW-Confederation
+Gormley,98202,GR-R-Gormley
+Downsview Park,98200,GR-B-Downsview_Park
+Bowmanville,98199,GR-LE-Bowmanville
+Courtice,98197,GR-LE-Courtice
+Kitchener,98174,GR-K-Kitchener
+Bloomington,98167,GR-R-Bloomington
+Old Elm,98165,GR-S-Old_Elm
+Barrie South,98161,GR-B-Barrie_South
+Mount Pleasant,98158,GR-K-Mount_Pleasant
+Mount Joy,98157,GR-S-Mount_Joy
+Centennial,98156,GR-S-Centennial
+Pearson,98126,GR-Pearson
+Georgetown,98123,GR-K-Georgetown
+Brampton,98122,GR-K-Brampton
+Bramalea,98121,GR-K-Bramalea
+Malton,98120,GR-K-Malton
+Weston,98114,GR-K-Weston
+Bloor,98112,GR-K-Bloor_GO
+Richmond Hill,98111,GR-R-Richmond_Hill
+Langstaff,98109,GR-R-Langstaff
+Old Cummer,98105,GR-R-Old_Cummer
+Oriole,98102,GR-R-Oriole
+Kipling,98091,GR-M-Kipling_GO
+Dixie,98090,GR-M-Dixie
+Cooksville,98089,GR-M-Cooksville
+Erindale,98086,GR-M-Erindale
+Streetsville,98084,GR-M-Streetsville
+Meadowvale,98083,GR-M-Meadowvale
+Lisgar,98082,GR-M-Lisgar
+Milton,98081,GR-M-Milton
+Bradford,98079,GR-B-Bradford
+East Gwillimbury,98078,GR-B-East_Gwillimbury
+Newmarket,98077,GR-B-Newmarket
+East Harbour,98075,GR-S-EastHarbour
+Aurora,98074,GR-B-Aurora
+King City,98070,GR-B-King_City
+Maple,98068,GR-B-Maple
+Rutherford,98067,GR-B-Rutherford
+Woodbine,98066,GR-K-Woodbine
+Park Lawn,98061,GR-LW-Parklawn
+Stouffville,98060,GR-S-Stouffville
+Markham,98059,GR-S-Markham
+Unionville,98058,GR-S-Unionville
+Milliken,98056,GR-S-Milliken
+Agincourt,98055,GR-S-Agincourt
+Kennedy,98054,GR-S-Kennedy_GO
+Mt. Dennis,98051,GR-K-Mount_Dennis
+Hamilton,98044,GR-LW-Hamilton
+Innisfil,98043,GR-B-Innisfil
+West Harbour,98042,GR-LW-West_Harbour
+Aldershot,98039,GR-LW-Aldershot
+Burlington,98038,GR-LW-Burlington
+Appleby,98037,GR-LW-Appleby
+Bronte,98036,GR-LW-Bronte
+Oakville,98035,GR-LW-Oakville
+Clarkson,98034,GR-LW-Clarkson
+Port Credit,98033,GR-LW-Port_Credit
+Long Branch,98032,GR-LW-Long_Branch
+Mimico,98031,GR-LW-Mimico
+Finch East,98029,GR-S-Finch_East
+Bloor-Lansdowne,98028,GR-B-Bloor_Davenport
+Exhibition,98027,GR-LW-Exhibition
+Caledonia,98024,GR-B-Caledonia
+Oshawa,98017,GR-LE-Oshawa
+Whitby,98015,GR-LE-Whitby
+Ajax,98013,GR-LE-Ajax
+Union,98012,GR-Union_GO
+Pickering,98011,GR-LE-Pickering
+Rouge Hill,98010,GR-LE-Rouge_Hill
+Guildwood,98008,GR-LE-Guildwood
+Eglinton,98007,GR-LE-Eglinton_GO
+Scarborough,98006,GR-LE-Scarborough
+Allandale,98005,GR-B-Allandale_Waterfront
+Danforth,98004,GR-LE-Danforth
+Guelph,98003,GR-K-Guelph
+Breslau,98023,GR-K-Breslau
+Kirby,98045,GR-B-Kirby
+Trafalgar,98088,GR-M-Trafalgar
+Beamsville,90171,GR-LW-Beamsville

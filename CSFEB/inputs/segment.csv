@@ -1,0 +1,411 @@
+line_id,from_station,to_station,travel_time,dwell_time,vehicle_id
+GT01Ae,Hamilton,Aldershot,15,1,GoTrD2C10
+GT01Ae,Aldershot,Burlington,5,1,GoTrD2C10
+GT01Ae,Burlington,Oakville,10,1,GoTrD2C10
+GT01Ae,Oakville,Union,21,1,GoTrD2C10
+GT01Bw,Union,Oakville,20,1,GoTrD2C10
+GT01Bw,Oakville,Burlington,9,1,GoTrD2C10
+GT01Bw,Burlington,Aldershot,5,1,GoTrD2C10
+GT01Bw,Aldershot,Hamilton,12,1,GoTrD2C10
+GT01Ce,Burlington,Appleby,4,1,GoTrE2C10
+GT01Ce,Appleby,Bronte,4,1,GoTrE2C10
+GT01Ce,Bronte,Oakville,4,1,GoTrE2C10
+GT01Ce,Oakville,Clarkson,4,1,GoTrE2C10
+GT01Ce,Clarkson,Port Credit,4,1,GoTrE2C10
+GT01Ce,Port Credit,Long Branch,4,1,GoTrE2C10
+GT01Ce,Long Branch,Mimico,3,1,GoTrE2C10
+GT01Ce,Mimico,Park Lawn,2,1,GoTrE2C10
+GT01Ce,Park Lawn,Exhibition,4,1,GoTrE2C10
+GT01Ce,Exhibition,Union,4,1,GoTrE2C10
+GT01Dw,Union,Exhibition,4,1,GoTrE2C10
+GT01Dw,Exhibition,Park Lawn,4,1,GoTrE2C10
+GT01Dw,Park Lawn,Mimico,2,1,GoTrE2C10
+GT01Dw,Mimico,Long Branch,4,1,GoTrE2C10
+GT01Dw,Long Branch,Port Credit,3,1,GoTrE2C10
+GT01Dw,Port Credit,Clarkson,4,1,GoTrE2C10
+GT01Dw,Clarkson,Oakville,5,1,GoTrE2C10
+GT01Dw,Oakville,Bronte,4,1,GoTrE2C10
+GT01Dw,Bronte,Appleby,3,1,GoTrE2C10
+GT01Dw,Appleby,Burlington,4,1,GoTrE2C10
+GT01Ee,Aldershot,Burlington,5,1,GoTrD2C10
+GT01Ee,Burlington,Bronte,6,1,GoTrD2C10
+GT01Ee,Bronte,Oakville,4,1,GoTrD2C10
+GT01Ee,Oakville,Clarkson,6,1,GoTrD2C10
+GT01Ee,Clarkson,Exhibition,12,1,GoTrD2C10
+GT01Ee,Exhibition,Union,3,1,GoTrD2C10
+GT01Fw,Union,Exhibition,4,1,GoTrD2C10
+GT01Fw,Exhibition,Clarkson,12,1,GoTrD2C10
+GT01Fw,Clarkson,Oakville,5,1,GoTrD2C10
+GT01Fw,Oakville,Bronte,5,1,GoTrD2C10
+GT01Fw,Bronte,Burlington,6,1,GoTrD2C10
+GT01Fw,Burlington,Aldershot,5,1,GoTrD2C10
+GT01Ge,Aldershot,Burlington,6,1,GoTrD2C10
+GT01Ge,Burlington,Oakville,9,1,GoTrD2C10
+GT01Ge,Oakville,Exhibition,16,1,GoTrD2C10
+GT01Ge,Exhibition,Union,3,1,GoTrD2C10
+GT01Hw,Union,Exhibition,4,1,GoTrD2C10
+GT01Hw,Exhibition,Oakville,15,1,GoTrD2C10
+GT01Hw,Oakville,Burlington,9,1,GoTrD2C10
+GT01Hw,Burlington,Aldershot,5,1,GoTrD2C10
+GT01Ie,Appleby,Bronte,4,1,GoTrE2C10
+GT01Ie,Bronte,Oakville,4,1,GoTrE2C10
+GT01Ie,Oakville,Clarkson,4,1,GoTrE2C10
+GT01Ie,Clarkson,Port Credit,4,1,GoTrE2C10
+GT01Ie,Port Credit,Long Branch,4,1,GoTrE2C10
+GT01Ie,Long Branch,Mimico,3,1,GoTrE2C10
+GT01Ie,Mimico,Park Lawn,2,1,GoTrE2C10
+GT01Ie,Park Lawn,Exhibition,4,1,GoTrE2C10
+GT01Ie,Exhibition,Union,4,1,GoTrE2C10
+GT01Jw,Union,Exhibition,4,1,GoTrE2C10
+GT01Jw,Exhibition,Park Lawn,4,1,GoTrE2C10
+GT01Jw,Park Lawn,Mimico,2,1,GoTrE2C10
+GT01Jw,Mimico,Long Branch,4,1,GoTrE2C10
+GT01Jw,Long Branch,Port Credit,3,1,GoTrE2C10
+GT01Jw,Port Credit,Clarkson,4,1,GoTrE2C10
+GT01Jw,Clarkson,Oakville,5,1,GoTrE2C10
+GT01Jw,Oakville,Bronte,4,1,GoTrE2C10
+GT01Jw,Bronte,Appleby,3,1,GoTrE2C10
+GT01Ke,Niagara Falls,St. Catharines,20,1,GoTrD2C10
+GT01Ke,St. Catharines,Beamsville,14,1,GoTrD2C10
+GT01Ke,Beamsville,Grimsby,7,1,GoTrD2C10
+GT01Ke,Grimsby,Confederation,10,1,GoTrD2C10
+GT01Ke,Confederation,West Harbour,13,1,GoTrD2C10
+GT01Ke,West Harbour,Aldershot,9,1,GoTrD2C10
+GT01Ke,Aldershot,Burlington,5,1,GoTrD2C10
+GT01Ke,Burlington,Bronte,6,1,GoTrD2C10
+GT01Ke,Bronte,Oakville,4,1,GoTrD2C10
+GT01Ke,Oakville,Clarkson,5,1,GoTrD2C10
+GT01Ke,Clarkson,Exhibition,13,1,GoTrD2C10
+GT01Ke,Exhibition,Union,3,1,GoTrD2C10
+GT01Lw,Union,Exhibition,4,1,GoTrD2C10
+GT01Lw,Exhibition,Clarkson,12,1,GoTrD2C10
+GT01Lw,Clarkson,Oakville,5,1,GoTrD2C10
+GT01Lw,Oakville,Bronte,4,1,GoTrD2C10
+GT01Lw,Bronte,Burlington,7,1,GoTrD2C10
+GT01Lw,Burlington,Aldershot,4,1,GoTrD2C10
+GT01Lw,Aldershot,West Harbour,10,1,GoTrD2C10
+GT01Lw,West Harbour,Confederation,12,1,GoTrD2C10
+GT01Lw,Confederation,Grimsby,10,1,GoTrD2C10
+GT01Lw,Grimsby,Beamsville,7,1,GoTrD2C10
+GT01Lw,Beamsville,St. Catharines,14,1,GoTrD2C10
+GT01Lw,St. Catharines,Niagara Falls,20,1,GoTrD2C10
+GT01Me,Niagara Falls,St. Catharines,20,1,GoTrD2C10
+GT01Me,St. Catharines,Beamsville,14,1,GoTrD2C10
+GT01Me,Beamsville,Grimsby,7,1,GoTrD2C10
+GT01Me,Grimsby,Confederation,10,1,GoTrD2C10
+GT01Me,Confederation,West Harbour,12,1,GoTrD2C10
+GT01Me,West Harbour,Aldershot,10,1,GoTrD2C10
+GT01Me,Aldershot,Burlington,5,1,GoTrD2C10
+GT01Me,Burlington,Oakville,9,1,GoTrD2C10
+GT01Me,Oakville,Exhibition,16,1,GoTrD2C10
+GT01Me,Exhibition,Union,3,1,GoTrD2C10
+GT01Nw,Union,Exhibition,4,1,GoTrD2C10
+GT01Nw,Exhibition,Oakville,15,1,GoTrD2C10
+GT01Nw,Oakville,Burlington,9,1,GoTrD2C10
+GT01Nw,Burlington,Aldershot,4,1,GoTrD2C10
+GT01Nw,Aldershot,West Harbour,9,1,GoTrD2C10
+GT01Nw,West Harbour,Confederation,12,1,GoTrD2C10
+GT01Nw,Confederation,Grimsby,9,1,GoTrD2C10
+GT01Nw,Grimsby,Beamsville,7,1,GoTrD2C10
+GT01Nw,Beamsville,St. Catharines,15,1,GoTrD2C10
+GT01Nw,St. Catharines,Niagara Falls,20,1,GoTrD2C10
+GT01Oe,Confederation,West Harbour,12,1,GoTrD2C10
+GT01Oe,West Harbour,Aldershot,9,1,GoTrD2C10
+GT01Oe,Aldershot,Burlington,5,1,GoTrD2C10
+GT01Oe,Burlington,Bronte,6,1,GoTrD2C10
+GT01Oe,Bronte,Oakville,4,1,GoTrD2C10
+GT01Oe,Oakville,Clarkson,6,1,GoTrD2C10
+GT01Oe,Clarkson,Exhibition,12,1,GoTrD2C10
+GT01Oe,Exhibition,Union,3,1,GoTrD2C10
+GT01Pw,Union,Exhibition,4,1,GoTrD2C10
+GT01Pw,Exhibition,Clarkson,12,1,GoTrD2C10
+GT01Pw,Clarkson,Oakville,5,1,GoTrD2C10
+GT01Pw,Oakville,Bronte,5,1,GoTrD2C10
+GT01Pw,Bronte,Burlington,6,1,GoTrD2C10
+GT01Pw,Burlington,Aldershot,5,1,GoTrD2C10
+GT01Pw,Aldershot,West Harbour,9,1,GoTrD2C10
+GT01Pw,West Harbour,Confederation,12,1,GoTrD2C10
+GT01Qe,Confederation,West Harbour,12,1,GoTrD2C10
+GT01Qe,West Harbour,Aldershot,10,1,GoTrD2C10
+GT01Qe,Aldershot,Burlington,4,1,GoTrD2C10
+GT01Qe,Burlington,Oakville,11,1,GoTrD2C10
+GT01Qe,Oakville,Exhibition,17,1,GoTrD2C10
+GT01Qe,Exhibition,Union,4,1,GoTrD2C10
+GT01Rw,Union,Exhibition,4,1,GoTrD2C10
+GT01Rw,Exhibition,Oakville,15,1,GoTrD2C10
+GT01Rw,Oakville,Burlington,9,1,GoTrD2C10
+GT01Rw,Burlington,Aldershot,5,1,GoTrD2C10
+GT01Rw,Aldershot,West Harbour,8,1,GoTrD2C10
+GT01Rw,West Harbour,Confederation,12,1,GoTrD2C10
+GT01Se,West Harbour,Aldershot,9,1,GoTrD2C10
+GT01Se,Aldershot,Burlington,5,1,GoTrD2C10
+GT01Se,Burlington,Bronte,6,1,GoTrD2C10
+GT01Se,Bronte,Oakville,4,1,GoTrD2C10
+GT01Se,Oakville,Clarkson,6,1,GoTrD2C10
+GT01Se,Clarkson,Exhibition,12,1,GoTrD2C10
+GT01Se,Exhibition,Union,3,1,GoTrD2C10
+GT01Tw,Union,Exhibition,4,1,GoTrD2C10
+GT01Tw,Exhibition,Clarkson,12,1,GoTrD2C10
+GT01Tw,Clarkson,Oakville,5,1,GoTrD2C10
+GT01Tw,Oakville,Bronte,5,1,GoTrD2C10
+GT01Tw,Bronte,Burlington,6,1,GoTrD2C10
+GT01Tw,Burlington,Aldershot,5,1,GoTrD2C10
+GT01Tw,Aldershot,West Harbour,9,1,GoTrD2C10
+GT01Ue,West Harbour,Aldershot,10,1,GoTrD2C10
+GT01Ue,Aldershot,Burlington,4,1,GoTrD2C10
+GT01Ue,Burlington,Oakville,11,1,GoTrD2C10
+GT01Ue,Oakville,Exhibition,17,1,GoTrD2C10
+GT01Ue,Exhibition,Union,4,1,GoTrD2C10
+GT01Vw,Union,Exhibition,4,1,GoTrD2C10
+GT01Vw,Exhibition,Oakville,15,1,GoTrD2C10
+GT01Vw,Oakville,Burlington,9,1,GoTrD2C10
+GT01Vw,Burlington,Aldershot,5,1,GoTrD2C10
+GT01Vw,Aldershot,West Harbour,8,1,GoTrD2C10
+GT02Aw,Union,Kipling,14,1,GoTrD2C10
+GT02Aw,Kipling,Dixie,4,1,GoTrD2C10
+GT02Aw,Dixie,Cooksville,5,1,GoTrD2C10
+GT02Aw,Cooksville,Erindale,5,1,GoTrD2C10
+GT02Aw,Erindale,Streetsville,4,1,GoTrD2C10
+GT02Aw,Streetsville,Meadowvale,5,1,GoTrD2C10
+GT02Be,Milton,Lisgar,8,1,GoTrD2C10
+GT02Be,Lisgar,Meadowvale,4,1,GoTrD2C10
+GT02Be,Meadowvale,Streetsville,4,1,GoTrD2C10
+GT02Be,Streetsville,Erindale,4,1,GoTrD2C10
+GT02Be,Erindale,Cooksville,5,1,GoTrD2C10
+GT02Be,Cooksville,Dixie,5,1,GoTrD2C10
+GT02Be,Dixie,Kipling,4,1,GoTrD2C10
+GT02Be,Kipling,Union,14,1,GoTrD2C10
+GT02Cw,Union,Kipling,14,1,GoTrD2C10
+GT02Cw,Kipling,Dixie,4,1,GoTrD2C10
+GT02Cw,Dixie,Cooksville,5,1,GoTrD2C10
+GT02Cw,Cooksville,Erindale,5,1,GoTrD2C10
+GT02Cw,Erindale,Streetsville,4,1,GoTrD2C10
+GT02Cw,Streetsville,Meadowvale,5,1,GoTrD2C10
+GT02Cw,Meadowvale,Lisgar,4,1,GoTrD2C10
+GT02Cw,Lisgar,Milton,8,1,GoTrD2C10
+GT02De,Meadowvale,Streetsville,4,1,GoTrD2C10
+GT02De,Streetsville,Erindale,4,1,GoTrD2C10
+GT02De,Erindale,Cooksville,5,1,GoTrD2C10
+GT02De,Cooksville,Dixie,5,1,GoTrD2C10
+GT02De,Dixie,Kipling,4,1,GoTrD2C10
+GT02De,Kipling,Union,14,1,GoTrD2C10
+GT03Ae,Kitchener,Guelph,16,1,GoTrD2C10
+GT03Ae,Guelph,Acton,12,1,GoTrD2C10
+GT03Ae,Acton,Georgetown,6,1,GoTrD2C10
+GT03Ae,Georgetown,Mount Pleasant,6,1,GoTrD2C10
+GT03Ae,Mount Pleasant,Brampton,4,1,GoTrD2C10
+GT03Ae,Brampton,Bramalea,5,1,GoTrD2C10
+GT03Ae,Bramalea,Malton,4,1,GoTrD2C10
+GT03Ae,Malton,Woodbine,3,1,GoTrD2C10
+GT03Ae,Woodbine,Bloor,7,1,GoTrD2C10
+GT03Ae,Bloor,Union,6,1,GoTrD2C10
+GT03Bw,Union,Bloor,6,1,GoTrD2C10
+GT03Bw,Bloor,Woodbine,8,1,GoTrD2C10
+GT03Bw,Woodbine,Malton,3,1,GoTrD2C10
+GT03Bw,Malton,Bramalea,4,1,GoTrD2C10
+GT03Bw,Bramalea,Brampton,5,1,GoTrD2C10
+GT03Bw,Brampton,Mount Pleasant,4,1,GoTrD2C10
+GT03Bw,Mount Pleasant,Georgetown,6,1,GoTrD2C10
+GT03Bw,Georgetown,Acton,8,1,GoTrD2C10
+GT03Bw,Acton,Guelph,11,1,GoTrD2C10
+GT03Bw,Guelph,Kitchener,17,1,GoTrD2C10
+GT03Ce,Mount Pleasant,Brampton,4,1,GoTrD2C10
+GT03Ce,Brampton,Bramalea,6,1,GoTrD2C10
+GT03Ce,Bramalea,Malton,4,1,GoTrD2C10
+GT03Ce,Malton,Woodbine,3,1,GoTrD2C10
+GT03Ce,Woodbine,Bloor,7,1,GoTrD2C10
+GT03Ce,Bloor,Union,6,1,GoTrD2C10
+GT03Dw,Union,Bloor,6,1,GoTrD2C10
+GT03Dw,Bloor,Woodbine,8,1,GoTrD2C10
+GT03Dw,Woodbine,Malton,3,1,GoTrD2C10
+GT03Dw,Malton,Bramalea,4,1,GoTrD2C10
+GT03Dw,Bramalea,Brampton,6,1,GoTrD2C10
+GT03Dw,Brampton,Mount Pleasant,4,1,GoTrD2C10
+GT03Ee,Bramalea,Malton,4,1,GoTrD2C10
+GT03Ee,Malton,Woodbine,3,1,GoTrD2C10
+GT03Ee,Woodbine,Bloor,7,1,GoTrD2C10
+GT03Ee,Bloor,Union,6,1,GoTrD2C10
+GT03Fw,Union,Bloor,6,1,GoTrD2C10
+GT03Fw,Bloor,Woodbine,8,1,GoTrD2C10
+GT03Fw,Woodbine,Malton,3,1,GoTrD2C10
+GT03Fw,Malton,Bramalea,4,1,GoTrD2C10
+GT04Aw,Union,King-Liberty,4,1,GoTrEMUC12
+GT04Aw,King-Liberty,Bloor,3,1,GoTrEMUC12
+GT04Aw,Bloor,St. Clair West,3,1,GoTrEMUC12
+GT04Aw,St. Clair West,Mt. Dennis,2,1,GoTrEMUC12
+GT04Aw,Mt. Dennis,Weston,3,1,GoTrEMUC12
+GT04Aw,Weston,Woodbine,4,1,GoTrEMUC12
+GT04Aw,Woodbine,Pearson,5,1,GoTrEMUC12
+GT04Be,Pearson,Woodbine,5,1,GoTrEMUC12
+GT04Be,Woodbine,Weston,4,1,GoTrEMUC12
+GT04Be,Weston,Mt. Dennis,2,1,GoTrEMUC12
+GT04Be,Mt. Dennis,St. Clair West,3,1,GoTrEMUC12
+GT04Be,St. Clair West,Bloor,2,1,GoTrEMUC12
+GT04Be,Bloor,King-Liberty,3,1,GoTrEMUC12
+GT04Be,King-Liberty,Union,4,1,GoTrEMUC12
+GT05As,Allandale,Barrie South,6,1,GoTrEMUC12
+GT05As,Barrie South,Innisfil,6,1,GoTrEMUC12
+GT05As,Innisfil,Bradford,10,1,GoTrEMUC12
+GT05As,Bradford,East Gwillimbury,8,1,GoTrEMUC12
+GT05As,East Gwillimbury,Newmarket,2,1,GoTrEMUC12
+GT05As,Newmarket,Aurora,5,1,GoTrEMUC12
+GT05As,Aurora,King City,8,1,GoTrEMUC12
+GT05As,King City,Maple,5,1,GoTrEMUC12
+GT05As,Maple,Rutherford,2,1,GoTrEMUC12
+GT05As,Rutherford,Downsview Park,6,1,GoTrEMUC12
+GT05As,Downsview Park,Caledonia,4,1,GoTrEMUC12
+GT05As,Caledonia,Bloor-Lansdowne,4,1,GoTrEMUC12
+GT05As,Bloor-Lansdowne,Spadina,4,1,GoTrEMUC12
+GT05As,Spadina,Union,2,1,GoTrEMUC12
+GT05Bn,Union,Spadina,2,1,GoTrEMUC12
+GT05Bn,Spadina,Bloor-Lansdowne,4,1,GoTrEMUC12
+GT05Bn,Bloor-Lansdowne,Caledonia,4,1,GoTrEMUC12
+GT05Bn,Caledonia,Downsview Park,5,1,GoTrEMUC12
+GT05Bn,Downsview Park,Rutherford,5,1,GoTrEMUC12
+GT05Bn,Rutherford,Maple,3,1,GoTrEMUC12
+GT05Bn,Maple,King City,5,1,GoTrEMUC12
+GT05Bn,King City,Aurora,8,1,GoTrEMUC12
+GT05Bn,Aurora,Newmarket,6,1,GoTrEMUC12
+GT05Bn,Newmarket,East Gwillimbury,2,1,GoTrEMUC12
+GT05Bn,East Gwillimbury,Bradford,8,1,GoTrEMUC12
+GT05Bn,Bradford,Innisfil,10,1,GoTrEMUC12
+GT05Bn,Innisfil,Barrie South,6,1,GoTrEMUC12
+GT05Bn,Barrie South,Allandale,6,1,GoTrEMUC12
+GT05Cs,Aurora,King City,8,1,GoTrEMUC12
+GT05Cs,King City,Maple,5,1,GoTrEMUC12
+GT05Cs,Maple,Rutherford,2,1,GoTrEMUC12
+GT05Cs,Rutherford,Downsview Park,6,1,GoTrEMUC12
+GT05Cs,Downsview Park,Caledonia,4,1,GoTrEMUC12
+GT05Cs,Caledonia,Bloor-Lansdowne,4,1,GoTrEMUC12
+GT05Cs,Bloor-Lansdowne,Spadina,4,1,GoTrEMUC12
+GT05Cs,Spadina,Union,2,1,GoTrEMUC12
+GT05Dn,Union,Spadina,2,1,GoTrEMUC12
+GT05Dn,Spadina,Bloor-Lansdowne,4,1,GoTrEMUC12
+GT05Dn,Bloor-Lansdowne,Caledonia,4,1,GoTrEMUC12
+GT05Dn,Caledonia,Downsview Park,5,1,GoTrEMUC12
+GT05Dn,Downsview Park,Rutherford,5,1,GoTrEMUC12
+GT05Dn,Rutherford,Maple,3,1,GoTrEMUC12
+GT05Dn,Maple,King City,5,1,GoTrEMUC12
+GT05Dn,King City,Aurora,8,1,GoTrEMUC12
+GT06As,Bloomington,Gormley,4,1,GoTrD2C10
+GT06As,Gormley,Richmond Hill,8,1,GoTrD2C10
+GT06As,Richmond Hill,Langstaff,4,1,GoTrD2C10
+GT06As,Langstaff,Old Cummer,5,1,GoTrD2C10
+GT06As,Old Cummer,Oriole,3,1,GoTrD2C10
+GT06As,Oriole,Union,21,1,GoTrD2C10
+GT06Bn,Union,Oriole,23,1,GoTrD2C10
+GT06Bn,Oriole,Old Cummer,3,1,GoTrD2C10
+GT06Bn,Old Cummer,Langstaff,5,1,GoTrD2C10
+GT06Bn,Langstaff,Richmond Hill,4,1,GoTrD2C10
+GT06Bn,Richmond Hill,Gormley,8,1,GoTrD2C10
+GT06Bn,Gormley,Bloomington,4,1,GoTrD2C10
+GT06Cs,Old Cummer,Oriole,3,1,GoTrD2C10
+GT06Cs,Oriole,Union,21,1,GoTrD2C10
+GT06Dn,Union,Oriole,22,1,GoTrD2C10
+GT06Dn,Oriole,Old Cummer,2,1,GoTrD2C10
+GT07As,Old Elm,Stouffville,3,1,GoTrEMUC12
+GT07As,Stouffville,Mount Joy,6,1,GoTrEMUC12
+GT07As,Mount Joy,Markham,2,1,GoTrEMUC12
+GT07As,Markham,Centennial,2,1,GoTrEMUC12
+GT07As,Centennial,Unionville,3,1,GoTrEMUC12
+GT07As,Unionville,Milliken,4,1,GoTrEMUC12
+GT07As,Milliken,Finch East,2,1,GoTrEMUC12
+GT07As,Finch East,Agincourt,2,1,GoTrEMUC12
+GT07As,Agincourt,Kennedy,5,1,GoTrEMUC12
+GT07As,Kennedy,Scarborough,2,1,GoTrEMUC12
+GT07As,Scarborough,East Harbour,6,1,GoTrEMUC12
+GT07As,East Harbour,Union,3,1,GoTrEMUC12
+GT07Bn,Union,East Harbour,3,1,GoTrEMUC12
+GT07Bn,East Harbour,Scarborough,7,1,GoTrEMUC12
+GT07Bn,Scarborough,Kennedy,2,1,GoTrEMUC12
+GT07Bn,Kennedy,Agincourt,5,1,GoTrEMUC12
+GT07Bn,Agincourt,Finch East,2,1,GoTrEMUC12
+GT07Bn,Finch East,Milliken,2,1,GoTrEMUC12
+GT07Bn,Milliken,Unionville,4,1,GoTrEMUC12
+GT07Bn,Unionville,Centennial,3,1,GoTrEMUC12
+GT07Bn,Centennial,Markham,2,1,GoTrEMUC12
+GT07Bn,Markham,Mount Joy,2,1,GoTrEMUC12
+GT07Bn,Mount Joy,Stouffville,6,1,GoTrEMUC12
+GT07Bn,Stouffville,Old Elm,3,1,GoTrEMUC12
+GT07Cs,Unionville,Milliken,4,1,GoTrEMUC12
+GT07Cs,Milliken,Finch East,2,1,GoTrEMUC12
+GT07Cs,Finch East,Agincourt,2,1,GoTrEMUC12
+GT07Cs,Agincourt,Kennedy,5,1,GoTrEMUC12
+GT07Cs,Kennedy,Scarborough,2,1,GoTrEMUC12
+GT07Cs,Scarborough,East Harbour,6,1,GoTrEMUC12
+GT07Cs,East Harbour,Union,3,1,GoTrEMUC12
+GT07Dn,Union,East Harbour,3,1,GoTrEMUC12
+GT07Dn,East Harbour,Scarborough,7,1,GoTrEMUC12
+GT07Dn,Scarborough,Kennedy,2,1,GoTrEMUC12
+GT07Dn,Kennedy,Agincourt,5,1,GoTrEMUC12
+GT07Dn,Agincourt,Finch East,2,1,GoTrEMUC12
+GT07Dn,Finch East,Milliken,2,1,GoTrEMUC12
+GT07Dn,Milliken,Unionville,4,1,GoTrEMUC12
+GT07Es,Mount Joy,Markham,2,1,GoTrEMUC12
+GT07Es,Markham,Centennial,2,1,GoTrEMUC12
+GT07Es,Centennial,Unionville,3,1,GoTrEMUC12
+GT07Es,Unionville,Milliken,4,1,GoTrEMUC12
+GT07Es,Milliken,Finch East,2,1,GoTrEMUC12
+GT07Es,Finch East,Agincourt,2,1,GoTrEMUC12
+GT07Es,Agincourt,Kennedy,5,1,GoTrEMUC12
+GT07Es,Kennedy,Scarborough,2,1,GoTrEMUC12
+GT07Es,Scarborough,East Harbour,6,1,GoTrEMUC12
+GT07Es,East Harbour,Union,3,1,GoTrEMUC12
+GT07Fn,Union,East Harbour,3,1,GoTrEMUC12
+GT07Fn,East Harbour,Scarborough,7,1,GoTrEMUC12
+GT07Fn,Scarborough,Kennedy,2,1,GoTrEMUC12
+GT07Fn,Kennedy,Agincourt,5,1,GoTrEMUC12
+GT07Fn,Agincourt,Finch East,2,1,GoTrEMUC12
+GT07Fn,Finch East,Milliken,2,1,GoTrEMUC12
+GT07Fn,Milliken,Unionville,4,1,GoTrEMUC12
+GT07Fn,Unionville,Centennial,3,1,GoTrEMUC12
+GT07Fn,Centennial,Markham,2,1,GoTrEMUC12
+GT07Fn,Markham,Mount Joy,2,1,GoTrEMUC12
+GT08Aw,Oshawa,Whitby,4,1,GoTrE2C10
+GT08Aw,Whitby,Ajax,5,1,GoTrE2C10
+GT08Aw,Ajax,Pickering,3,1,GoTrE2C10
+GT08Aw,Pickering,Rouge Hill,4,1,GoTrE2C10
+GT08Aw,Rouge Hill,Guildwood,5,1,GoTrE2C10
+GT08Aw,Guildwood,Eglinton,3,1,GoTrE2C10
+GT08Aw,Eglinton,Danforth,5,1,GoTrE2C10
+GT08Aw,Danforth,East Harbour,4,1,GoTrE2C10
+GT08Aw,East Harbour,Union,3,1,GoTrE2C10
+GT08Be,Union,East Harbour,4,1,GoTrE2C10
+GT08Be,East Harbour,Danforth,4,1,GoTrE2C10
+GT08Be,Danforth,Eglinton,6,1,GoTrE2C10
+GT08Be,Eglinton,Guildwood,3,1,GoTrE2C10
+GT08Be,Guildwood,Rouge Hill,4,1,GoTrE2C10
+GT08Be,Rouge Hill,Pickering,4,1,GoTrE2C10
+GT08Be,Pickering,Ajax,3,1,GoTrE2C10
+GT08Be,Ajax,Whitby,6,1,GoTrE2C10
+GT08Be,Whitby,Oshawa,3,1,GoTrE2C10
+GT08Cw,Bowmanville,Courtice,6,1,GoTrD2C10
+GT08Cw,Courtice,Oshawa Ritson,5,1,GoTrD2C10
+GT08Cw,Oshawa Ritson,Thornton,2,1,GoTrD2C10
+GT08Cw,Thornton,Oshawa,5,1,GoTrD2C10
+GT08Cw,Oshawa,Pickering,9,1,GoTrD2C10
+GT08Cw,Pickering,East Harbour,17,1,GoTrD2C10
+GT08Cw,East Harbour,Union,3,1,GoTrD2C10
+GT08De,Union,East Harbour,3,1,GoTrD2C10
+GT08De,East Harbour,Pickering,17,1,GoTrD2C10
+GT08De,Pickering,Oshawa,10,1,GoTrD2C10
+GT08De,Oshawa,Thornton,5,1,GoTrD2C10
+GT08De,Thornton,Oshawa Ritson,3,1,GoTrD2C10
+GT08De,Oshawa Ritson,Courtice,5,1,GoTrD2C10
+GT08De,Courtice,Bowmanville,7,1,GoTrD2C10
+GT08Ew,Whitby,Ajax,5,1,GoTrE2C10
+GT08Ew,Ajax,Pickering,3,1,GoTrE2C10
+GT08Ew,Pickering,Rouge Hill,4,1,GoTrE2C10
+GT08Ew,Rouge Hill,Guildwood,5,1,GoTrE2C10
+GT08Ew,Guildwood,Eglinton,3,1,GoTrE2C10
+GT08Ew,Eglinton,Danforth,5,1,GoTrE2C10
+GT08Ew,Danforth,East Harbour,4,1,GoTrE2C10
+GT08Ew,East Harbour,Union,3,1,GoTrE2C10
+GT08Fe,Union,East Harbour,4,1,GoTrE2C10
+GT08Fe,East Harbour,Danforth,4,1,GoTrE2C10
+GT08Fe,Danforth,Eglinton,6,1,GoTrE2C10
+GT08Fe,Eglinton,Guildwood,3,1,GoTrE2C10
+GT08Fe,Guildwood,Rouge Hill,4,1,GoTrE2C10
+GT08Fe,Rouge Hill,Pickering,4,1,GoTrE2C10
+GT08Fe,Pickering,Ajax,3,1,GoTrE2C10
+GT08Fe,Ajax,Whitby,6,1,GoTrE2C10
